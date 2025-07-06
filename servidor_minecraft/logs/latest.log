@@ -142,3 +142,25 @@
 [22:39:54] [Async Chat Thread - #4/INFO]: [Not Secure] <Kiki_gm> u
 [22:39:55] [Server thread/INFO]: AgustinEz2 joined the game
 [22:39:55] [Server thread/INFO]: AgustinEz2[/127.85.175.63:55379] logged in with entity id 7174 at ([world]357.46614540406284, -59.0, -1542.6993879558333)
+[22:41:08] [Async Chat Thread - #6/INFO]: [Not Secure] <Dn0611> a
+[22:41:11] [Async Chat Thread - #6/INFO]: [Not Secure] <AgustinEz2> b
+[22:41:15] [Async Chat Thread - #6/INFO]: [Not Secure] <Dn0611> c
+[22:41:15] [Async Chat Thread - #6/INFO]: [Not Secure] <Kiki_gm> c
+[22:41:19] [Async Chat Thread - #6/INFO]: [Not Secure] <AgustinEz2> d
+[22:41:22] [Async Chat Thread - #6/INFO]: [Not Secure] <Dn0611> e
+[22:41:25] [Async Chat Thread - #6/INFO]: [Not Secure] <Kiki_gm> f
+[22:41:34] [Async Chat Thread - #6/INFO]: [Not Secure] <AgustinEz2> h
+[22:41:42] [Async Chat Thread - #6/INFO]: [Not Secure] <AgustinEz2> g
+[22:42:19] [Server thread/INFO]: AgustinEz2 lost connection: Timed out
+[22:42:19] [Server thread/INFO]: AgustinEz2 left the game
+[22:42:38] [User Authenticator #4/INFO]: UUID of player AgustinEz2 is dd4c0740-061a-3a0b-832c-bdde761d88a2
+[22:42:39] [Server thread/INFO]: AgustinEz2 joined the game
+[22:42:39] [Server thread/INFO]: AgustinEz2[/127.85.175.63:56373] logged in with entity id 7821 at ([world]353.1991580287999, -59.0, -1533.849381390607)
+[22:42:56] [Server thread/INFO]: You whisper to Kiki_gm: oa
+[22:42:56] [Server thread/INFO]: You whisper to Dn0611: oa
+[22:42:56] [Server thread/INFO]: You whisper to AgustinEz2: oa
+[22:43:22] [Server thread/INFO]: You whisper to Kiki_gm: empanadas
+[22:43:22] [Server thread/INFO]: You whisper to Dn0611: empanadas
+[22:43:22] [Server thread/INFO]: You whisper to AgustinEz2: empanadas
+[22:47:28] [Server thread/INFO]: AgustinEz2 issued server command: /tp Kiki_gm
+[22:50:55] [Server thread/INFO]: AgustinEz2 issued server command: /tp Kiki_gm AgustinEz2
