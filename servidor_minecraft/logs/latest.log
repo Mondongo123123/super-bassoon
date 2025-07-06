@@ -501,3 +501,1464 @@
 [02:39:07] [Server thread/INFO]: [Chunky] Task running for world. Processed: 9659 chunks (0.62%), ETA: 19:28:08, Rate: 22.2 cps, Current: 72, 54
 [02:39:08] [Server thread/INFO]: [Chunky] Task running for world. Processed: 9700 chunks (0.62%), ETA: 19:05:29, Rate: 22.6 cps, Current: 75, 48
 [02:39:10] [Server thread/INFO]: [Chunky] Task running for world. Processed: 9730 chunks (0.62%), ETA: 19:50:26, Rate: 21.8 cps, Current: 80, 49
+[02:39:11] [Server thread/INFO]: [Chunky] Task running for world. Processed: 9732 chunks (0.62%), ETA: 21:59:19, Rate: 19.6 cps, Current: 81, 50
+[02:39:12] [Server thread/INFO]: [Chunky] Task running for world. Processed: 9758 chunks (0.62%), ETA: 23:10:46, Rate: 18.6 cps, Current: 83, 49
+[02:39:13] [Server thread/INFO]: [Chunky] Task running for world. Processed: 9776 chunks (0.62%), ETA: 23:01:09, Rate: 18.8 cps, Current: 83, 48
+[02:39:14] [Server thread/INFO]: AgustinEz2 issued server command: /angelchestinfo
+[02:39:14] [Server thread/INFO]: [Chunky] Task running for world. Processed: 9787 chunks (0.63%), ETA: 23:18:18, Rate: 18.5 cps, Current: 82, 55
+[02:39:15] [Server thread/INFO]: [Chunky] Task running for world. Processed: 9811 chunks (0.63%), ETA: 22:59:39, Rate: 18.8 cps, Current: 81, 62
+[02:39:16] [Server thread/INFO]: [Chunky] Task running for world. Processed: 9833 chunks (0.63%), ETA: 22:38:11, Rate: 19.1 cps, Current: 81, 63
+[02:39:17] [Server thread/INFO]: [Chunky] Task running for world. Processed: 9850 chunks (0.63%), ETA: 22:13:30, Rate: 19.4 cps, Current: 89, 57
+[02:39:19] [Server thread/INFO]: [Chunky] Task running for world. Processed: 9869 chunks (0.63%), ETA: 22:45:03, Rate: 19.0 cps, Current: 90, 59
+[02:39:20] [Server thread/INFO]: [Chunky] Task running for world. Processed: 9885 chunks (0.63%), ETA: 22:22:39, Rate: 19.3 cps, Current: 88, 63
+[02:39:21] [Server thread/INFO]: [Chunky] Task running for world. Processed: 9898 chunks (0.63%), ETA: 22:48:37, Rate: 18.9 cps, Current: 94, 62
+[02:39:22] [Server thread/INFO]: [Chunky] Task running for world. Processed: 9914 chunks (0.63%), ETA: 22:56:00, Rate: 18.8 cps, Current: 94, 58
+[02:39:23] [Server thread/INFO]: [Chunky] Task running for world. Processed: 9935 chunks (0.63%), ETA: 22:42:16, Rate: 19.0 cps, Current: 95, 58
+[02:39:24] [Server thread/INFO]: [Chunky] Task running for world. Processed: 9950 chunks (0.64%), ETA: 22:37:10, Rate: 19.1 cps, Current: 89, 50
+[02:39:25] [Server thread/INFO]: [Chunky] Task running for world. Processed: 9963 chunks (0.64%), ETA: 22:56:47, Rate: 18.8 cps, Current: 95, 52
+[02:39:27] [Server thread/INFO]: [Chunky] Task running for world. Processed: 9972 chunks (0.64%), ETA: 25:38:14, Rate: 16.8 cps, Current: 93, 50
+[02:39:28] [Server thread/INFO]: [Chunky] Task running for world. Processed: 9992 chunks (0.64%), ETA: 26:16:51, Rate: 16.4 cps, Current: 93, 43
+[02:39:28] [Server thread/INFO]: AgustinEz2 issued server command: /angelchestlist
+[02:39:29] [Server thread/INFO]: [Chunky] Task running for world. Processed: 10007 chunks (0.64%), ETA: 26:55:34, Rate: 16.0 cps, Current: 94, 41
+[02:39:31] [Server thread/INFO]: [Chunky] Task running for world. Processed: 10019 chunks (0.64%), ETA: 28:31:48, Rate: 15.1 cps, Current: 92, 41
+[02:39:32] [Server thread/INFO]: [Chunky] Task running for world. Processed: 10046 chunks (0.64%), ETA: 27:54:32, Rate: 15.5 cps, Current: 89, 41
+[02:39:33] [Server thread/INFO]: [Chunky] Task running for world. Processed: 10056 chunks (0.64%), ETA: 28:31:41, Rate: 15.1 cps, Current: 91, 40
+[02:39:34] [Server thread/INFO]: [Chunky] Task running for world. Processed: 10067 chunks (0.64%), ETA: 28:32:54, Rate: 15.1 cps, Current: 80, 44
+[02:39:35] [Server thread/INFO]: [Chunky] Task running for world. Processed: 10107 chunks (0.65%), ETA: 27:14:44, Rate: 15.9 cps, Current: 86, 40
+[02:39:37] [Server thread/INFO]: [Chunky] Task running for world. Processed: 10129 chunks (0.65%), ETA: 29:08:26, Rate: 14.8 cps, Current: 86, 38
+[02:39:38] [Server thread/INFO]: [Chunky] Task running for world. Processed: 10145 chunks (0.65%), ETA: 29:30:23, Rate: 14.6 cps, Current: 81, 34
+[02:39:39] [Server thread/INFO]: [Chunky] Task running for world. Processed: 10155 chunks (0.65%), ETA: 29:54:05, Rate: 14.4 cps, Current: 81, 32
+[02:39:39] [Server thread/INFO]: AgustinEz2 issued server command: /chunky progress
+[02:39:40] [Server thread/INFO]: [Chunky] Task running for world. Processed: 10184 chunks (0.65%), ETA: 28:20:37, Rate: 15.2 cps, Current: 86, 33
+[02:39:42] [Server thread/INFO]: [Chunky] Task running for world. Processed: 10206 chunks (0.65%), ETA: 28:36:23, Rate: 15.1 cps, Current: 86, 32
+[02:39:43] [Server thread/INFO]: [Chunky] Task running for world. Processed: 10224 chunks (0.65%), ETA: 28:34:34, Rate: 15.1 cps, Current: 93, 35
+[02:39:44] [Server thread/INFO]: [Chunky] Task running for world. Processed: 10240 chunks (0.65%), ETA: 28:17:16, Rate: 15.3 cps, Current: 65, 2
+[02:39:45] [Server thread/INFO]: [Chunky] Task running for world. Processed: 10258 chunks (0.66%), ETA: 28:45:18, Rate: 15.0 cps, Current: 94, 32
+[02:39:46] [Server thread/INFO]: [Chunky] Task running for world. Processed: 10274 chunks (0.66%), ETA: 29:14:03, Rate: 14.8 cps, Current: 66, 7
+[02:39:47] [Server thread/INFO]: [Chunky] Task running for world. Processed: 10290 chunks (0.66%), ETA: 29:16:36, Rate: 14.8 cps, Current: 68, 0
+[02:39:48] [Server thread/INFO]: [Chunky] Task running for world. Processed: 10303 chunks (0.66%), ETA: 29:31:34, Rate: 14.6 cps, Current: 72, 2
+[02:39:49] [Server thread/INFO]: [Chunky] Task running for world. Processed: 10314 chunks (0.66%), ETA: 29:54:23, Rate: 14.4 cps, Current: 74, 1
+[02:39:51] [Server thread/INFO]: [Chunky] Task running for world. Processed: 10340 chunks (0.66%), ETA: 29:10:29, Rate: 14.8 cps, Current: 78, 3
+[02:39:52] [Server thread/INFO]: [Chunky] Task running for world. Processed: 10363 chunks (0.66%), ETA: 28:39:49, Rate: 15.1 cps, Current: 79, 4
+[02:39:53] [Server thread/INFO]: [Chunky] Task running for world. Processed: 10385 chunks (0.66%), ETA: 28:46:43, Rate: 15.0 cps, Current: 72, 10
+[02:39:54] [Server thread/INFO]: [Chunky] Task running for world. Processed: 10403 chunks (0.66%), ETA: 28:22:56, Rate: 15.2 cps, Current: 78, 11
+[02:39:56] [Server thread/INFO]: [Chunky] Task running for world. Processed: 10425 chunks (0.67%), ETA: 27:20:34, Rate: 15.8 cps, Current: 74, 14
+[02:39:57] [Server thread/INFO]: [Chunky] Task running for world. Processed: 10490 chunks (0.67%), ETA: 24:53:33, Rate: 17.3 cps, Current: 70, 15
+[02:39:58] [Server thread/INFO]: [Chunky] Task running for world. Processed: 10509 chunks (0.67%), ETA: 24:54:37, Rate: 17.3 cps, Current: 65, 18
+[02:39:59] [Server thread/INFO]: [Chunky] Task running for world. Processed: 10542 chunks (0.67%), ETA: 24:09:02, Rate: 17.9 cps, Current: 64, 25
+[02:40:00] [Server thread/INFO]: [Chunky] Task running for world. Processed: 10579 chunks (0.68%), ETA: 22:37:22, Rate: 19.1 cps, Current: 67, 30
+[02:40:01] [Server thread/INFO]: [Chunky] Task running for world. Processed: 10625 chunks (0.68%), ETA: 21:51:36, Rate: 19.8 cps, Current: 72, 31
+[02:40:02] [Server thread/INFO]: [Chunky] Task running for world. Processed: 10655 chunks (0.68%), ETA: 21:00:44, Rate: 20.5 cps, Current: 75, 29
+[02:40:04] [Server thread/INFO]: [Chunky] Task running for world. Processed: 10676 chunks (0.68%), ETA: 20:42:16, Rate: 20.9 cps, Current: 76, 23
+[02:40:05] [Server thread/INFO]: [Chunky] Task running for world. Processed: 10723 chunks (0.69%), ETA: 20:31:09, Rate: 21.0 cps, Current: 79, 26
+[02:40:07] [Server thread/INFO]: [Chunky] Task running for world. Processed: 10754 chunks (0.69%), ETA: 20:39:06, Rate: 20.9 cps, Current: 80, 17
+[02:40:08] [Server thread/INFO]: [Chunky] Task running for world. Processed: 10756 chunks (0.69%), ETA: 20:57:35, Rate: 20.6 cps, Current: 81, 18
+[02:40:10] [Server thread/INFO]: [Chunky] Task running for world. Processed: 10773 chunks (0.69%), ETA: 21:16:26, Rate: 20.3 cps, Current: 82, 17
+[02:40:11] [Server thread/INFO]: [Chunky] Task running for world. Processed: 10790 chunks (0.69%), ETA: 21:25:28, Rate: 20.2 cps, Current: 86, 19
+[02:40:12] [Server thread/INFO]: [Chunky] Task running for world. Processed: 10811 chunks (0.69%), ETA: 21:20:16, Rate: 20.2 cps, Current: 84, 16
+[02:40:13] [Server thread/INFO]: [Chunky] Task running for world. Processed: 10849 chunks (0.69%), ETA: 20:30:04, Rate: 21.1 cps, Current: 84, 24
+[02:40:14] [Server thread/INFO]: [Chunky] Task running for world. Processed: 10890 chunks (0.70%), ETA: 19:56:46, Rate: 21.6 cps, Current: 89, 26
+[02:40:15] [Server thread/INFO]: [Chunky] Task running for world. Processed: 10917 chunks (0.70%), ETA: 19:31:38, Rate: 22.1 cps, Current: 93, 28
+[02:40:16] [Server thread/INFO]: [Chunky] Task running for world. Processed: 10941 chunks (0.70%), ETA: 19:14:41, Rate: 22.4 cps, Current: 93, 23
+[02:40:17] [Server thread/INFO]: [Chunky] Task running for world. Processed: 10970 chunks (0.70%), ETA: 18:48:37, Rate: 22.9 cps, Current: 89, 19
+[02:40:18] [Server thread/INFO]: [Chunky] Task running for world. Processed: 10992 chunks (0.70%), ETA: 18:38:03, Rate: 23.2 cps, Current: 90, 17
+[02:40:19] [Server thread/INFO]: [Chunky] Task running for world. Processed: 11004 chunks (0.70%), ETA: 18:40:19, Rate: 23.1 cps, Current: 93, 15
+[02:40:20] [Server thread/INFO]: [Chunky] Task running for world. Processed: 11019 chunks (0.70%), ETA: 18:49:11, Rate: 22.9 cps, Current: 93, 10
+[02:40:22] [Server thread/INFO]: [Chunky] Task running for world. Processed: 11044 chunks (0.71%), ETA: 18:48:35, Rate: 22.9 cps, Current: 91, 9
+[02:40:23] [Server thread/INFO]: [Chunky] Task running for world. Processed: 11074 chunks (0.71%), ETA: 18:27:02, Rate: 23.4 cps, Current: 80, 14
+[02:40:24] [Server thread/INFO]: [Chunky] Task running for world. Processed: 11105 chunks (0.71%), ETA: 18:05:37, Rate: 23.9 cps, Current: 87, 11
+[02:40:25] [Server thread/INFO]: [Chunky] Task running for world. Processed: 11146 chunks (0.71%), ETA: 17:22:19, Rate: 24.8 cps, Current: 85, 6
+[02:40:26] [Server thread/INFO]: [Chunky] Task running for world. Processed: 11170 chunks (0.71%), ETA: 18:21:36, Rate: 23.5 cps, Current: 82, 2
+[02:40:27] [Server thread/INFO]: [Chunky] Task running for world. Processed: 11195 chunks (0.72%), ETA: 18:19:48, Rate: 23.5 cps, Current: 84, 1
+[02:40:28] [Server thread/INFO]: [Chunky] Task running for world. Processed: 11227 chunks (0.72%), ETA: 18:05:24, Rate: 23.9 cps, Current: 86, 0
+[02:40:30] [Server thread/INFO]: [Chunky] Task running for world. Processed: 11247 chunks (0.72%), ETA: 18:53:11, Rate: 22.9 cps, Current: 94, 5
+[02:40:31] [Server thread/INFO]: [Chunky] Task running for world. Processed: 11272 chunks (0.72%), ETA: 19:35:41, Rate: 22.0 cps, Current: 95, 4
+[02:40:32] [Server thread/INFO]: [Chunky] Task running for world. Processed: 11288 chunks (0.72%), ETA: 20:05:57, Rate: 21.5 cps, Current: 67, -26
+[02:40:33] [Server thread/INFO]: [Chunky] Task running for world. Processed: 11306 chunks (0.72%), ETA: 20:12:52, Rate: 21.4 cps, Current: 70, -29
+[02:40:34] [Server thread/INFO]: [Chunky] Task running for world. Processed: 11316 chunks (0.72%), ETA: 21:33:44, Rate: 20.0 cps, Current: 69, -25
+[02:40:36] [Server thread/INFO]: [Chunky] Task running for world. Processed: 11332 chunks (0.72%), ETA: 21:06:14, Rate: 20.4 cps, Current: 70, -32
+[02:40:37] [Server thread/INFO]: [Chunky] Task running for world. Processed: 11364 chunks (0.73%), ETA: 21:03:17, Rate: 20.5 cps, Current: 72, -26
+[02:40:38] [Server thread/INFO]: [Chunky] Task running for world. Processed: 11387 chunks (0.73%), ETA: 20:27:24, Rate: 21.1 cps, Current: 79, -28
+[02:40:39] [Server thread/INFO]: [Chunky] Task running for world. Processed: 11409 chunks (0.73%), ETA: 20:18:02, Rate: 21.3 cps, Current: 78, -24
+[02:40:41] [Server thread/INFO]: [Chunky] Task running for world. Processed: 11422 chunks (0.73%), ETA: 20:22:51, Rate: 21.2 cps, Current: 77, -19
+[02:40:42] [Server thread/INFO]: [Chunky] Task running for world. Processed: 11433 chunks (0.73%), ETA: 20:42:26, Rate: 20.8 cps, Current: 75, -19
+[02:40:44] [Server thread/INFO]: [Chunky] Task running for world. Processed: 11449 chunks (0.73%), ETA: 22:40:01, Rate: 19.0 cps, Current: 74, -18
+[02:40:45] [Server thread/WARN]: java.lang.ClassNotFoundException: org.bukkit.craftbukkit.craftbukkit.entity.CraftPlayer
+[02:40:45] [Server thread/WARN]: 	at org.bukkit.plugin.java.PluginClassLoader.loadClass0(PluginClassLoader.java:197)
+[02:40:45] [Server thread/WARN]: 	at org.bukkit.plugin.java.PluginClassLoader.loadClass(PluginClassLoader.java:164)
+[02:40:45] [Server thread/WARN]: 	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:526)
+[02:40:45] [Server thread/WARN]: 	at java.base/java.lang.Class.forName0(Native Method)
+[02:40:45] [Server thread/WARN]: 	at java.base/java.lang.Class.forName(Class.java:534)
+[02:40:45] [Server thread/WARN]: 	at java.base/java.lang.Class.forName(Class.java:513)
+[02:40:45] [Server thread/WARN]: 	at io.papermc.reflectionrewriter.runtime.AbstractDefaultRulesReflectionProxy.forName(AbstractDefaultRulesReflectionProxy.java:68)
+[02:40:45] [Server thread/WARN]: 	at io.papermc.paper.pluginremap.reflect.PaperReflectionHolder.forName(Unknown Source)
+[02:40:45] [Server thread/WARN]: 	at ActionHealth-3.5.9-all.jar//com.zeshanaslam.actionhealth.utils.HealthUtil.sendActionBar(HealthUtil.java:278)
+[02:40:45] [Server thread/WARN]: 	at ActionHealth-3.5.9-all.jar//com.zeshanaslam.actionhealth.utils.HealthUtil.sendHealth(HealthUtil.java:77)
+[02:40:45] [Server thread/WARN]: 	at ActionHealth-3.5.9-all.jar//com.zeshanaslam.actionhealth.LookThread.run(LookThread.java:45)
+[02:40:45] [Server thread/WARN]: 	at org.bukkit.craftbukkit.scheduler.CraftTask.run(CraftTask.java:86)
+[02:40:45] [Server thread/WARN]: 	at org.bukkit.craftbukkit.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:475)
+[02:40:45] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1726)
+[02:40:45] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:473)
+[02:40:45] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1598)
+[02:40:45] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1304)
+[02:40:45] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:330)
+[02:40:45] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[02:40:45] [Server thread/WARN]: java.lang.ClassNotFoundException: org.bukkit.craftbukkit.craftbukkit.entity.CraftPlayer
+[02:40:45] [Server thread/WARN]: 	at org.bukkit.plugin.java.PluginClassLoader.loadClass0(PluginClassLoader.java:197)
+[02:40:45] [Server thread/WARN]: 	at org.bukkit.plugin.java.PluginClassLoader.loadClass(PluginClassLoader.java:164)
+[02:40:45] [Server thread/WARN]: 	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:526)
+[02:40:45] [Server thread/WARN]: 	at java.base/java.lang.Class.forName0(Native Method)
+[02:40:45] [Server thread/WARN]: 	at java.base/java.lang.Class.forName(Class.java:534)
+[02:40:45] [Server thread/WARN]: 	at java.base/java.lang.Class.forName(Class.java:513)
+[02:40:45] [Server thread/WARN]: 	at io.papermc.reflectionrewriter.runtime.AbstractDefaultRulesReflectionProxy.forName(AbstractDefaultRulesReflectionProxy.java:68)
+[02:40:45] [Server thread/WARN]: 	at io.papermc.paper.pluginremap.reflect.PaperReflectionHolder.forName(Unknown Source)
+[02:40:45] [Server thread/WARN]: 	at ActionHealth-3.5.9-all.jar//com.zeshanaslam.actionhealth.utils.HealthUtil.sendActionBar(HealthUtil.java:278)
+[02:40:45] [Server thread/WARN]: 	at ActionHealth-3.5.9-all.jar//com.zeshanaslam.actionhealth.utils.HealthUtil.sendHealth(HealthUtil.java:77)
+[02:40:45] [Server thread/WARN]: 	at ActionHealth-3.5.9-all.jar//com.zeshanaslam.actionhealth.LookThread.run(LookThread.java:45)
+[02:40:45] [Server thread/WARN]: 	at org.bukkit.craftbukkit.scheduler.CraftTask.run(CraftTask.java:86)
+[02:40:45] [Server thread/WARN]: 	at org.bukkit.craftbukkit.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:475)
+[02:40:45] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1726)
+[02:40:45] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:473)
+[02:40:45] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1598)
+[02:40:45] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1304)
+[02:40:45] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:330)
+[02:40:45] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[02:40:45] [Server thread/WARN]: java.lang.ClassNotFoundException: org.bukkit.craftbukkit.craftbukkit.entity.CraftPlayer
+[02:40:45] [Server thread/WARN]: 	at org.bukkit.plugin.java.PluginClassLoader.loadClass0(PluginClassLoader.java:197)
+[02:40:45] [Server thread/WARN]: 	at org.bukkit.plugin.java.PluginClassLoader.loadClass(PluginClassLoader.java:164)
+[02:40:45] [Server thread/WARN]: 	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:526)
+[02:40:45] [Server thread/WARN]: 	at java.base/java.lang.Class.forName0(Native Method)
+[02:40:45] [Server thread/WARN]: 	at java.base/java.lang.Class.forName(Class.java:534)
+[02:40:45] [Server thread/WARN]: 	at java.base/java.lang.Class.forName(Class.java:513)
+[02:40:45] [Server thread/WARN]: 	at io.papermc.reflectionrewriter.runtime.AbstractDefaultRulesReflectionProxy.forName(AbstractDefaultRulesReflectionProxy.java:68)
+[02:40:45] [Server thread/WARN]: 	at io.papermc.paper.pluginremap.reflect.PaperReflectionHolder.forName(Unknown Source)
+[02:40:45] [Server thread/WARN]: 	at ActionHealth-3.5.9-all.jar//com.zeshanaslam.actionhealth.utils.HealthUtil.sendActionBar(HealthUtil.java:278)
+[02:40:45] [Server thread/WARN]: 	at ActionHealth-3.5.9-all.jar//com.zeshanaslam.actionhealth.utils.HealthUtil.sendHealth(HealthUtil.java:77)
+[02:40:45] [Server thread/WARN]: 	at ActionHealth-3.5.9-all.jar//com.zeshanaslam.actionhealth.LookThread.run(LookThread.java:45)
+[02:40:45] [Server thread/WARN]: 	at org.bukkit.craftbukkit.scheduler.CraftTask.run(CraftTask.java:86)
+[02:40:45] [Server thread/WARN]: 	at org.bukkit.craftbukkit.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:475)
+[02:40:45] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1726)
+[02:40:45] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:473)
+[02:40:45] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1598)
+[02:40:45] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1304)
+[02:40:45] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:330)
+[02:40:45] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[02:40:45] [Server thread/WARN]: java.lang.ClassNotFoundException: org.bukkit.craftbukkit.craftbukkit.entity.CraftPlayer
+[02:40:45] [Server thread/WARN]: 	at org.bukkit.plugin.java.PluginClassLoader.loadClass0(PluginClassLoader.java:197)
+[02:40:45] [Server thread/WARN]: 	at org.bukkit.plugin.java.PluginClassLoader.loadClass(PluginClassLoader.java:164)
+[02:40:45] [Server thread/WARN]: 	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:526)
+[02:40:45] [Server thread/WARN]: 	at java.base/java.lang.Class.forName0(Native Method)
+[02:40:45] [Server thread/WARN]: 	at java.base/java.lang.Class.forName(Class.java:534)
+[02:40:45] [Server thread/WARN]: 	at java.base/java.lang.Class.forName(Class.java:513)
+[02:40:45] [Server thread/WARN]: 	at io.papermc.reflectionrewriter.runtime.AbstractDefaultRulesReflectionProxy.forName(AbstractDefaultRulesReflectionProxy.java:68)
+[02:40:45] [Server thread/WARN]: 	at io.papermc.paper.pluginremap.reflect.PaperReflectionHolder.forName(Unknown Source)
+[02:40:45] [Server thread/WARN]: 	at ActionHealth-3.5.9-all.jar//com.zeshanaslam.actionhealth.utils.HealthUtil.sendActionBar(HealthUtil.java:278)
+[02:40:45] [Server thread/WARN]: 	at ActionHealth-3.5.9-all.jar//com.zeshanaslam.actionhealth.utils.HealthUtil.sendHealth(HealthUtil.java:77)
+[02:40:45] [Server thread/WARN]: 	at ActionHealth-3.5.9-all.jar//com.zeshanaslam.actionhealth.LookThread.run(LookThread.java:45)
+[02:40:45] [Server thread/WARN]: 	at org.bukkit.craftbukkit.scheduler.CraftTask.run(CraftTask.java:86)
+[02:40:45] [Server thread/WARN]: 	at org.bukkit.craftbukkit.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:475)
+[02:40:45] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1726)
+[02:40:45] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:473)
+[02:40:45] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1598)
+[02:40:45] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1304)
+[02:40:45] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:330)
+[02:40:45] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[02:40:45] [Server thread/WARN]: java.lang.ClassNotFoundException: org.bukkit.craftbukkit.craftbukkit.entity.CraftPlayer
+[02:40:45] [Server thread/WARN]: 	at org.bukkit.plugin.java.PluginClassLoader.loadClass0(PluginClassLoader.java:197)
+[02:40:45] [Server thread/WARN]: 	at org.bukkit.plugin.java.PluginClassLoader.loadClass(PluginClassLoader.java:164)
+[02:40:45] [Server thread/WARN]: 	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:526)
+[02:40:45] [Server thread/WARN]: 	at java.base/java.lang.Class.forName0(Native Method)
+[02:40:45] [Server thread/WARN]: 	at java.base/java.lang.Class.forName(Class.java:534)
+[02:40:45] [Server thread/WARN]: 	at java.base/java.lang.Class.forName(Class.java:513)
+[02:40:45] [Server thread/WARN]: 	at io.papermc.reflectionrewriter.runtime.AbstractDefaultRulesReflectionProxy.forName(AbstractDefaultRulesReflectionProxy.java:68)
+[02:40:45] [Server thread/WARN]: 	at io.papermc.paper.pluginremap.reflect.PaperReflectionHolder.forName(Unknown Source)
+[02:40:45] [Server thread/WARN]: 	at ActionHealth-3.5.9-all.jar//com.zeshanaslam.actionhealth.utils.HealthUtil.sendActionBar(HealthUtil.java:278)
+[02:40:45] [Server thread/WARN]: 	at ActionHealth-3.5.9-all.jar//com.zeshanaslam.actionhealth.utils.HealthUtil.sendHealth(HealthUtil.java:77)
+[02:40:45] [Server thread/WARN]: 	at ActionHealth-3.5.9-all.jar//com.zeshanaslam.actionhealth.LookThread.run(LookThread.java:45)
+[02:40:45] [Server thread/WARN]: 	at org.bukkit.craftbukkit.scheduler.CraftTask.run(CraftTask.java:86)
+[02:40:45] [Server thread/WARN]: 	at org.bukkit.craftbukkit.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:475)
+[02:40:45] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1726)
+[02:40:45] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:473)
+[02:40:45] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1598)
+[02:40:45] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1304)
+[02:40:45] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:330)
+[02:40:45] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[02:40:45] [Server thread/INFO]: [Chunky] Task running for world. Processed: 11486 chunks (0.73%), ETA: 22:58:09, Rate: 18.8 cps, Current: 64, -22
+[02:40:45] [Server thread/WARN]: java.lang.ClassNotFoundException: org.bukkit.craftbukkit.craftbukkit.entity.CraftPlayer
+[02:40:45] [Server thread/WARN]: 	at org.bukkit.plugin.java.PluginClassLoader.loadClass0(PluginClassLoader.java:197)
+[02:40:45] [Server thread/WARN]: 	at org.bukkit.plugin.java.PluginClassLoader.loadClass(PluginClassLoader.java:164)
+[02:40:45] [Server thread/WARN]: 	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:526)
+[02:40:45] [Server thread/WARN]: 	at java.base/java.lang.Class.forName0(Native Method)
+[02:40:45] [Server thread/WARN]: 	at java.base/java.lang.Class.forName(Class.java:534)
+[02:40:45] [Server thread/WARN]: 	at java.base/java.lang.Class.forName(Class.java:513)
+[02:40:45] [Server thread/WARN]: 	at io.papermc.reflectionrewriter.runtime.AbstractDefaultRulesReflectionProxy.forName(AbstractDefaultRulesReflectionProxy.java:68)
+[02:40:45] [Server thread/WARN]: 	at io.papermc.paper.pluginremap.reflect.PaperReflectionHolder.forName(Unknown Source)
+[02:40:45] [Server thread/WARN]: 	at ActionHealth-3.5.9-all.jar//com.zeshanaslam.actionhealth.utils.HealthUtil.sendActionBar(HealthUtil.java:278)
+[02:40:45] [Server thread/WARN]: 	at ActionHealth-3.5.9-all.jar//com.zeshanaslam.actionhealth.utils.HealthUtil.sendHealth(HealthUtil.java:77)
+[02:40:45] [Server thread/WARN]: 	at ActionHealth-3.5.9-all.jar//com.zeshanaslam.actionhealth.LookThread.run(LookThread.java:45)
+[02:40:45] [Server thread/WARN]: 	at org.bukkit.craftbukkit.scheduler.CraftTask.run(CraftTask.java:86)
+[02:40:45] [Server thread/WARN]: 	at org.bukkit.craftbukkit.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:475)
+[02:40:45] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1726)
+[02:40:45] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:473)
+[02:40:45] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1598)
+[02:40:45] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1304)
+[02:40:45] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:330)
+[02:40:45] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[02:40:45] [Server thread/WARN]: java.lang.ClassNotFoundException: org.bukkit.craftbukkit.craftbukkit.entity.CraftPlayer
+[02:40:45] [Server thread/WARN]: 	at org.bukkit.plugin.java.PluginClassLoader.loadClass0(PluginClassLoader.java:197)
+[02:40:45] [Server thread/WARN]: 	at org.bukkit.plugin.java.PluginClassLoader.loadClass(PluginClassLoader.java:164)
+[02:40:45] [Server thread/WARN]: 	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:526)
+[02:40:45] [Server thread/WARN]: 	at java.base/java.lang.Class.forName0(Native Method)
+[02:40:45] [Server thread/WARN]: 	at java.base/java.lang.Class.forName(Class.java:534)
+[02:40:45] [Server thread/WARN]: 	at java.base/java.lang.Class.forName(Class.java:513)
+[02:40:45] [Server thread/WARN]: 	at io.papermc.reflectionrewriter.runtime.AbstractDefaultRulesReflectionProxy.forName(AbstractDefaultRulesReflectionProxy.java:68)
+[02:40:45] [Server thread/WARN]: 	at io.papermc.paper.pluginremap.reflect.PaperReflectionHolder.forName(Unknown Source)
+[02:40:45] [Server thread/WARN]: 	at ActionHealth-3.5.9-all.jar//com.zeshanaslam.actionhealth.utils.HealthUtil.sendActionBar(HealthUtil.java:278)
+[02:40:45] [Server thread/WARN]: 	at ActionHealth-3.5.9-all.jar//com.zeshanaslam.actionhealth.utils.HealthUtil.sendHealth(HealthUtil.java:77)
+[02:40:45] [Server thread/WARN]: 	at ActionHealth-3.5.9-all.jar//com.zeshanaslam.actionhealth.LookThread.run(LookThread.java:45)
+[02:40:45] [Server thread/WARN]: 	at org.bukkit.craftbukkit.scheduler.CraftTask.run(CraftTask.java:86)
+[02:40:45] [Server thread/WARN]: 	at org.bukkit.craftbukkit.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:475)
+[02:40:45] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1726)
+[02:40:45] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:473)
+[02:40:45] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1598)
+[02:40:45] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1304)
+[02:40:45] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:330)
+[02:40:45] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[02:40:45] [Server thread/WARN]: java.lang.ClassNotFoundException: org.bukkit.craftbukkit.craftbukkit.entity.CraftPlayer
+[02:40:45] [Server thread/WARN]: 	at org.bukkit.plugin.java.PluginClassLoader.loadClass0(PluginClassLoader.java:197)
+[02:40:45] [Server thread/WARN]: 	at org.bukkit.plugin.java.PluginClassLoader.loadClass(PluginClassLoader.java:164)
+[02:40:45] [Server thread/WARN]: 	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:526)
+[02:40:45] [Server thread/WARN]: 	at java.base/java.lang.Class.forName0(Native Method)
+[02:40:45] [Server thread/WARN]: 	at java.base/java.lang.Class.forName(Class.java:534)
+[02:40:45] [Server thread/WARN]: 	at java.base/java.lang.Class.forName(Class.java:513)
+[02:40:45] [Server thread/WARN]: 	at io.papermc.reflectionrewriter.runtime.AbstractDefaultRulesReflectionProxy.forName(AbstractDefaultRulesReflectionProxy.java:68)
+[02:40:45] [Server thread/WARN]: 	at io.papermc.paper.pluginremap.reflect.PaperReflectionHolder.forName(Unknown Source)
+[02:40:45] [Server thread/WARN]: 	at ActionHealth-3.5.9-all.jar//com.zeshanaslam.actionhealth.utils.HealthUtil.sendActionBar(HealthUtil.java:278)
+[02:40:45] [Server thread/WARN]: 	at ActionHealth-3.5.9-all.jar//com.zeshanaslam.actionhealth.utils.HealthUtil.sendHealth(HealthUtil.java:77)
+[02:40:45] [Server thread/WARN]: 	at ActionHealth-3.5.9-all.jar//com.zeshanaslam.actionhealth.LookThread.run(LookThread.java:45)
+[02:40:45] [Server thread/WARN]: 	at org.bukkit.craftbukkit.scheduler.CraftTask.run(CraftTask.java:86)
+[02:40:45] [Server thread/WARN]: 	at org.bukkit.craftbukkit.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:475)
+[02:40:45] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1726)
+[02:40:45] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:473)
+[02:40:45] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1598)
+[02:40:45] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1304)
+[02:40:45] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:330)
+[02:40:45] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[02:40:45] [Server thread/WARN]: java.lang.ClassNotFoundException: org.bukkit.craftbukkit.craftbukkit.entity.CraftPlayer
+[02:40:45] [Server thread/WARN]: 	at org.bukkit.plugin.java.PluginClassLoader.loadClass0(PluginClassLoader.java:197)
+[02:40:45] [Server thread/WARN]: 	at org.bukkit.plugin.java.PluginClassLoader.loadClass(PluginClassLoader.java:164)
+[02:40:45] [Server thread/WARN]: 	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:526)
+[02:40:45] [Server thread/WARN]: 	at java.base/java.lang.Class.forName0(Native Method)
+[02:40:45] [Server thread/WARN]: 	at java.base/java.lang.Class.forName(Class.java:534)
+[02:40:45] [Server thread/WARN]: 	at java.base/java.lang.Class.forName(Class.java:513)
+[02:40:45] [Server thread/WARN]: 	at io.papermc.reflectionrewriter.runtime.AbstractDefaultRulesReflectionProxy.forName(AbstractDefaultRulesReflectionProxy.java:68)
+[02:40:45] [Server thread/WARN]: 	at io.papermc.paper.pluginremap.reflect.PaperReflectionHolder.forName(Unknown Source)
+[02:40:45] [Server thread/WARN]: 	at ActionHealth-3.5.9-all.jar//com.zeshanaslam.actionhealth.utils.HealthUtil.sendActionBar(HealthUtil.java:278)
+[02:40:45] [Server thread/WARN]: 	at ActionHealth-3.5.9-all.jar//com.zeshanaslam.actionhealth.utils.HealthUtil.sendHealth(HealthUtil.java:77)
+[02:40:45] [Server thread/WARN]: 	at ActionHealth-3.5.9-all.jar//com.zeshanaslam.actionhealth.LookThread.run(LookThread.java:45)
+[02:40:45] [Server thread/WARN]: 	at org.bukkit.craftbukkit.scheduler.CraftTask.run(CraftTask.java:86)
+[02:40:45] [Server thread/WARN]: 	at org.bukkit.craftbukkit.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:475)
+[02:40:45] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1726)
+[02:40:45] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:473)
+[02:40:45] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1598)
+[02:40:45] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1304)
+[02:40:45] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:330)
+[02:40:45] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[02:40:45] [Server thread/WARN]: java.lang.ClassNotFoundException: org.bukkit.craftbukkit.craftbukkit.entity.CraftPlayer
+[02:40:45] [Server thread/WARN]: 	at org.bukkit.plugin.java.PluginClassLoader.loadClass0(PluginClassLoader.java:197)
+[02:40:45] [Server thread/WARN]: 	at org.bukkit.plugin.java.PluginClassLoader.loadClass(PluginClassLoader.java:164)
+[02:40:45] [Server thread/WARN]: 	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:526)
+[02:40:45] [Server thread/WARN]: 	at java.base/java.lang.Class.forName0(Native Method)
+[02:40:45] [Server thread/WARN]: 	at java.base/java.lang.Class.forName(Class.java:534)
+[02:40:45] [Server thread/WARN]: 	at java.base/java.lang.Class.forName(Class.java:513)
+[02:40:45] [Server thread/WARN]: 	at io.papermc.reflectionrewriter.runtime.AbstractDefaultRulesReflectionProxy.forName(AbstractDefaultRulesReflectionProxy.java:68)
+[02:40:45] [Server thread/WARN]: 	at io.papermc.paper.pluginremap.reflect.PaperReflectionHolder.forName(Unknown Source)
+[02:40:45] [Server thread/WARN]: 	at ActionHealth-3.5.9-all.jar//com.zeshanaslam.actionhealth.utils.HealthUtil.sendActionBar(HealthUtil.java:278)
+[02:40:45] [Server thread/WARN]: 	at ActionHealth-3.5.9-all.jar//com.zeshanaslam.actionhealth.utils.HealthUtil.sendHealth(HealthUtil.java:77)
+[02:40:45] [Server thread/WARN]: 	at ActionHealth-3.5.9-all.jar//com.zeshanaslam.actionhealth.LookThread.run(LookThread.java:45)
+[02:40:45] [Server thread/WARN]: 	at org.bukkit.craftbukkit.scheduler.CraftTask.run(CraftTask.java:86)
+[02:40:45] [Server thread/WARN]: 	at org.bukkit.craftbukkit.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:475)
+[02:40:45] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1726)
+[02:40:45] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:473)
+[02:40:45] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1598)
+[02:40:45] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1304)
+[02:40:45] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:330)
+[02:40:45] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[02:40:45] [Server thread/WARN]: java.lang.ClassNotFoundException: org.bukkit.craftbukkit.craftbukkit.entity.CraftPlayer
+[02:40:45] [Server thread/WARN]: 	at org.bukkit.plugin.java.PluginClassLoader.loadClass0(PluginClassLoader.java:197)
+[02:40:45] [Server thread/WARN]: 	at org.bukkit.plugin.java.PluginClassLoader.loadClass(PluginClassLoader.java:164)
+[02:40:45] [Server thread/WARN]: 	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:526)
+[02:40:45] [Server thread/WARN]: 	at java.base/java.lang.Class.forName0(Native Method)
+[02:40:45] [Server thread/WARN]: 	at java.base/java.lang.Class.forName(Class.java:534)
+[02:40:45] [Server thread/WARN]: 	at java.base/java.lang.Class.forName(Class.java:513)
+[02:40:45] [Server thread/WARN]: 	at io.papermc.reflectionrewriter.runtime.AbstractDefaultRulesReflectionProxy.forName(AbstractDefaultRulesReflectionProxy.java:68)
+[02:40:45] [Server thread/WARN]: 	at io.papermc.paper.pluginremap.reflect.PaperReflectionHolder.forName(Unknown Source)
+[02:40:45] [Server thread/WARN]: 	at ActionHealth-3.5.9-all.jar//com.zeshanaslam.actionhealth.utils.HealthUtil.sendActionBar(HealthUtil.java:278)
+[02:40:45] [Server thread/WARN]: 	at ActionHealth-3.5.9-all.jar//com.zeshanaslam.actionhealth.utils.HealthUtil.sendHealth(HealthUtil.java:77)
+[02:40:45] [Server thread/WARN]: 	at ActionHealth-3.5.9-all.jar//com.zeshanaslam.actionhealth.LookThread.run(LookThread.java:45)
+[02:40:45] [Server thread/WARN]: 	at org.bukkit.craftbukkit.scheduler.CraftTask.run(CraftTask.java:86)
+[02:40:45] [Server thread/WARN]: 	at org.bukkit.craftbukkit.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:475)
+[02:40:45] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1726)
+[02:40:45] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:473)
+[02:40:45] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1598)
+[02:40:45] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1304)
+[02:40:45] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:330)
+[02:40:45] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[02:40:45] [Server thread/WARN]: java.lang.ClassNotFoundException: org.bukkit.craftbukkit.craftbukkit.entity.CraftPlayer
+[02:40:45] [Server thread/WARN]: 	at org.bukkit.plugin.java.PluginClassLoader.loadClass0(PluginClassLoader.java:197)
+[02:40:45] [Server thread/WARN]: 	at org.bukkit.plugin.java.PluginClassLoader.loadClass(PluginClassLoader.java:164)
+[02:40:45] [Server thread/WARN]: 	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:526)
+[02:40:45] [Server thread/WARN]: 	at java.base/java.lang.Class.forName0(Native Method)
+[02:40:45] [Server thread/WARN]: 	at java.base/java.lang.Class.forName(Class.java:534)
+[02:40:45] [Server thread/WARN]: 	at java.base/java.lang.Class.forName(Class.java:513)
+[02:40:45] [Server thread/WARN]: 	at io.papermc.reflectionrewriter.runtime.AbstractDefaultRulesReflectionProxy.forName(AbstractDefaultRulesReflectionProxy.java:68)
+[02:40:45] [Server thread/WARN]: 	at io.papermc.paper.pluginremap.reflect.PaperReflectionHolder.forName(Unknown Source)
+[02:40:45] [Server thread/WARN]: 	at ActionHealth-3.5.9-all.jar//com.zeshanaslam.actionhealth.utils.HealthUtil.sendActionBar(HealthUtil.java:278)
+[02:40:45] [Server thread/WARN]: 	at ActionHealth-3.5.9-all.jar//com.zeshanaslam.actionhealth.utils.HealthUtil.sendHealth(HealthUtil.java:77)
+[02:40:45] [Server thread/WARN]: 	at ActionHealth-3.5.9-all.jar//com.zeshanaslam.actionhealth.LookThread.run(LookThread.java:45)
+[02:40:45] [Server thread/WARN]: 	at org.bukkit.craftbukkit.scheduler.CraftTask.run(CraftTask.java:86)
+[02:40:45] [Server thread/WARN]: 	at org.bukkit.craftbukkit.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:475)
+[02:40:45] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1726)
+[02:40:45] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:473)
+[02:40:45] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1598)
+[02:40:45] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1304)
+[02:40:45] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:330)
+[02:40:45] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[02:40:45] [Server thread/WARN]: java.lang.ClassNotFoundException: org.bukkit.craftbukkit.craftbukkit.entity.CraftPlayer
+[02:40:45] [Server thread/WARN]: 	at org.bukkit.plugin.java.PluginClassLoader.loadClass0(PluginClassLoader.java:197)
+[02:40:45] [Server thread/WARN]: 	at org.bukkit.plugin.java.PluginClassLoader.loadClass(PluginClassLoader.java:164)
+[02:40:45] [Server thread/WARN]: 	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:526)
+[02:40:45] [Server thread/WARN]: 	at java.base/java.lang.Class.forName0(Native Method)
+[02:40:45] [Server thread/WARN]: 	at java.base/java.lang.Class.forName(Class.java:534)
+[02:40:45] [Server thread/WARN]: 	at java.base/java.lang.Class.forName(Class.java:513)
+[02:40:45] [Server thread/WARN]: 	at io.papermc.reflectionrewriter.runtime.AbstractDefaultRulesReflectionProxy.forName(AbstractDefaultRulesReflectionProxy.java:68)
+[02:40:45] [Server thread/WARN]: 	at io.papermc.paper.pluginremap.reflect.PaperReflectionHolder.forName(Unknown Source)
+[02:40:45] [Server thread/WARN]: 	at ActionHealth-3.5.9-all.jar//com.zeshanaslam.actionhealth.utils.HealthUtil.sendActionBar(HealthUtil.java:278)
+[02:40:45] [Server thread/WARN]: 	at ActionHealth-3.5.9-all.jar//com.zeshanaslam.actionhealth.utils.HealthUtil.sendHealth(HealthUtil.java:77)
+[02:40:45] [Server thread/WARN]: 	at ActionHealth-3.5.9-all.jar//com.zeshanaslam.actionhealth.LookThread.run(LookThread.java:45)
+[02:40:45] [Server thread/WARN]: 	at org.bukkit.craftbukkit.scheduler.CraftTask.run(CraftTask.java:86)
+[02:40:45] [Server thread/WARN]: 	at org.bukkit.craftbukkit.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:475)
+[02:40:45] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1726)
+[02:40:45] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:473)
+[02:40:45] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1598)
+[02:40:45] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1304)
+[02:40:45] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:330)
+[02:40:45] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[02:40:46] [Server thread/INFO]: [Chunky] Task running for world. Processed: 11522 chunks (0.74%), ETA: 22:45:38, Rate: 19.0 cps, Current: 64, -15
+[02:40:47] [Server thread/WARN]: java.lang.ClassNotFoundException: org.bukkit.craftbukkit.craftbukkit.entity.CraftPlayer
+[02:40:47] [Server thread/WARN]: 	at org.bukkit.plugin.java.PluginClassLoader.loadClass0(PluginClassLoader.java:197)
+[02:40:47] [Server thread/WARN]: 	at org.bukkit.plugin.java.PluginClassLoader.loadClass(PluginClassLoader.java:164)
+[02:40:47] [Server thread/WARN]: 	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:526)
+[02:40:47] [Server thread/WARN]: 	at java.base/java.lang.Class.forName0(Native Method)
+[02:40:47] [Server thread/WARN]: 	at java.base/java.lang.Class.forName(Class.java:534)
+[02:40:47] [Server thread/WARN]: 	at java.base/java.lang.Class.forName(Class.java:513)
+[02:40:47] [Server thread/WARN]: 	at io.papermc.reflectionrewriter.runtime.AbstractDefaultRulesReflectionProxy.forName(AbstractDefaultRulesReflectionProxy.java:68)
+[02:40:47] [Server thread/WARN]: 	at io.papermc.paper.pluginremap.reflect.PaperReflectionHolder.forName(Unknown Source)
+[02:40:47] [Server thread/WARN]: 	at ActionHealth-3.5.9-all.jar//com.zeshanaslam.actionhealth.utils.HealthUtil.sendActionBar(HealthUtil.java:278)
+[02:40:47] [Server thread/WARN]: 	at ActionHealth-3.5.9-all.jar//com.zeshanaslam.actionhealth.utils.HealthUtil.sendHealth(HealthUtil.java:77)
+[02:40:47] [Server thread/WARN]: 	at ActionHealth-3.5.9-all.jar//com.zeshanaslam.actionhealth.LookThread.run(LookThread.java:45)
+[02:40:47] [Server thread/WARN]: 	at org.bukkit.craftbukkit.scheduler.CraftTask.run(CraftTask.java:86)
+[02:40:47] [Server thread/WARN]: 	at org.bukkit.craftbukkit.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:475)
+[02:40:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1726)
+[02:40:47] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:473)
+[02:40:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1598)
+[02:40:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1304)
+[02:40:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:330)
+[02:40:47] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[02:40:47] [Server thread/WARN]: java.lang.ClassNotFoundException: org.bukkit.craftbukkit.craftbukkit.entity.CraftPlayer
+[02:40:47] [Server thread/WARN]: 	at org.bukkit.plugin.java.PluginClassLoader.loadClass0(PluginClassLoader.java:197)
+[02:40:47] [Server thread/WARN]: 	at org.bukkit.plugin.java.PluginClassLoader.loadClass(PluginClassLoader.java:164)
+[02:40:47] [Server thread/WARN]: 	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:526)
+[02:40:47] [Server thread/WARN]: 	at java.base/java.lang.Class.forName0(Native Method)
+[02:40:47] [Server thread/WARN]: 	at java.base/java.lang.Class.forName(Class.java:534)
+[02:40:47] [Server thread/WARN]: 	at java.base/java.lang.Class.forName(Class.java:513)
+[02:40:47] [Server thread/WARN]: 	at io.papermc.reflectionrewriter.runtime.AbstractDefaultRulesReflectionProxy.forName(AbstractDefaultRulesReflectionProxy.java:68)
+[02:40:47] [Server thread/WARN]: 	at io.papermc.paper.pluginremap.reflect.PaperReflectionHolder.forName(Unknown Source)
+[02:40:47] [Server thread/WARN]: 	at ActionHealth-3.5.9-all.jar//com.zeshanaslam.actionhealth.utils.HealthUtil.sendActionBar(HealthUtil.java:278)
+[02:40:47] [Server thread/WARN]: 	at ActionHealth-3.5.9-all.jar//com.zeshanaslam.actionhealth.utils.HealthUtil.sendHealth(HealthUtil.java:77)
+[02:40:47] [Server thread/WARN]: 	at ActionHealth-3.5.9-all.jar//com.zeshanaslam.actionhealth.LookThread.run(LookThread.java:45)
+[02:40:47] [Server thread/WARN]: 	at org.bukkit.craftbukkit.scheduler.CraftTask.run(CraftTask.java:86)
+[02:40:47] [Server thread/WARN]: 	at org.bukkit.craftbukkit.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:475)
+[02:40:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1726)
+[02:40:47] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:473)
+[02:40:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1598)
+[02:40:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1304)
+[02:40:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:330)
+[02:40:47] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[02:40:47] [Server thread/WARN]: java.lang.ClassNotFoundException: org.bukkit.craftbukkit.craftbukkit.entity.CraftPlayer
+[02:40:47] [Server thread/WARN]: 	at org.bukkit.plugin.java.PluginClassLoader.loadClass0(PluginClassLoader.java:197)
+[02:40:47] [Server thread/WARN]: 	at org.bukkit.plugin.java.PluginClassLoader.loadClass(PluginClassLoader.java:164)
+[02:40:47] [Server thread/WARN]: 	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:526)
+[02:40:47] [Server thread/WARN]: 	at java.base/java.lang.Class.forName0(Native Method)
+[02:40:47] [Server thread/WARN]: 	at java.base/java.lang.Class.forName(Class.java:534)
+[02:40:47] [Server thread/WARN]: 	at java.base/java.lang.Class.forName(Class.java:513)
+[02:40:47] [Server thread/WARN]: 	at io.papermc.reflectionrewriter.runtime.AbstractDefaultRulesReflectionProxy.forName(AbstractDefaultRulesReflectionProxy.java:68)
+[02:40:47] [Server thread/WARN]: 	at io.papermc.paper.pluginremap.reflect.PaperReflectionHolder.forName(Unknown Source)
+[02:40:47] [Server thread/WARN]: 	at ActionHealth-3.5.9-all.jar//com.zeshanaslam.actionhealth.utils.HealthUtil.sendActionBar(HealthUtil.java:278)
+[02:40:47] [Server thread/WARN]: 	at ActionHealth-3.5.9-all.jar//com.zeshanaslam.actionhealth.utils.HealthUtil.sendHealth(HealthUtil.java:77)
+[02:40:47] [Server thread/WARN]: 	at ActionHealth-3.5.9-all.jar//com.zeshanaslam.actionhealth.LookThread.run(LookThread.java:45)
+[02:40:47] [Server thread/WARN]: 	at org.bukkit.craftbukkit.scheduler.CraftTask.run(CraftTask.java:86)
+[02:40:47] [Server thread/WARN]: 	at org.bukkit.craftbukkit.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:475)
+[02:40:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1726)
+[02:40:47] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:473)
+[02:40:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1598)
+[02:40:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1304)
+[02:40:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:330)
+[02:40:47] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[02:40:47] [Server thread/WARN]: java.lang.ClassNotFoundException: org.bukkit.craftbukkit.craftbukkit.entity.CraftPlayer
+[02:40:47] [Server thread/WARN]: 	at org.bukkit.plugin.java.PluginClassLoader.loadClass0(PluginClassLoader.java:197)
+[02:40:47] [Server thread/WARN]: 	at org.bukkit.plugin.java.PluginClassLoader.loadClass(PluginClassLoader.java:164)
+[02:40:47] [Server thread/WARN]: 	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:526)
+[02:40:47] [Server thread/WARN]: 	at java.base/java.lang.Class.forName0(Native Method)
+[02:40:47] [Server thread/WARN]: 	at java.base/java.lang.Class.forName(Class.java:534)
+[02:40:47] [Server thread/WARN]: 	at java.base/java.lang.Class.forName(Class.java:513)
+[02:40:47] [Server thread/WARN]: 	at io.papermc.reflectionrewriter.runtime.AbstractDefaultRulesReflectionProxy.forName(AbstractDefaultRulesReflectionProxy.java:68)
+[02:40:47] [Server thread/WARN]: 	at io.papermc.paper.pluginremap.reflect.PaperReflectionHolder.forName(Unknown Source)
+[02:40:47] [Server thread/WARN]: 	at ActionHealth-3.5.9-all.jar//com.zeshanaslam.actionhealth.utils.HealthUtil.sendActionBar(HealthUtil.java:278)
+[02:40:47] [Server thread/WARN]: 	at ActionHealth-3.5.9-all.jar//com.zeshanaslam.actionhealth.utils.HealthUtil.sendHealth(HealthUtil.java:77)
+[02:40:47] [Server thread/WARN]: 	at ActionHealth-3.5.9-all.jar//com.zeshanaslam.actionhealth.LookThread.run(LookThread.java:45)
+[02:40:47] [Server thread/WARN]: 	at org.bukkit.craftbukkit.scheduler.CraftTask.run(CraftTask.java:86)
+[02:40:47] [Server thread/WARN]: 	at org.bukkit.craftbukkit.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:475)
+[02:40:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1726)
+[02:40:47] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:473)
+[02:40:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1598)
+[02:40:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1304)
+[02:40:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:330)
+[02:40:47] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[02:40:47] [Server thread/WARN]: java.lang.ClassNotFoundException: org.bukkit.craftbukkit.craftbukkit.entity.CraftPlayer
+[02:40:47] [Server thread/WARN]: 	at org.bukkit.plugin.java.PluginClassLoader.loadClass0(PluginClassLoader.java:197)
+[02:40:47] [Server thread/WARN]: 	at org.bukkit.plugin.java.PluginClassLoader.loadClass(PluginClassLoader.java:164)
+[02:40:47] [Server thread/WARN]: 	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:526)
+[02:40:47] [Server thread/WARN]: 	at java.base/java.lang.Class.forName0(Native Method)
+[02:40:47] [Server thread/WARN]: 	at java.base/java.lang.Class.forName(Class.java:534)
+[02:40:47] [Server thread/WARN]: 	at java.base/java.lang.Class.forName(Class.java:513)
+[02:40:47] [Server thread/WARN]: 	at io.papermc.reflectionrewriter.runtime.AbstractDefaultRulesReflectionProxy.forName(AbstractDefaultRulesReflectionProxy.java:68)
+[02:40:47] [Server thread/WARN]: 	at io.papermc.paper.pluginremap.reflect.PaperReflectionHolder.forName(Unknown Source)
+[02:40:47] [Server thread/WARN]: 	at ActionHealth-3.5.9-all.jar//com.zeshanaslam.actionhealth.utils.HealthUtil.sendActionBar(HealthUtil.java:278)
+[02:40:47] [Server thread/WARN]: 	at ActionHealth-3.5.9-all.jar//com.zeshanaslam.actionhealth.utils.HealthUtil.sendHealth(HealthUtil.java:77)
+[02:40:47] [Server thread/WARN]: 	at ActionHealth-3.5.9-all.jar//com.zeshanaslam.actionhealth.LookThread.run(LookThread.java:45)
+[02:40:47] [Server thread/WARN]: 	at org.bukkit.craftbukkit.scheduler.CraftTask.run(CraftTask.java:86)
+[02:40:47] [Server thread/WARN]: 	at org.bukkit.craftbukkit.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:475)
+[02:40:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1726)
+[02:40:47] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:473)
+[02:40:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1598)
+[02:40:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1304)
+[02:40:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:330)
+[02:40:47] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[02:40:47] [Server thread/WARN]: java.lang.ClassNotFoundException: org.bukkit.craftbukkit.craftbukkit.entity.CraftPlayer
+[02:40:47] [Server thread/WARN]: 	at org.bukkit.plugin.java.PluginClassLoader.loadClass0(PluginClassLoader.java:197)
+[02:40:47] [Server thread/WARN]: 	at org.bukkit.plugin.java.PluginClassLoader.loadClass(PluginClassLoader.java:164)
+[02:40:47] [Server thread/WARN]: 	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:526)
+[02:40:47] [Server thread/WARN]: 	at java.base/java.lang.Class.forName0(Native Method)
+[02:40:47] [Server thread/WARN]: 	at java.base/java.lang.Class.forName(Class.java:534)
+[02:40:47] [Server thread/WARN]: 	at java.base/java.lang.Class.forName(Class.java:513)
+[02:40:47] [Server thread/WARN]: 	at io.papermc.reflectionrewriter.runtime.AbstractDefaultRulesReflectionProxy.forName(AbstractDefaultRulesReflectionProxy.java:68)
+[02:40:47] [Server thread/WARN]: 	at io.papermc.paper.pluginremap.reflect.PaperReflectionHolder.forName(Unknown Source)
+[02:40:47] [Server thread/WARN]: 	at ActionHealth-3.5.9-all.jar//com.zeshanaslam.actionhealth.utils.HealthUtil.sendActionBar(HealthUtil.java:278)
+[02:40:47] [Server thread/WARN]: 	at ActionHealth-3.5.9-all.jar//com.zeshanaslam.actionhealth.utils.HealthUtil.sendHealth(HealthUtil.java:77)
+[02:40:47] [Server thread/WARN]: 	at ActionHealth-3.5.9-all.jar//com.zeshanaslam.actionhealth.LookThread.run(LookThread.java:45)
+[02:40:47] [Server thread/WARN]: 	at org.bukkit.craftbukkit.scheduler.CraftTask.run(CraftTask.java:86)
+[02:40:47] [Server thread/WARN]: 	at org.bukkit.craftbukkit.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:475)
+[02:40:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1726)
+[02:40:47] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:473)
+[02:40:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1598)
+[02:40:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1304)
+[02:40:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:330)
+[02:40:47] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[02:40:47] [Server thread/WARN]: java.lang.ClassNotFoundException: org.bukkit.craftbukkit.craftbukkit.entity.CraftPlayer
+[02:40:47] [Server thread/WARN]: 	at org.bukkit.plugin.java.PluginClassLoader.loadClass0(PluginClassLoader.java:197)
+[02:40:47] [Server thread/WARN]: 	at org.bukkit.plugin.java.PluginClassLoader.loadClass(PluginClassLoader.java:164)
+[02:40:47] [Server thread/WARN]: 	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:526)
+[02:40:47] [Server thread/WARN]: 	at java.base/java.lang.Class.forName0(Native Method)
+[02:40:47] [Server thread/WARN]: 	at java.base/java.lang.Class.forName(Class.java:534)
+[02:40:47] [Server thread/WARN]: 	at java.base/java.lang.Class.forName(Class.java:513)
+[02:40:47] [Server thread/WARN]: 	at io.papermc.reflectionrewriter.runtime.AbstractDefaultRulesReflectionProxy.forName(AbstractDefaultRulesReflectionProxy.java:68)
+[02:40:47] [Server thread/WARN]: 	at io.papermc.paper.pluginremap.reflect.PaperReflectionHolder.forName(Unknown Source)
+[02:40:47] [Server thread/WARN]: 	at ActionHealth-3.5.9-all.jar//com.zeshanaslam.actionhealth.utils.HealthUtil.sendActionBar(HealthUtil.java:278)
+[02:40:47] [Server thread/WARN]: 	at ActionHealth-3.5.9-all.jar//com.zeshanaslam.actionhealth.utils.HealthUtil.sendHealth(HealthUtil.java:77)
+[02:40:47] [Server thread/WARN]: 	at ActionHealth-3.5.9-all.jar//com.zeshanaslam.actionhealth.LookThread.run(LookThread.java:45)
+[02:40:47] [Server thread/WARN]: 	at org.bukkit.craftbukkit.scheduler.CraftTask.run(CraftTask.java:86)
+[02:40:47] [Server thread/WARN]: 	at org.bukkit.craftbukkit.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:475)
+[02:40:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1726)
+[02:40:47] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:473)
+[02:40:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1598)
+[02:40:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1304)
+[02:40:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:330)
+[02:40:47] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[02:40:47] [Server thread/WARN]: java.lang.ClassNotFoundException: org.bukkit.craftbukkit.craftbukkit.entity.CraftPlayer
+[02:40:47] [Server thread/WARN]: 	at org.bukkit.plugin.java.PluginClassLoader.loadClass0(PluginClassLoader.java:197)
+[02:40:47] [Server thread/WARN]: 	at org.bukkit.plugin.java.PluginClassLoader.loadClass(PluginClassLoader.java:164)
+[02:40:47] [Server thread/WARN]: 	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:526)
+[02:40:47] [Server thread/WARN]: 	at java.base/java.lang.Class.forName0(Native Method)
+[02:40:47] [Server thread/WARN]: 	at java.base/java.lang.Class.forName(Class.java:534)
+[02:40:47] [Server thread/WARN]: 	at java.base/java.lang.Class.forName(Class.java:513)
+[02:40:47] [Server thread/WARN]: 	at io.papermc.reflectionrewriter.runtime.AbstractDefaultRulesReflectionProxy.forName(AbstractDefaultRulesReflectionProxy.java:68)
+[02:40:47] [Server thread/WARN]: 	at io.papermc.paper.pluginremap.reflect.PaperReflectionHolder.forName(Unknown Source)
+[02:40:47] [Server thread/WARN]: 	at ActionHealth-3.5.9-all.jar//com.zeshanaslam.actionhealth.utils.HealthUtil.sendActionBar(HealthUtil.java:278)
+[02:40:47] [Server thread/WARN]: 	at ActionHealth-3.5.9-all.jar//com.zeshanaslam.actionhealth.utils.HealthUtil.sendHealth(HealthUtil.java:77)
+[02:40:47] [Server thread/WARN]: 	at ActionHealth-3.5.9-all.jar//com.zeshanaslam.actionhealth.LookThread.run(LookThread.java:45)
+[02:40:47] [Server thread/WARN]: 	at org.bukkit.craftbukkit.scheduler.CraftTask.run(CraftTask.java:86)
+[02:40:47] [Server thread/WARN]: 	at org.bukkit.craftbukkit.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:475)
+[02:40:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1726)
+[02:40:47] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:473)
+[02:40:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1598)
+[02:40:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1304)
+[02:40:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:330)
+[02:40:47] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[02:40:47] [Server thread/WARN]: java.lang.ClassNotFoundException: org.bukkit.craftbukkit.craftbukkit.entity.CraftPlayer
+[02:40:47] [Server thread/WARN]: 	at org.bukkit.plugin.java.PluginClassLoader.loadClass0(PluginClassLoader.java:197)
+[02:40:47] [Server thread/WARN]: 	at org.bukkit.plugin.java.PluginClassLoader.loadClass(PluginClassLoader.java:164)
+[02:40:47] [Server thread/WARN]: 	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:526)
+[02:40:47] [Server thread/WARN]: 	at java.base/java.lang.Class.forName0(Native Method)
+[02:40:47] [Server thread/WARN]: 	at java.base/java.lang.Class.forName(Class.java:534)
+[02:40:47] [Server thread/WARN]: 	at java.base/java.lang.Class.forName(Class.java:513)
+[02:40:47] [Server thread/WARN]: 	at io.papermc.reflectionrewriter.runtime.AbstractDefaultRulesReflectionProxy.forName(AbstractDefaultRulesReflectionProxy.java:68)
+[02:40:47] [Server thread/WARN]: 	at io.papermc.paper.pluginremap.reflect.PaperReflectionHolder.forName(Unknown Source)
+[02:40:47] [Server thread/WARN]: 	at ActionHealth-3.5.9-all.jar//com.zeshanaslam.actionhealth.utils.HealthUtil.sendActionBar(HealthUtil.java:278)
+[02:40:47] [Server thread/WARN]: 	at ActionHealth-3.5.9-all.jar//com.zeshanaslam.actionhealth.utils.HealthUtil.sendHealth(HealthUtil.java:77)
+[02:40:47] [Server thread/WARN]: 	at ActionHealth-3.5.9-all.jar//com.zeshanaslam.actionhealth.LookThread.run(LookThread.java:45)
+[02:40:47] [Server thread/WARN]: 	at org.bukkit.craftbukkit.scheduler.CraftTask.run(CraftTask.java:86)
+[02:40:47] [Server thread/WARN]: 	at org.bukkit.craftbukkit.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:475)
+[02:40:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1726)
+[02:40:47] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:473)
+[02:40:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1598)
+[02:40:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1304)
+[02:40:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:330)
+[02:40:47] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[02:40:47] [Server thread/WARN]: java.lang.ClassNotFoundException: org.bukkit.craftbukkit.craftbukkit.entity.CraftPlayer
+[02:40:47] [Server thread/WARN]: 	at org.bukkit.plugin.java.PluginClassLoader.loadClass0(PluginClassLoader.java:197)
+[02:40:47] [Server thread/WARN]: 	at org.bukkit.plugin.java.PluginClassLoader.loadClass(PluginClassLoader.java:164)
+[02:40:47] [Server thread/WARN]: 	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:526)
+[02:40:47] [Server thread/WARN]: 	at java.base/java.lang.Class.forName0(Native Method)
+[02:40:47] [Server thread/WARN]: 	at java.base/java.lang.Class.forName(Class.java:534)
+[02:40:47] [Server thread/WARN]: 	at java.base/java.lang.Class.forName(Class.java:513)
+[02:40:47] [Server thread/WARN]: 	at io.papermc.reflectionrewriter.runtime.AbstractDefaultRulesReflectionProxy.forName(AbstractDefaultRulesReflectionProxy.java:68)
+[02:40:47] [Server thread/WARN]: 	at io.papermc.paper.pluginremap.reflect.PaperReflectionHolder.forName(Unknown Source)
+[02:40:47] [Server thread/WARN]: 	at ActionHealth-3.5.9-all.jar//com.zeshanaslam.actionhealth.utils.HealthUtil.sendActionBar(HealthUtil.java:278)
+[02:40:47] [Server thread/WARN]: 	at ActionHealth-3.5.9-all.jar//com.zeshanaslam.actionhealth.utils.HealthUtil.sendHealth(HealthUtil.java:77)
+[02:40:47] [Server thread/WARN]: 	at ActionHealth-3.5.9-all.jar//com.zeshanaslam.actionhealth.LookThread.run(LookThread.java:45)
+[02:40:47] [Server thread/WARN]: 	at org.bukkit.craftbukkit.scheduler.CraftTask.run(CraftTask.java:86)
+[02:40:47] [Server thread/WARN]: 	at org.bukkit.craftbukkit.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:475)
+[02:40:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1726)
+[02:40:47] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:473)
+[02:40:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1598)
+[02:40:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1304)
+[02:40:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:330)
+[02:40:47] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[02:40:47] [Server thread/WARN]: java.lang.ClassNotFoundException: org.bukkit.craftbukkit.craftbukkit.entity.CraftPlayer
+[02:40:47] [Server thread/WARN]: 	at org.bukkit.plugin.java.PluginClassLoader.loadClass0(PluginClassLoader.java:197)
+[02:40:47] [Server thread/WARN]: 	at org.bukkit.plugin.java.PluginClassLoader.loadClass(PluginClassLoader.java:164)
+[02:40:47] [Server thread/WARN]: 	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:526)
+[02:40:47] [Server thread/WARN]: 	at java.base/java.lang.Class.forName0(Native Method)
+[02:40:47] [Server thread/WARN]: 	at java.base/java.lang.Class.forName(Class.java:534)
+[02:40:47] [Server thread/WARN]: 	at java.base/java.lang.Class.forName(Class.java:513)
+[02:40:47] [Server thread/WARN]: 	at io.papermc.reflectionrewriter.runtime.AbstractDefaultRulesReflectionProxy.forName(AbstractDefaultRulesReflectionProxy.java:68)
+[02:40:47] [Server thread/WARN]: 	at io.papermc.paper.pluginremap.reflect.PaperReflectionHolder.forName(Unknown Source)
+[02:40:47] [Server thread/WARN]: 	at ActionHealth-3.5.9-all.jar//com.zeshanaslam.actionhealth.utils.HealthUtil.sendActionBar(HealthUtil.java:278)
+[02:40:47] [Server thread/WARN]: 	at ActionHealth-3.5.9-all.jar//com.zeshanaslam.actionhealth.utils.HealthUtil.sendHealth(HealthUtil.java:77)
+[02:40:47] [Server thread/WARN]: 	at ActionHealth-3.5.9-all.jar//com.zeshanaslam.actionhealth.LookThread.run(LookThread.java:45)
+[02:40:47] [Server thread/WARN]: 	at org.bukkit.craftbukkit.scheduler.CraftTask.run(CraftTask.java:86)
+[02:40:47] [Server thread/WARN]: 	at org.bukkit.craftbukkit.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:475)
+[02:40:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1726)
+[02:40:47] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:473)
+[02:40:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1598)
+[02:40:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1304)
+[02:40:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:330)
+[02:40:47] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[02:40:47] [Server thread/WARN]: java.lang.ClassNotFoundException: org.bukkit.craftbukkit.craftbukkit.entity.CraftPlayer
+[02:40:47] [Server thread/WARN]: 	at org.bukkit.plugin.java.PluginClassLoader.loadClass0(PluginClassLoader.java:197)
+[02:40:47] [Server thread/WARN]: 	at org.bukkit.plugin.java.PluginClassLoader.loadClass(PluginClassLoader.java:164)
+[02:40:47] [Server thread/WARN]: 	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:526)
+[02:40:47] [Server thread/WARN]: 	at java.base/java.lang.Class.forName0(Native Method)
+[02:40:47] [Server thread/WARN]: 	at java.base/java.lang.Class.forName(Class.java:534)
+[02:40:47] [Server thread/WARN]: 	at java.base/java.lang.Class.forName(Class.java:513)
+[02:40:47] [Server thread/WARN]: 	at io.papermc.reflectionrewriter.runtime.AbstractDefaultRulesReflectionProxy.forName(AbstractDefaultRulesReflectionProxy.java:68)
+[02:40:47] [Server thread/WARN]: 	at io.papermc.paper.pluginremap.reflect.PaperReflectionHolder.forName(Unknown Source)
+[02:40:47] [Server thread/WARN]: 	at ActionHealth-3.5.9-all.jar//com.zeshanaslam.actionhealth.utils.HealthUtil.sendActionBar(HealthUtil.java:278)
+[02:40:47] [Server thread/WARN]: 	at ActionHealth-3.5.9-all.jar//com.zeshanaslam.actionhealth.utils.HealthUtil.sendHealth(HealthUtil.java:77)
+[02:40:47] [Server thread/WARN]: 	at ActionHealth-3.5.9-all.jar//com.zeshanaslam.actionhealth.LookThread.run(LookThread.java:45)
+[02:40:47] [Server thread/WARN]: 	at org.bukkit.craftbukkit.scheduler.CraftTask.run(CraftTask.java:86)
+[02:40:47] [Server thread/WARN]: 	at org.bukkit.craftbukkit.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:475)
+[02:40:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1726)
+[02:40:47] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:473)
+[02:40:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1598)
+[02:40:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1304)
+[02:40:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:330)
+[02:40:47] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[02:40:47] [Server thread/WARN]: java.lang.ClassNotFoundException: org.bukkit.craftbukkit.craftbukkit.entity.CraftPlayer
+[02:40:47] [Server thread/WARN]: 	at org.bukkit.plugin.java.PluginClassLoader.loadClass0(PluginClassLoader.java:197)
+[02:40:47] [Server thread/WARN]: 	at org.bukkit.plugin.java.PluginClassLoader.loadClass(PluginClassLoader.java:164)
+[02:40:47] [Server thread/WARN]: 	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:526)
+[02:40:47] [Server thread/WARN]: 	at java.base/java.lang.Class.forName0(Native Method)
+[02:40:47] [Server thread/WARN]: 	at java.base/java.lang.Class.forName(Class.java:534)
+[02:40:47] [Server thread/WARN]: 	at java.base/java.lang.Class.forName(Class.java:513)
+[02:40:47] [Server thread/WARN]: 	at io.papermc.reflectionrewriter.runtime.AbstractDefaultRulesReflectionProxy.forName(AbstractDefaultRulesReflectionProxy.java:68)
+[02:40:47] [Server thread/WARN]: 	at io.papermc.paper.pluginremap.reflect.PaperReflectionHolder.forName(Unknown Source)
+[02:40:47] [Server thread/WARN]: 	at ActionHealth-3.5.9-all.jar//com.zeshanaslam.actionhealth.utils.HealthUtil.sendActionBar(HealthUtil.java:278)
+[02:40:47] [Server thread/WARN]: 	at ActionHealth-3.5.9-all.jar//com.zeshanaslam.actionhealth.utils.HealthUtil.sendHealth(HealthUtil.java:77)
+[02:40:47] [Server thread/WARN]: 	at ActionHealth-3.5.9-all.jar//com.zeshanaslam.actionhealth.LookThread.run(LookThread.java:45)
+[02:40:47] [Server thread/WARN]: 	at org.bukkit.craftbukkit.scheduler.CraftTask.run(CraftTask.java:86)
+[02:40:47] [Server thread/WARN]: 	at org.bukkit.craftbukkit.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:475)
+[02:40:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1726)
+[02:40:47] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:473)
+[02:40:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1598)
+[02:40:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1304)
+[02:40:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:330)
+[02:40:47] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[02:40:48] [Server thread/WARN]: java.lang.ClassNotFoundException: org.bukkit.craftbukkit.craftbukkit.entity.CraftPlayer
+[02:40:48] [Server thread/WARN]: 	at org.bukkit.plugin.java.PluginClassLoader.loadClass0(PluginClassLoader.java:197)
+[02:40:48] [Server thread/WARN]: 	at org.bukkit.plugin.java.PluginClassLoader.loadClass(PluginClassLoader.java:164)
+[02:40:48] [Server thread/WARN]: 	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:526)
+[02:40:48] [Server thread/WARN]: 	at java.base/java.lang.Class.forName0(Native Method)
+[02:40:48] [Server thread/WARN]: 	at java.base/java.lang.Class.forName(Class.java:534)
+[02:40:48] [Server thread/WARN]: 	at java.base/java.lang.Class.forName(Class.java:513)
+[02:40:48] [Server thread/WARN]: 	at io.papermc.reflectionrewriter.runtime.AbstractDefaultRulesReflectionProxy.forName(AbstractDefaultRulesReflectionProxy.java:68)
+[02:40:48] [Server thread/WARN]: 	at io.papermc.paper.pluginremap.reflect.PaperReflectionHolder.forName(Unknown Source)
+[02:40:48] [Server thread/WARN]: 	at ActionHealth-3.5.9-all.jar//com.zeshanaslam.actionhealth.utils.HealthUtil.sendActionBar(HealthUtil.java:278)
+[02:40:48] [Server thread/WARN]: 	at ActionHealth-3.5.9-all.jar//com.zeshanaslam.actionhealth.utils.HealthUtil.sendHealth(HealthUtil.java:77)
+[02:40:48] [Server thread/WARN]: 	at ActionHealth-3.5.9-all.jar//com.zeshanaslam.actionhealth.LookThread.run(LookThread.java:45)
+[02:40:48] [Server thread/WARN]: 	at org.bukkit.craftbukkit.scheduler.CraftTask.run(CraftTask.java:86)
+[02:40:48] [Server thread/WARN]: 	at org.bukkit.craftbukkit.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:475)
+[02:40:48] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1726)
+[02:40:48] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:473)
+[02:40:48] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1598)
+[02:40:48] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1304)
+[02:40:48] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:330)
+[02:40:48] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[02:40:48] [Server thread/WARN]: java.lang.ClassNotFoundException: org.bukkit.craftbukkit.craftbukkit.entity.CraftPlayer
+[02:40:48] [Server thread/WARN]: 	at org.bukkit.plugin.java.PluginClassLoader.loadClass0(PluginClassLoader.java:197)
+[02:40:48] [Server thread/WARN]: 	at org.bukkit.plugin.java.PluginClassLoader.loadClass(PluginClassLoader.java:164)
+[02:40:48] [Server thread/WARN]: 	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:526)
+[02:40:48] [Server thread/WARN]: 	at java.base/java.lang.Class.forName0(Native Method)
+[02:40:48] [Server thread/WARN]: 	at java.base/java.lang.Class.forName(Class.java:534)
+[02:40:48] [Server thread/WARN]: 	at java.base/java.lang.Class.forName(Class.java:513)
+[02:40:48] [Server thread/WARN]: 	at io.papermc.reflectionrewriter.runtime.AbstractDefaultRulesReflectionProxy.forName(AbstractDefaultRulesReflectionProxy.java:68)
+[02:40:48] [Server thread/WARN]: 	at io.papermc.paper.pluginremap.reflect.PaperReflectionHolder.forName(Unknown Source)
+[02:40:48] [Server thread/WARN]: 	at ActionHealth-3.5.9-all.jar//com.zeshanaslam.actionhealth.utils.HealthUtil.sendActionBar(HealthUtil.java:278)
+[02:40:48] [Server thread/WARN]: 	at ActionHealth-3.5.9-all.jar//com.zeshanaslam.actionhealth.utils.HealthUtil.sendHealth(HealthUtil.java:77)
+[02:40:48] [Server thread/WARN]: 	at ActionHealth-3.5.9-all.jar//com.zeshanaslam.actionhealth.LookThread.run(LookThread.java:45)
+[02:40:48] [Server thread/WARN]: 	at org.bukkit.craftbukkit.scheduler.CraftTask.run(CraftTask.java:86)
+[02:40:48] [Server thread/WARN]: 	at org.bukkit.craftbukkit.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:475)
+[02:40:48] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1726)
+[02:40:48] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:473)
+[02:40:48] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1598)
+[02:40:48] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1304)
+[02:40:48] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:330)
+[02:40:48] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[02:40:48] [Server thread/WARN]: java.lang.ClassNotFoundException: org.bukkit.craftbukkit.craftbukkit.entity.CraftPlayer
+[02:40:48] [Server thread/WARN]: 	at org.bukkit.plugin.java.PluginClassLoader.loadClass0(PluginClassLoader.java:197)
+[02:40:48] [Server thread/WARN]: 	at org.bukkit.plugin.java.PluginClassLoader.loadClass(PluginClassLoader.java:164)
+[02:40:48] [Server thread/WARN]: 	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:526)
+[02:40:48] [Server thread/WARN]: 	at java.base/java.lang.Class.forName0(Native Method)
+[02:40:48] [Server thread/WARN]: 	at java.base/java.lang.Class.forName(Class.java:534)
+[02:40:48] [Server thread/WARN]: 	at java.base/java.lang.Class.forName(Class.java:513)
+[02:40:48] [Server thread/WARN]: 	at io.papermc.reflectionrewriter.runtime.AbstractDefaultRulesReflectionProxy.forName(AbstractDefaultRulesReflectionProxy.java:68)
+[02:40:48] [Server thread/WARN]: 	at io.papermc.paper.pluginremap.reflect.PaperReflectionHolder.forName(Unknown Source)
+[02:40:48] [Server thread/WARN]: 	at ActionHealth-3.5.9-all.jar//com.zeshanaslam.actionhealth.utils.HealthUtil.sendActionBar(HealthUtil.java:278)
+[02:40:48] [Server thread/WARN]: 	at ActionHealth-3.5.9-all.jar//com.zeshanaslam.actionhealth.utils.HealthUtil.sendHealth(HealthUtil.java:77)
+[02:40:48] [Server thread/WARN]: 	at ActionHealth-3.5.9-all.jar//com.zeshanaslam.actionhealth.LookThread.run(LookThread.java:45)
+[02:40:48] [Server thread/WARN]: 	at org.bukkit.craftbukkit.scheduler.CraftTask.run(CraftTask.java:86)
+[02:40:48] [Server thread/WARN]: 	at org.bukkit.craftbukkit.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:475)
+[02:40:48] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1726)
+[02:40:48] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:473)
+[02:40:48] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1598)
+[02:40:48] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1304)
+[02:40:48] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:330)
+[02:40:48] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[02:40:48] [Server thread/INFO]: [Chunky] Task running for world. Processed: 11525 chunks (0.74%), ETA: 23:50:42, Rate: 18.1 cps, Current: 64, -13
+[02:40:48] [Server thread/WARN]: java.lang.ClassNotFoundException: org.bukkit.craftbukkit.craftbukkit.entity.CraftPlayer
+[02:40:48] [Server thread/WARN]: 	at org.bukkit.plugin.java.PluginClassLoader.loadClass0(PluginClassLoader.java:197)
+[02:40:48] [Server thread/WARN]: 	at org.bukkit.plugin.java.PluginClassLoader.loadClass(PluginClassLoader.java:164)
+[02:40:48] [Server thread/WARN]: 	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:526)
+[02:40:48] [Server thread/WARN]: 	at java.base/java.lang.Class.forName0(Native Method)
+[02:40:48] [Server thread/WARN]: 	at java.base/java.lang.Class.forName(Class.java:534)
+[02:40:48] [Server thread/WARN]: 	at java.base/java.lang.Class.forName(Class.java:513)
+[02:40:48] [Server thread/WARN]: 	at io.papermc.reflectionrewriter.runtime.AbstractDefaultRulesReflectionProxy.forName(AbstractDefaultRulesReflectionProxy.java:68)
+[02:40:48] [Server thread/WARN]: 	at io.papermc.paper.pluginremap.reflect.PaperReflectionHolder.forName(Unknown Source)
+[02:40:48] [Server thread/WARN]: 	at ActionHealth-3.5.9-all.jar//com.zeshanaslam.actionhealth.utils.HealthUtil.sendActionBar(HealthUtil.java:278)
+[02:40:48] [Server thread/WARN]: 	at ActionHealth-3.5.9-all.jar//com.zeshanaslam.actionhealth.utils.HealthUtil.sendHealth(HealthUtil.java:77)
+[02:40:48] [Server thread/WARN]: 	at ActionHealth-3.5.9-all.jar//com.zeshanaslam.actionhealth.LookThread.run(LookThread.java:45)
+[02:40:48] [Server thread/WARN]: 	at org.bukkit.craftbukkit.scheduler.CraftTask.run(CraftTask.java:86)
+[02:40:48] [Server thread/WARN]: 	at org.bukkit.craftbukkit.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:475)
+[02:40:48] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1726)
+[02:40:48] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:473)
+[02:40:48] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1598)
+[02:40:48] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1304)
+[02:40:48] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:330)
+[02:40:48] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[02:40:48] [Server thread/WARN]: java.lang.ClassNotFoundException: org.bukkit.craftbukkit.craftbukkit.entity.CraftPlayer
+[02:40:48] [Server thread/WARN]: 	at org.bukkit.plugin.java.PluginClassLoader.loadClass0(PluginClassLoader.java:197)
+[02:40:48] [Server thread/WARN]: 	at org.bukkit.plugin.java.PluginClassLoader.loadClass(PluginClassLoader.java:164)
+[02:40:48] [Server thread/WARN]: 	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:526)
+[02:40:48] [Server thread/WARN]: 	at java.base/java.lang.Class.forName0(Native Method)
+[02:40:48] [Server thread/WARN]: 	at java.base/java.lang.Class.forName(Class.java:534)
+[02:40:48] [Server thread/WARN]: 	at java.base/java.lang.Class.forName(Class.java:513)
+[02:40:48] [Server thread/WARN]: 	at io.papermc.reflectionrewriter.runtime.AbstractDefaultRulesReflectionProxy.forName(AbstractDefaultRulesReflectionProxy.java:68)
+[02:40:48] [Server thread/WARN]: 	at io.papermc.paper.pluginremap.reflect.PaperReflectionHolder.forName(Unknown Source)
+[02:40:48] [Server thread/WARN]: 	at ActionHealth-3.5.9-all.jar//com.zeshanaslam.actionhealth.utils.HealthUtil.sendActionBar(HealthUtil.java:278)
+[02:40:48] [Server thread/WARN]: 	at ActionHealth-3.5.9-all.jar//com.zeshanaslam.actionhealth.utils.HealthUtil.sendHealth(HealthUtil.java:77)
+[02:40:48] [Server thread/WARN]: 	at ActionHealth-3.5.9-all.jar//com.zeshanaslam.actionhealth.LookThread.run(LookThread.java:45)
+[02:40:48] [Server thread/WARN]: 	at org.bukkit.craftbukkit.scheduler.CraftTask.run(CraftTask.java:86)
+[02:40:48] [Server thread/WARN]: 	at org.bukkit.craftbukkit.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:475)
+[02:40:48] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1726)
+[02:40:48] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:473)
+[02:40:48] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1598)
+[02:40:48] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1304)
+[02:40:48] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:330)
+[02:40:48] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[02:40:48] [Server thread/WARN]: java.lang.ClassNotFoundException: org.bukkit.craftbukkit.craftbukkit.entity.CraftPlayer
+[02:40:48] [Server thread/WARN]: 	at org.bukkit.plugin.java.PluginClassLoader.loadClass0(PluginClassLoader.java:197)
+[02:40:48] [Server thread/WARN]: 	at org.bukkit.plugin.java.PluginClassLoader.loadClass(PluginClassLoader.java:164)
+[02:40:48] [Server thread/WARN]: 	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:526)
+[02:40:48] [Server thread/WARN]: 	at java.base/java.lang.Class.forName0(Native Method)
+[02:40:48] [Server thread/WARN]: 	at java.base/java.lang.Class.forName(Class.java:534)
+[02:40:48] [Server thread/WARN]: 	at java.base/java.lang.Class.forName(Class.java:513)
+[02:40:48] [Server thread/WARN]: 	at io.papermc.reflectionrewriter.runtime.AbstractDefaultRulesReflectionProxy.forName(AbstractDefaultRulesReflectionProxy.java:68)
+[02:40:48] [Server thread/WARN]: 	at io.papermc.paper.pluginremap.reflect.PaperReflectionHolder.forName(Unknown Source)
+[02:40:48] [Server thread/WARN]: 	at ActionHealth-3.5.9-all.jar//com.zeshanaslam.actionhealth.utils.HealthUtil.sendActionBar(HealthUtil.java:278)
+[02:40:48] [Server thread/WARN]: 	at ActionHealth-3.5.9-all.jar//com.zeshanaslam.actionhealth.utils.HealthUtil.sendHealth(HealthUtil.java:77)
+[02:40:48] [Server thread/WARN]: 	at ActionHealth-3.5.9-all.jar//com.zeshanaslam.actionhealth.LookThread.run(LookThread.java:45)
+[02:40:48] [Server thread/WARN]: 	at org.bukkit.craftbukkit.scheduler.CraftTask.run(CraftTask.java:86)
+[02:40:48] [Server thread/WARN]: 	at org.bukkit.craftbukkit.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:475)
+[02:40:48] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1726)
+[02:40:48] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:473)
+[02:40:48] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1598)
+[02:40:48] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1304)
+[02:40:48] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:330)
+[02:40:48] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[02:40:48] [Server thread/WARN]: java.lang.ClassNotFoundException: org.bukkit.craftbukkit.craftbukkit.entity.CraftPlayer
+[02:40:48] [Server thread/WARN]: 	at org.bukkit.plugin.java.PluginClassLoader.loadClass0(PluginClassLoader.java:197)
+[02:40:48] [Server thread/WARN]: 	at org.bukkit.plugin.java.PluginClassLoader.loadClass(PluginClassLoader.java:164)
+[02:40:48] [Server thread/WARN]: 	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:526)
+[02:40:48] [Server thread/WARN]: 	at java.base/java.lang.Class.forName0(Native Method)
+[02:40:48] [Server thread/WARN]: 	at java.base/java.lang.Class.forName(Class.java:534)
+[02:40:48] [Server thread/WARN]: 	at java.base/java.lang.Class.forName(Class.java:513)
+[02:40:48] [Server thread/WARN]: 	at io.papermc.reflectionrewriter.runtime.AbstractDefaultRulesReflectionProxy.forName(AbstractDefaultRulesReflectionProxy.java:68)
+[02:40:48] [Server thread/WARN]: 	at io.papermc.paper.pluginremap.reflect.PaperReflectionHolder.forName(Unknown Source)
+[02:40:48] [Server thread/WARN]: 	at ActionHealth-3.5.9-all.jar//com.zeshanaslam.actionhealth.utils.HealthUtil.sendActionBar(HealthUtil.java:278)
+[02:40:48] [Server thread/WARN]: 	at ActionHealth-3.5.9-all.jar//com.zeshanaslam.actionhealth.utils.HealthUtil.sendHealth(HealthUtil.java:77)
+[02:40:48] [Server thread/WARN]: 	at ActionHealth-3.5.9-all.jar//com.zeshanaslam.actionhealth.events.HealthListeners.onDamage(HealthListeners.java:57)
+[02:40:48] [Server thread/WARN]: 	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor49.execute(Unknown Source)
+[02:40:48] [Server thread/WARN]: 	at org.bukkit.plugin.EventExecutor$2.execute(EventExecutor.java:77)
+[02:40:48] [Server thread/WARN]: 	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:80)
+[02:40:48] [Server thread/WARN]: 	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70)
+[02:40:48] [Server thread/WARN]: 	at io.papermc.paper.plugin.manager.PaperEventManager.callEvent(PaperEventManager.java:54)
+[02:40:48] [Server thread/WARN]: 	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.callEvent(PaperPluginManagerImpl.java:131)
+[02:40:48] [Server thread/WARN]: 	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:628)
+[02:40:48] [Server thread/WARN]: 	at org.bukkit.craftbukkit.event.CraftEventFactory.callEvent(CraftEventFactory.java:277)
+[02:40:48] [Server thread/WARN]: 	at org.bukkit.craftbukkit.event.CraftEventFactory.callEntityDamageEvent(CraftEventFactory.java:1209)
+[02:40:48] [Server thread/WARN]: 	at org.bukkit.craftbukkit.event.CraftEventFactory.callEntityDamageEvent(CraftEventFactory.java:1199)
+[02:40:48] [Server thread/WARN]: 	at org.bukkit.craftbukkit.event.CraftEventFactory.handleEntityDamageEvent(CraftEventFactory.java:1129)
+[02:40:48] [Server thread/WARN]: 	at org.bukkit.craftbukkit.event.CraftEventFactory.handleEntityDamageEvent(CraftEventFactory.java:1092)
+[02:40:48] [Server thread/WARN]: 	at org.bukkit.craftbukkit.event.CraftEventFactory.handleLivingEntityDamageEvent(CraftEventFactory.java:1247)
+[02:40:48] [Server thread/WARN]: 	at net.minecraft.world.entity.LivingEntity.handleEntityDamage(LivingEntity.java:2327)
+[02:40:48] [Server thread/WARN]: 	at net.minecraft.world.entity.LivingEntity.hurt(LivingEntity.java:1488)
+[02:40:48] [Server thread/WARN]: 	at net.minecraft.world.entity.monster.Zombie.hurt(Zombie.java:322)
+[02:40:48] [Server thread/WARN]: 	at net.minecraft.world.entity.player.Player.attack(Player.java:1344)
+[02:40:48] [Server thread/WARN]: 	at net.minecraft.server.level.ServerPlayer.attack(ServerPlayer.java:2420)
+[02:40:48] [Server thread/WARN]: 	at net.minecraft.server.network.ServerGamePacketListenerImpl$3.onAttack(ServerGamePacketListenerImpl.java:2871)
+[02:40:48] [Server thread/WARN]: 	at net.minecraft.network.protocol.game.ServerboundInteractPacket$1.dispatch(ServerboundInteractPacket.java:29)
+[02:40:48] [Server thread/WARN]: 	at net.minecraft.network.protocol.game.ServerboundInteractPacket.dispatch(ServerboundInteractPacket.java:89)
+[02:40:48] [Server thread/WARN]: 	at net.minecraft.server.network.ServerGamePacketListenerImpl.handleInteract(ServerGamePacketListenerImpl.java:2782)
+[02:40:48] [Server thread/WARN]: 	at net.minecraft.network.protocol.game.ServerboundInteractPacket.handle(ServerboundInteractPacket.java:76)
+[02:40:48] [Server thread/WARN]: 	at net.minecraft.network.protocol.game.ServerboundInteractPacket.handle(ServerboundInteractPacket.java:14)
+[02:40:48] [Server thread/WARN]: 	at net.minecraft.network.protocol.PacketUtils.lambda$ensureRunningOnSameThread$0(PacketUtils.java:56)
+[02:40:48] [Server thread/WARN]: 	at net.minecraft.server.TickTask.run(TickTask.java:18)
+[02:40:48] [Server thread/WARN]: 	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:151)
+[02:40:48] [Server thread/WARN]: 	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24)
+[02:40:48] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1537)
+[02:40:48] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:201)
+[02:40:48] [Server thread/WARN]: 	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:125)
+[02:40:48] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1514)
+[02:40:48] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1507)
+[02:40:48] [Server thread/WARN]: 	at net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:135)
+[02:40:48] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.managedBlock(MinecraftServer.java:1466)
+[02:40:48] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:1473)
+[02:40:48] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1318)
+[02:40:48] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:330)
+[02:40:48] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[02:40:48] [Server thread/WARN]: java.lang.ClassNotFoundException: org.bukkit.craftbukkit.craftbukkit.entity.CraftPlayer
+[02:40:48] [Server thread/WARN]: 	at org.bukkit.plugin.java.PluginClassLoader.loadClass0(PluginClassLoader.java:197)
+[02:40:48] [Server thread/WARN]: 	at org.bukkit.plugin.java.PluginClassLoader.loadClass(PluginClassLoader.java:164)
+[02:40:48] [Server thread/WARN]: 	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:526)
+[02:40:48] [Server thread/WARN]: 	at java.base/java.lang.Class.forName0(Native Method)
+[02:40:48] [Server thread/WARN]: 	at java.base/java.lang.Class.forName(Class.java:534)
+[02:40:48] [Server thread/WARN]: 	at java.base/java.lang.Class.forName(Class.java:513)
+[02:40:48] [Server thread/WARN]: 	at io.papermc.reflectionrewriter.runtime.AbstractDefaultRulesReflectionProxy.forName(AbstractDefaultRulesReflectionProxy.java:68)
+[02:40:48] [Server thread/WARN]: 	at io.papermc.paper.pluginremap.reflect.PaperReflectionHolder.forName(Unknown Source)
+[02:40:48] [Server thread/WARN]: 	at ActionHealth-3.5.9-all.jar//com.zeshanaslam.actionhealth.utils.HealthUtil.sendActionBar(HealthUtil.java:278)
+[02:40:48] [Server thread/WARN]: 	at ActionHealth-3.5.9-all.jar//com.zeshanaslam.actionhealth.utils.HealthUtil.sendHealth(HealthUtil.java:77)
+[02:40:48] [Server thread/WARN]: 	at ActionHealth-3.5.9-all.jar//com.zeshanaslam.actionhealth.LookThread.run(LookThread.java:45)
+[02:40:48] [Server thread/WARN]: 	at org.bukkit.craftbukkit.scheduler.CraftTask.run(CraftTask.java:86)
+[02:40:48] [Server thread/WARN]: 	at org.bukkit.craftbukkit.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:475)
+[02:40:48] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1726)
+[02:40:48] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:473)
+[02:40:48] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1598)
+[02:40:48] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1304)
+[02:40:48] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:330)
+[02:40:48] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[02:40:48] [Server thread/WARN]: java.lang.ClassNotFoundException: org.bukkit.craftbukkit.craftbukkit.entity.CraftPlayer
+[02:40:48] [Server thread/WARN]: 	at org.bukkit.plugin.java.PluginClassLoader.loadClass0(PluginClassLoader.java:197)
+[02:40:48] [Server thread/WARN]: 	at org.bukkit.plugin.java.PluginClassLoader.loadClass(PluginClassLoader.java:164)
+[02:40:48] [Server thread/WARN]: 	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:526)
+[02:40:48] [Server thread/WARN]: 	at java.base/java.lang.Class.forName0(Native Method)
+[02:40:48] [Server thread/WARN]: 	at java.base/java.lang.Class.forName(Class.java:534)
+[02:40:48] [Server thread/WARN]: 	at java.base/java.lang.Class.forName(Class.java:513)
+[02:40:48] [Server thread/WARN]: 	at io.papermc.reflectionrewriter.runtime.AbstractDefaultRulesReflectionProxy.forName(AbstractDefaultRulesReflectionProxy.java:68)
+[02:40:48] [Server thread/WARN]: 	at io.papermc.paper.pluginremap.reflect.PaperReflectionHolder.forName(Unknown Source)
+[02:40:48] [Server thread/WARN]: 	at ActionHealth-3.5.9-all.jar//com.zeshanaslam.actionhealth.utils.HealthUtil.sendActionBar(HealthUtil.java:278)
+[02:40:48] [Server thread/WARN]: 	at ActionHealth-3.5.9-all.jar//com.zeshanaslam.actionhealth.utils.HealthUtil.sendHealth(HealthUtil.java:77)
+[02:40:48] [Server thread/WARN]: 	at ActionHealth-3.5.9-all.jar//com.zeshanaslam.actionhealth.LookThread.run(LookThread.java:45)
+[02:40:48] [Server thread/WARN]: 	at org.bukkit.craftbukkit.scheduler.CraftTask.run(CraftTask.java:86)
+[02:40:48] [Server thread/WARN]: 	at org.bukkit.craftbukkit.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:475)
+[02:40:48] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1726)
+[02:40:48] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:473)
+[02:40:48] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1598)
+[02:40:48] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1304)
+[02:40:48] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:330)
+[02:40:48] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[02:40:48] [Server thread/WARN]: java.lang.ClassNotFoundException: org.bukkit.craftbukkit.craftbukkit.entity.CraftPlayer
+[02:40:48] [Server thread/WARN]: 	at org.bukkit.plugin.java.PluginClassLoader.loadClass0(PluginClassLoader.java:197)
+[02:40:48] [Server thread/WARN]: 	at org.bukkit.plugin.java.PluginClassLoader.loadClass(PluginClassLoader.java:164)
+[02:40:48] [Server thread/WARN]: 	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:526)
+[02:40:48] [Server thread/WARN]: 	at java.base/java.lang.Class.forName0(Native Method)
+[02:40:48] [Server thread/WARN]: 	at java.base/java.lang.Class.forName(Class.java:534)
+[02:40:48] [Server thread/WARN]: 	at java.base/java.lang.Class.forName(Class.java:513)
+[02:40:48] [Server thread/WARN]: 	at io.papermc.reflectionrewriter.runtime.AbstractDefaultRulesReflectionProxy.forName(AbstractDefaultRulesReflectionProxy.java:68)
+[02:40:48] [Server thread/WARN]: 	at io.papermc.paper.pluginremap.reflect.PaperReflectionHolder.forName(Unknown Source)
+[02:40:48] [Server thread/WARN]: 	at ActionHealth-3.5.9-all.jar//com.zeshanaslam.actionhealth.utils.HealthUtil.sendActionBar(HealthUtil.java:278)
+[02:40:48] [Server thread/WARN]: 	at ActionHealth-3.5.9-all.jar//com.zeshanaslam.actionhealth.utils.HealthUtil.sendHealth(HealthUtil.java:77)
+[02:40:48] [Server thread/WARN]: 	at ActionHealth-3.5.9-all.jar//com.zeshanaslam.actionhealth.LookThread.run(LookThread.java:45)
+[02:40:48] [Server thread/WARN]: 	at org.bukkit.craftbukkit.scheduler.CraftTask.run(CraftTask.java:86)
+[02:40:48] [Server thread/WARN]: 	at org.bukkit.craftbukkit.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:475)
+[02:40:48] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1726)
+[02:40:48] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:473)
+[02:40:48] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1598)
+[02:40:48] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1304)
+[02:40:48] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:330)
+[02:40:48] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[02:40:49] [Server thread/WARN]: java.lang.ClassNotFoundException: org.bukkit.craftbukkit.craftbukkit.entity.CraftPlayer
+[02:40:49] [Server thread/WARN]: 	at org.bukkit.plugin.java.PluginClassLoader.loadClass0(PluginClassLoader.java:197)
+[02:40:49] [Server thread/WARN]: 	at org.bukkit.plugin.java.PluginClassLoader.loadClass(PluginClassLoader.java:164)
+[02:40:49] [Server thread/WARN]: 	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:526)
+[02:40:49] [Server thread/WARN]: 	at java.base/java.lang.Class.forName0(Native Method)
+[02:40:49] [Server thread/WARN]: 	at java.base/java.lang.Class.forName(Class.java:534)
+[02:40:49] [Server thread/WARN]: 	at java.base/java.lang.Class.forName(Class.java:513)
+[02:40:49] [Server thread/WARN]: 	at io.papermc.reflectionrewriter.runtime.AbstractDefaultRulesReflectionProxy.forName(AbstractDefaultRulesReflectionProxy.java:68)
+[02:40:49] [Server thread/WARN]: 	at io.papermc.paper.pluginremap.reflect.PaperReflectionHolder.forName(Unknown Source)
+[02:40:49] [Server thread/WARN]: 	at ActionHealth-3.5.9-all.jar//com.zeshanaslam.actionhealth.utils.HealthUtil.sendActionBar(HealthUtil.java:278)
+[02:40:49] [Server thread/WARN]: 	at ActionHealth-3.5.9-all.jar//com.zeshanaslam.actionhealth.utils.HealthUtil.sendHealth(HealthUtil.java:77)
+[02:40:49] [Server thread/WARN]: 	at ActionHealth-3.5.9-all.jar//com.zeshanaslam.actionhealth.LookThread.run(LookThread.java:45)
+[02:40:49] [Server thread/WARN]: 	at org.bukkit.craftbukkit.scheduler.CraftTask.run(CraftTask.java:86)
+[02:40:49] [Server thread/WARN]: 	at org.bukkit.craftbukkit.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:475)
+[02:40:49] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1726)
+[02:40:49] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:473)
+[02:40:49] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1598)
+[02:40:49] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1304)
+[02:40:49] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:330)
+[02:40:49] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[02:40:49] [Server thread/WARN]: java.lang.ClassNotFoundException: org.bukkit.craftbukkit.craftbukkit.entity.CraftPlayer
+[02:40:49] [Server thread/WARN]: 	at org.bukkit.plugin.java.PluginClassLoader.loadClass0(PluginClassLoader.java:197)
+[02:40:49] [Server thread/WARN]: 	at org.bukkit.plugin.java.PluginClassLoader.loadClass(PluginClassLoader.java:164)
+[02:40:49] [Server thread/WARN]: 	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:526)
+[02:40:49] [Server thread/WARN]: 	at java.base/java.lang.Class.forName0(Native Method)
+[02:40:49] [Server thread/WARN]: 	at java.base/java.lang.Class.forName(Class.java:534)
+[02:40:49] [Server thread/WARN]: 	at java.base/java.lang.Class.forName(Class.java:513)
+[02:40:49] [Server thread/WARN]: 	at io.papermc.reflectionrewriter.runtime.AbstractDefaultRulesReflectionProxy.forName(AbstractDefaultRulesReflectionProxy.java:68)
+[02:40:49] [Server thread/WARN]: 	at io.papermc.paper.pluginremap.reflect.PaperReflectionHolder.forName(Unknown Source)
+[02:40:49] [Server thread/WARN]: 	at ActionHealth-3.5.9-all.jar//com.zeshanaslam.actionhealth.utils.HealthUtil.sendActionBar(HealthUtil.java:278)
+[02:40:49] [Server thread/WARN]: 	at ActionHealth-3.5.9-all.jar//com.zeshanaslam.actionhealth.utils.HealthUtil.sendHealth(HealthUtil.java:77)
+[02:40:49] [Server thread/WARN]: 	at ActionHealth-3.5.9-all.jar//com.zeshanaslam.actionhealth.LookThread.run(LookThread.java:45)
+[02:40:49] [Server thread/WARN]: 	at org.bukkit.craftbukkit.scheduler.CraftTask.run(CraftTask.java:86)
+[02:40:49] [Server thread/WARN]: 	at org.bukkit.craftbukkit.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:475)
+[02:40:49] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1726)
+[02:40:49] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:473)
+[02:40:49] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1598)
+[02:40:49] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1304)
+[02:40:49] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:330)
+[02:40:49] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[02:40:49] [Server thread/WARN]: java.lang.ClassNotFoundException: org.bukkit.craftbukkit.craftbukkit.entity.CraftPlayer
+[02:40:49] [Server thread/WARN]: 	at org.bukkit.plugin.java.PluginClassLoader.loadClass0(PluginClassLoader.java:197)
+[02:40:49] [Server thread/WARN]: 	at org.bukkit.plugin.java.PluginClassLoader.loadClass(PluginClassLoader.java:164)
+[02:40:49] [Server thread/WARN]: 	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:526)
+[02:40:49] [Server thread/WARN]: 	at java.base/java.lang.Class.forName0(Native Method)
+[02:40:49] [Server thread/WARN]: 	at java.base/java.lang.Class.forName(Class.java:534)
+[02:40:49] [Server thread/WARN]: 	at java.base/java.lang.Class.forName(Class.java:513)
+[02:40:49] [Server thread/WARN]: 	at io.papermc.reflectionrewriter.runtime.AbstractDefaultRulesReflectionProxy.forName(AbstractDefaultRulesReflectionProxy.java:68)
+[02:40:49] [Server thread/WARN]: 	at io.papermc.paper.pluginremap.reflect.PaperReflectionHolder.forName(Unknown Source)
+[02:40:49] [Server thread/WARN]: 	at ActionHealth-3.5.9-all.jar//com.zeshanaslam.actionhealth.utils.HealthUtil.sendActionBar(HealthUtil.java:278)
+[02:40:49] [Server thread/WARN]: 	at ActionHealth-3.5.9-all.jar//com.zeshanaslam.actionhealth.utils.HealthUtil.sendHealth(HealthUtil.java:77)
+[02:40:49] [Server thread/WARN]: 	at ActionHealth-3.5.9-all.jar//com.zeshanaslam.actionhealth.events.HealthListeners.onDamage(HealthListeners.java:57)
+[02:40:49] [Server thread/WARN]: 	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor49.execute(Unknown Source)
+[02:40:49] [Server thread/WARN]: 	at org.bukkit.plugin.EventExecutor$2.execute(EventExecutor.java:77)
+[02:40:49] [Server thread/WARN]: 	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:80)
+[02:40:49] [Server thread/WARN]: 	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70)
+[02:40:49] [Server thread/WARN]: 	at io.papermc.paper.plugin.manager.PaperEventManager.callEvent(PaperEventManager.java:54)
+[02:40:49] [Server thread/WARN]: 	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.callEvent(PaperPluginManagerImpl.java:131)
+[02:40:49] [Server thread/WARN]: 	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:628)
+[02:40:49] [Server thread/WARN]: 	at org.bukkit.craftbukkit.event.CraftEventFactory.callEvent(CraftEventFactory.java:277)
+[02:40:49] [Server thread/WARN]: 	at org.bukkit.craftbukkit.event.CraftEventFactory.callEntityDamageEvent(CraftEventFactory.java:1209)
+[02:40:49] [Server thread/WARN]: 	at org.bukkit.craftbukkit.event.CraftEventFactory.callEntityDamageEvent(CraftEventFactory.java:1199)
+[02:40:49] [Server thread/WARN]: 	at org.bukkit.craftbukkit.event.CraftEventFactory.handleEntityDamageEvent(CraftEventFactory.java:1129)
+[02:40:49] [Server thread/WARN]: 	at org.bukkit.craftbukkit.event.CraftEventFactory.handleEntityDamageEvent(CraftEventFactory.java:1092)
+[02:40:49] [Server thread/WARN]: 	at org.bukkit.craftbukkit.event.CraftEventFactory.handleLivingEntityDamageEvent(CraftEventFactory.java:1247)
+[02:40:49] [Server thread/WARN]: 	at net.minecraft.world.entity.LivingEntity.handleEntityDamage(LivingEntity.java:2327)
+[02:40:49] [Server thread/WARN]: 	at net.minecraft.world.entity.LivingEntity.hurt(LivingEntity.java:1488)
+[02:40:49] [Server thread/WARN]: 	at net.minecraft.world.entity.monster.Zombie.hurt(Zombie.java:322)
+[02:40:49] [Server thread/WARN]: 	at net.minecraft.world.entity.player.Player.attack(Player.java:1344)
+[02:40:49] [Server thread/WARN]: 	at net.minecraft.server.level.ServerPlayer.attack(ServerPlayer.java:2420)
+[02:40:49] [Server thread/WARN]: 	at net.minecraft.server.network.ServerGamePacketListenerImpl$3.onAttack(ServerGamePacketListenerImpl.java:2871)
+[02:40:49] [Server thread/WARN]: 	at net.minecraft.network.protocol.game.ServerboundInteractPacket$1.dispatch(ServerboundInteractPacket.java:29)
+[02:40:49] [Server thread/WARN]: 	at net.minecraft.network.protocol.game.ServerboundInteractPacket.dispatch(ServerboundInteractPacket.java:89)
+[02:40:49] [Server thread/WARN]: 	at net.minecraft.server.network.ServerGamePacketListenerImpl.handleInteract(ServerGamePacketListenerImpl.java:2782)
+[02:40:49] [Server thread/WARN]: 	at net.minecraft.network.protocol.game.ServerboundInteractPacket.handle(ServerboundInteractPacket.java:76)
+[02:40:49] [Server thread/WARN]: 	at net.minecraft.network.protocol.game.ServerboundInteractPacket.handle(ServerboundInteractPacket.java:14)
+[02:40:49] [Server thread/WARN]: 	at net.minecraft.network.protocol.PacketUtils.lambda$ensureRunningOnSameThread$0(PacketUtils.java:56)
+[02:40:49] [Server thread/WARN]: 	at net.minecraft.server.TickTask.run(TickTask.java:18)
+[02:40:49] [Server thread/WARN]: 	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:151)
+[02:40:49] [Server thread/WARN]: 	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24)
+[02:40:49] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1537)
+[02:40:49] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:201)
+[02:40:49] [Server thread/WARN]: 	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:125)
+[02:40:49] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1514)
+[02:40:49] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1507)
+[02:40:49] [Server thread/WARN]: 	at net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:135)
+[02:40:49] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.managedBlock(MinecraftServer.java:1466)
+[02:40:49] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:1473)
+[02:40:49] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1318)
+[02:40:49] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:330)
+[02:40:49] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[02:40:49] [Server thread/WARN]: java.lang.ClassNotFoundException: org.bukkit.craftbukkit.craftbukkit.entity.CraftPlayer
+[02:40:49] [Server thread/WARN]: 	at org.bukkit.plugin.java.PluginClassLoader.loadClass0(PluginClassLoader.java:197)
+[02:40:49] [Server thread/WARN]: 	at org.bukkit.plugin.java.PluginClassLoader.loadClass(PluginClassLoader.java:164)
+[02:40:49] [Server thread/WARN]: 	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:526)
+[02:40:49] [Server thread/WARN]: 	at java.base/java.lang.Class.forName0(Native Method)
+[02:40:49] [Server thread/WARN]: 	at java.base/java.lang.Class.forName(Class.java:534)
+[02:40:49] [Server thread/WARN]: 	at java.base/java.lang.Class.forName(Class.java:513)
+[02:40:49] [Server thread/WARN]: 	at io.papermc.reflectionrewriter.runtime.AbstractDefaultRulesReflectionProxy.forName(AbstractDefaultRulesReflectionProxy.java:68)
+[02:40:49] [Server thread/WARN]: 	at io.papermc.paper.pluginremap.reflect.PaperReflectionHolder.forName(Unknown Source)
+[02:40:49] [Server thread/WARN]: 	at ActionHealth-3.5.9-all.jar//com.zeshanaslam.actionhealth.utils.HealthUtil.sendActionBar(HealthUtil.java:278)
+[02:40:49] [Server thread/WARN]: 	at ActionHealth-3.5.9-all.jar//com.zeshanaslam.actionhealth.utils.HealthUtil.sendHealth(HealthUtil.java:77)
+[02:40:49] [Server thread/WARN]: 	at ActionHealth-3.5.9-all.jar//com.zeshanaslam.actionhealth.LookThread.run(LookThread.java:45)
+[02:40:49] [Server thread/WARN]: 	at org.bukkit.craftbukkit.scheduler.CraftTask.run(CraftTask.java:86)
+[02:40:49] [Server thread/WARN]: 	at org.bukkit.craftbukkit.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:475)
+[02:40:49] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1726)
+[02:40:49] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:473)
+[02:40:49] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1598)
+[02:40:49] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1304)
+[02:40:49] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:330)
+[02:40:49] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[02:40:49] [Server thread/WARN]: java.lang.ClassNotFoundException: org.bukkit.craftbukkit.craftbukkit.entity.CraftPlayer
+[02:40:49] [Server thread/WARN]: 	at org.bukkit.plugin.java.PluginClassLoader.loadClass0(PluginClassLoader.java:197)
+[02:40:49] [Server thread/WARN]: 	at org.bukkit.plugin.java.PluginClassLoader.loadClass(PluginClassLoader.java:164)
+[02:40:49] [Server thread/WARN]: 	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:526)
+[02:40:49] [Server thread/WARN]: 	at java.base/java.lang.Class.forName0(Native Method)
+[02:40:49] [Server thread/WARN]: 	at java.base/java.lang.Class.forName(Class.java:534)
+[02:40:49] [Server thread/WARN]: 	at java.base/java.lang.Class.forName(Class.java:513)
+[02:40:49] [Server thread/WARN]: 	at io.papermc.reflectionrewriter.runtime.AbstractDefaultRulesReflectionProxy.forName(AbstractDefaultRulesReflectionProxy.java:68)
+[02:40:49] [Server thread/WARN]: 	at io.papermc.paper.pluginremap.reflect.PaperReflectionHolder.forName(Unknown Source)
+[02:40:49] [Server thread/WARN]: 	at ActionHealth-3.5.9-all.jar//com.zeshanaslam.actionhealth.utils.HealthUtil.sendActionBar(HealthUtil.java:278)
+[02:40:49] [Server thread/WARN]: 	at ActionHealth-3.5.9-all.jar//com.zeshanaslam.actionhealth.utils.HealthUtil.sendHealth(HealthUtil.java:77)
+[02:40:49] [Server thread/WARN]: 	at ActionHealth-3.5.9-all.jar//com.zeshanaslam.actionhealth.LookThread.run(LookThread.java:45)
+[02:40:49] [Server thread/WARN]: 	at org.bukkit.craftbukkit.scheduler.CraftTask.run(CraftTask.java:86)
+[02:40:49] [Server thread/WARN]: 	at org.bukkit.craftbukkit.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:475)
+[02:40:49] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1726)
+[02:40:49] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:473)
+[02:40:49] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1598)
+[02:40:49] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1304)
+[02:40:49] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:330)
+[02:40:49] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[02:40:49] [Server thread/WARN]: java.lang.ClassNotFoundException: org.bukkit.craftbukkit.craftbukkit.entity.CraftPlayer
+[02:40:49] [Server thread/WARN]: 	at org.bukkit.plugin.java.PluginClassLoader.loadClass0(PluginClassLoader.java:197)
+[02:40:49] [Server thread/WARN]: 	at org.bukkit.plugin.java.PluginClassLoader.loadClass(PluginClassLoader.java:164)
+[02:40:49] [Server thread/WARN]: 	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:526)
+[02:40:49] [Server thread/WARN]: 	at java.base/java.lang.Class.forName0(Native Method)
+[02:40:49] [Server thread/WARN]: 	at java.base/java.lang.Class.forName(Class.java:534)
+[02:40:49] [Server thread/WARN]: 	at java.base/java.lang.Class.forName(Class.java:513)
+[02:40:49] [Server thread/WARN]: 	at io.papermc.reflectionrewriter.runtime.AbstractDefaultRulesReflectionProxy.forName(AbstractDefaultRulesReflectionProxy.java:68)
+[02:40:49] [Server thread/WARN]: 	at io.papermc.paper.pluginremap.reflect.PaperReflectionHolder.forName(Unknown Source)
+[02:40:49] [Server thread/WARN]: 	at ActionHealth-3.5.9-all.jar//com.zeshanaslam.actionhealth.utils.HealthUtil.sendActionBar(HealthUtil.java:278)
+[02:40:49] [Server thread/WARN]: 	at ActionHealth-3.5.9-all.jar//com.zeshanaslam.actionhealth.utils.HealthUtil.sendHealth(HealthUtil.java:77)
+[02:40:49] [Server thread/WARN]: 	at ActionHealth-3.5.9-all.jar//com.zeshanaslam.actionhealth.LookThread.run(LookThread.java:45)
+[02:40:49] [Server thread/WARN]: 	at org.bukkit.craftbukkit.scheduler.CraftTask.run(CraftTask.java:86)
+[02:40:49] [Server thread/WARN]: 	at org.bukkit.craftbukkit.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:475)
+[02:40:49] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1726)
+[02:40:49] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:473)
+[02:40:49] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1598)
+[02:40:49] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1304)
+[02:40:49] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:330)
+[02:40:49] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[02:40:49] [Server thread/WARN]: java.lang.ClassNotFoundException: org.bukkit.craftbukkit.craftbukkit.entity.CraftPlayer
+[02:40:49] [Server thread/WARN]: 	at org.bukkit.plugin.java.PluginClassLoader.loadClass0(PluginClassLoader.java:197)
+[02:40:49] [Server thread/WARN]: 	at org.bukkit.plugin.java.PluginClassLoader.loadClass(PluginClassLoader.java:164)
+[02:40:49] [Server thread/WARN]: 	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:526)
+[02:40:49] [Server thread/WARN]: 	at java.base/java.lang.Class.forName0(Native Method)
+[02:40:49] [Server thread/WARN]: 	at java.base/java.lang.Class.forName(Class.java:534)
+[02:40:49] [Server thread/WARN]: 	at java.base/java.lang.Class.forName(Class.java:513)
+[02:40:49] [Server thread/WARN]: 	at io.papermc.reflectionrewriter.runtime.AbstractDefaultRulesReflectionProxy.forName(AbstractDefaultRulesReflectionProxy.java:68)
+[02:40:49] [Server thread/WARN]: 	at io.papermc.paper.pluginremap.reflect.PaperReflectionHolder.forName(Unknown Source)
+[02:40:49] [Server thread/WARN]: 	at ActionHealth-3.5.9-all.jar//com.zeshanaslam.actionhealth.utils.HealthUtil.sendActionBar(HealthUtil.java:278)
+[02:40:49] [Server thread/WARN]: 	at ActionHealth-3.5.9-all.jar//com.zeshanaslam.actionhealth.utils.HealthUtil.sendHealth(HealthUtil.java:77)
+[02:40:49] [Server thread/WARN]: 	at ActionHealth-3.5.9-all.jar//com.zeshanaslam.actionhealth.LookThread.run(LookThread.java:45)
+[02:40:49] [Server thread/WARN]: 	at org.bukkit.craftbukkit.scheduler.CraftTask.run(CraftTask.java:86)
+[02:40:49] [Server thread/WARN]: 	at org.bukkit.craftbukkit.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:475)
+[02:40:49] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1726)
+[02:40:49] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:473)
+[02:40:49] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1598)
+[02:40:49] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1304)
+[02:40:49] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:330)
+[02:40:49] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[02:40:49] [Server thread/INFO]: [Chunky] Task running for world. Processed: 11534 chunks (0.74%), ETA: 23:58:52, Rate: 18.0 cps, Current: 66, -14
+[02:40:50] [Server thread/INFO]: [Chunky] Task running for world. Processed: 11552 chunks (0.74%), ETA: 23:50:35, Rate: 18.1 cps, Current: 70, -15
+[02:40:51] [Server thread/INFO]: [Chunky] Task running for world. Processed: 11575 chunks (0.74%), ETA: 23:50:03, Rate: 18.1 cps, Current: 65, -8
+[02:40:52] [Server thread/INFO]: [Chunky] Task running for world. Processed: 11622 chunks (0.74%), ETA: 23:02:34, Rate: 18.7 cps, Current: 69, -2
+[02:40:53] [Server thread/INFO]: [Chunky] Task running for world. Processed: 11659 chunks (0.74%), ETA: 22:51:41, Rate: 18.9 cps, Current: 75, -1
+[02:40:54] [Server thread/INFO]: AgustinEz2 issued server command: /gamemode creative
+[02:40:54] [Server thread/INFO]: [AgustinEz2: Set own game mode to Creative Mode]
+[02:40:54] [Server thread/INFO]: [Chunky] Task running for world. Processed: 11686 chunks (0.75%), ETA: 23:38:36, Rate: 18.2 cps, Current: 75, -5
+[02:40:56] [Server thread/INFO]: [Chunky] Task running for world. Processed: 11713 chunks (0.75%), ETA: 23:33:56, Rate: 18.3 cps, Current: 77, -10
+[02:40:57] [Server thread/INFO]: [Chunky] Task running for world. Processed: 11767 chunks (0.75%), ETA: 22:33:54, Rate: 19.1 cps, Current: 79, -7
+[02:40:58] [Server thread/INFO]: [Chunky] Task running for world. Processed: 11779 chunks (0.75%), ETA: 23:07:01, Rate: 18.7 cps, Current: 80, -14
+[02:40:59] [Server thread/INFO]: [Chunky] Task running for world. Processed: 11806 chunks (0.75%), ETA: 22:54:42, Rate: 18.8 cps, Current: 83, -15
+[02:41:01] [Server thread/INFO]: [Chunky] Task running for world. Processed: 11833 chunks (0.76%), ETA: 22:50:51, Rate: 18.9 cps, Current: 81, -8
+[02:41:02] [Server thread/INFO]: [Chunky] Task running for world. Processed: 11876 chunks (0.76%), ETA: 21:49:52, Rate: 19.8 cps, Current: 87, -1
+[02:41:03] [Server thread/INFO]: [Chunky] Task running for world. Processed: 11913 chunks (0.76%), ETA: 21:06:57, Rate: 20.4 cps, Current: 89, -6
+[02:41:04] [Server thread/INFO]: [Chunky] Task running for world. Processed: 11942 chunks (0.76%), ETA: 20:23:15, Rate: 21.2 cps, Current: 91, -5
+[02:41:05] [Server thread/INFO]: [Chunky] Task running for world. Processed: 11966 chunks (0.76%), ETA: 19:56:41, Rate: 21.6 cps, Current: 93, -10
+[02:41:06] [Server thread/INFO]: [Chunky] Task running for world. Processed: 11995 chunks (0.77%), ETA: 19:49:31, Rate: 21.8 cps, Current: 95, -7
+[02:41:07] [Server thread/INFO]: [Chunky] Task running for world. Processed: 12020 chunks (0.77%), ETA: 19:37:23, Rate: 22.0 cps, Current: 93, -14
+[02:41:09] [Server thread/INFO]: [Chunky] Task running for world. Processed: 12029 chunks (0.77%), ETA: 20:13:12, Rate: 21.3 cps, Current: 94, -15
+[02:41:10] [Server thread/INFO]: AgustinEz2 issued server command: /chunky progress
+[02:41:10] [Server thread/INFO]: [Chunky] Task running for world. Processed: 12046 chunks (0.77%), ETA: 20:11:30, Rate: 21.4 cps, Current: 93, -22
+[02:41:11] [Server thread/INFO]: [Chunky] Task running for world. Processed: 12068 chunks (0.77%), ETA: 19:45:27, Rate: 21.8 cps, Current: 95, -19
+[02:41:12] [Server thread/INFO]: [Chunky] Task running for world. Processed: 12097 chunks (0.77%), ETA: 18:51:37, Rate: 22.9 cps, Current: 86, -18
+[02:41:12] [Server thread/INFO]: AgustinEz2 lost connection: Disconnected
+[02:41:13] [Server thread/INFO]: AgustinEz2 left the game
+[02:41:13] [Server thread/INFO]: [Chunky] Task running for world. Processed: 12146 chunks (0.78%), ETA: 18:10:49, Rate: 23.7 cps, Current: 80, -24
+[02:41:14] [Server thread/INFO]: [Chunky] Task running for world. Processed: 12177 chunks (0.78%), ETA: 18:07:41, Rate: 23.8 cps, Current: 86, -26
+[02:41:15] [Server thread/INFO]: [Chunky] Task running for world. Processed: 12202 chunks (0.78%), ETA: 18:27:40, Rate: 23.4 cps, Current: 81, -31
+[02:41:16] [Server thread/INFO]: [Chunky] Task running for world. Processed: 12230 chunks (0.78%), ETA: 17:33:54, Rate: 24.6 cps, Current: 82, -32
+[02:41:18] [Server thread/INFO]: [Chunky] Task running for world. Processed: 12254 chunks (0.78%), ETA: 17:39:03, Rate: 24.4 cps, Current: 86, -32
+[02:41:19] [Server thread/INFO]: [Chunky] Task running for world. Processed: 12273 chunks (0.78%), ETA: 17:20:38, Rate: 24.9 cps, Current: 94, -28
+[02:41:20] [Server thread/INFO]: [Chunky] Task running for world. Processed: 12279 chunks (0.78%), ETA: 17:41:10, Rate: 24.4 cps, Current: 93, -31
+[02:41:21] [Server thread/INFO]: [Chunky] Task running for world. Processed: 12283 chunks (0.78%), ETA: 18:11:32, Rate: 23.7 cps, Current: 95, -29
+[02:41:22] [Server thread/INFO]: [Chunky] Task running for world. Processed: 12297 chunks (0.79%), ETA: 19:38:34, Rate: 22.0 cps, Current: 95, -31
+[02:41:23] [Server thread/INFO]: [Chunky] Task running for world. Processed: 12313 chunks (0.79%), ETA: 19:51:50, Rate: 21.7 cps, Current: 64, -62
+[02:41:24] [Server thread/INFO]: [Chunky] Task running for world. Processed: 12325 chunks (0.79%), ETA: 20:18:47, Rate: 21.2 cps, Current: 69, -58
+[02:41:26] [Server thread/INFO]: [Chunky] Task running for world. Processed: 12339 chunks (0.79%), ETA: 22:00:15, Rate: 19.6 cps, Current: 69, -63
+[02:41:27] [Server thread/INFO]: [Chunky] Task running for world. Processed: 12354 chunks (0.79%), ETA: 21:55:45, Rate: 19.7 cps, Current: 72, -63
+[02:41:29] [Server thread/INFO]: [Chunky] Task running for world. Processed: 12367 chunks (0.79%), ETA: 22:29:23, Rate: 19.2 cps, Current: 76, -60
+[02:41:30] [Server thread/INFO]: [Chunky] Task running for world. Processed: 12389 chunks (0.79%), ETA: 22:37:48, Rate: 19.1 cps, Current: 75, -64
+[02:41:31] [Server thread/INFO]: [Chunky] Task running for world. Processed: 12412 chunks (0.79%), ETA: 23:26:11, Rate: 18.4 cps, Current: 75, -57
+[02:41:32] [Server thread/INFO]: [Chunky] Task running for world. Processed: 12426 chunks (0.79%), ETA: 24:29:24, Rate: 17.6 cps, Current: 73, -54
+[02:41:33] [Server thread/INFO]: [Chunky] Task running for world. Processed: 12439 chunks (0.79%), ETA: 25:08:39, Rate: 17.2 cps, Current: 78, -55
+[02:41:34] [Server thread/INFO]: [Chunky] Task running for world. Processed: 12455 chunks (0.80%), ETA: 25:35:13, Rate: 16.9 cps, Current: 78, -50
+[02:41:35] [Server thread/INFO]: [Chunky] Task running for world. Processed: 12473 chunks (0.80%), ETA: 26:11:45, Rate: 16.5 cps, Current: 70, -56
+[02:41:36] [Server thread/INFO]: [Chunky] Task running for world. Processed: 12505 chunks (0.80%), ETA: 25:52:23, Rate: 16.7 cps, Current: 64, -56
+[02:41:37] [Server thread/INFO]: [Chunky] Task running for world. Processed: 12525 chunks (0.80%), ETA: 24:59:56, Rate: 17.3 cps, Current: 68, -49
+[02:41:38] [Server thread/INFO]: [Chunky] Task running for world. Processed: 12537 chunks (0.80%), ETA: 25:17:08, Rate: 17.1 cps, Current: 69, -48
+[02:41:40] [Server thread/INFO]: [Chunky] Task running for world. Processed: 12558 chunks (0.80%), ETA: 25:01:57, Rate: 17.2 cps, Current: 70, -47
+[02:41:41] [Server thread/INFO]: [Chunky] Task running for world. Processed: 12566 chunks (0.80%), ETA: 25:46:00, Rate: 16.7 cps, Current: 64, -49
+[02:41:42] [Server thread/INFO]: [Chunky] Task running for world. Processed: 12586 chunks (0.80%), ETA: 28:26:28, Rate: 15.2 cps, Current: 69, -42
+[02:41:43] [Server thread/INFO]: [Chunky] Task running for world. Processed: 12595 chunks (0.80%), ETA: 29:52:07, Rate: 14.4 cps, Current: 65, -43
+[02:41:44] [Server thread/INFO]: [Chunky] Task running for world. Processed: 12632 chunks (0.81%), ETA: 28:53:50, Rate: 14.9 cps, Current: 64, -42
+[02:41:45] [Server thread/INFO]: [Chunky] Task running for world. Processed: 12674 chunks (0.81%), ETA: 28:03:29, Rate: 15.4 cps, Current: 72, -39
+[02:41:47] [Server thread/INFO]: [Chunky] Task running for world. Processed: 12705 chunks (0.81%), ETA: 27:42:52, Rate: 15.6 cps, Current: 77, -34
+[02:41:48] [Server thread/INFO]: [Chunky] Task running for world. Processed: 12724 chunks (0.81%), ETA: 27:38:44, Rate: 15.6 cps, Current: 76, -41
+[02:41:49] [Server thread/INFO]: [Chunky] Task running for world. Processed: 12763 chunks (0.82%), ETA: 25:40:46, Rate: 16.8 cps, Current: 79, -36
+[02:41:50] [Server thread/INFO]: [Chunky] Task running for world. Processed: 12802 chunks (0.82%), ETA: 24:05:14, Rate: 17.9 cps, Current: 80, -47
+[02:41:51] [Server thread/INFO]: [Chunky] Task running for world. Processed: 12805 chunks (0.82%), ETA: 24:29:39, Rate: 17.6 cps, Current: 84, -46
+[02:41:52] [Server thread/INFO]: [Chunky] Task running for world. Processed: 12833 chunks (0.82%), ETA: 23:59:09, Rate: 18.0 cps, Current: 86, -47
+[02:41:54] [Server thread/INFO]: [Chunky] Task running for world. Processed: 12857 chunks (0.82%), ETA: 23:35:28, Rate: 18.3 cps, Current: 81, -40
+[02:41:55] [Server thread/INFO]: [Chunky] Task running for world. Processed: 12890 chunks (0.82%), ETA: 22:18:19, Rate: 19.3 cps, Current: 83, -40
+[02:41:56] [Server thread/INFO]: [Chunky] Task running for world. Processed: 12930 chunks (0.83%), ETA: 21:38:51, Rate: 19.9 cps, Current: 88, -39
+[02:41:57] [Server thread/INFO]: [Chunky] Task running for world. Processed: 12957 chunks (0.83%), ETA: 21:03:28, Rate: 20.5 cps, Current: 93, -34
+[02:41:58] [Server thread/INFO]: [Chunky] Task running for world. Processed: 12980 chunks (0.83%), ETA: 20:43:05, Rate: 20.8 cps, Current: 94, -35
+[02:41:59] [Server thread/INFO]: [Chunky] Task running for world. Processed: 13002 chunks (0.83%), ETA: 20:34:16, Rate: 21.0 cps, Current: 89, -43
+[02:42:00] [Server thread/INFO]: [Chunky] Task running for world. Processed: 13027 chunks (0.83%), ETA: 20:28:31, Rate: 21.1 cps, Current: 90, -46
+[02:42:01] [Server thread/INFO]: [Chunky] Task running for world. Processed: 13049 chunks (0.83%), ETA: 20:12:40, Rate: 21.3 cps, Current: 94, -45
+[02:42:02] [Server thread/INFO]: [Chunky] Task running for world. Processed: 13056 chunks (0.83%), ETA: 20:29:10, Rate: 21.0 cps, Current: 94, -48
+[02:42:04] [Server thread/INFO]: [Chunky] Task running for world. Processed: 13073 chunks (0.84%), ETA: 20:35:08, Rate: 20.9 cps, Current: 91, -54
+[02:42:05] [Server thread/INFO]: [Chunky] Task running for world. Processed: 13098 chunks (0.84%), ETA: 20:17:35, Rate: 21.2 cps, Current: 95, -54
+[02:42:06] [Server thread/INFO]: [Chunky] Task running for world. Processed: 13120 chunks (0.84%), ETA: 20:34:16, Rate: 21.0 cps, Current: 87, -50
+[02:42:07] [Server thread/INFO]: [Chunky] Task running for world. Processed: 13158 chunks (0.84%), ETA: 19:59:17, Rate: 21.6 cps, Current: 80, -54
+[02:42:08] [Server thread/INFO]: [Chunky] Task running for world. Processed: 13194 chunks (0.84%), ETA: 19:17:03, Rate: 22.4 cps, Current: 85, -58
+[02:42:09] [Server thread/INFO]: [Chunky] Task running for world. Processed: 13217 chunks (0.84%), ETA: 19:12:35, Rate: 22.4 cps, Current: 81, -62
+[02:42:10] [Server thread/INFO]: [Chunky] Task running for world. Processed: 13234 chunks (0.85%), ETA: 18:55:57, Rate: 22.8 cps, Current: 81, -64
+[02:42:11] [Server thread/INFO]: [Chunky] Task running for world. Processed: 13258 chunks (0.85%), ETA: 18:38:55, Rate: 23.1 cps, Current: 90, -58
+[02:42:12] [Server thread/INFO]: [Chunky] Task running for world. Processed: 13280 chunks (0.85%), ETA: 18:18:09, Rate: 23.6 cps, Current: 88, -64
+[02:42:13] [Server thread/INFO]: [Chunky] Task running for world. Processed: 13297 chunks (0.85%), ETA: 18:51:46, Rate: 22.9 cps, Current: 93, -62
+[02:42:15] [Server thread/INFO]: [Chunky] Task running for world. Processed: 13305 chunks (0.85%), ETA: 19:57:31, Rate: 21.6 cps, Current: 95, -60
+[02:42:16] [Server thread/INFO]: [Chunky] Task running for world. Processed: 13313 chunks (0.85%), ETA: 20:34:51, Rate: 20.9 cps, Current: 33, -63
+[02:42:17] [Server thread/INFO]: [Chunky] Task running for world. Processed: 13321 chunks (0.85%), ETA: 21:06:41, Rate: 20.4 cps, Current: 95, -64
+[02:42:18] [Server thread/INFO]: [Chunky] Task running for world. Processed: 13341 chunks (0.85%), ETA: 22:06:03, Rate: 19.5 cps, Current: 32, -61
+[02:42:20] [Server thread/INFO]: [Chunky] Task running for world. Processed: 13363 chunks (0.85%), ETA: 22:14:31, Rate: 19.4 cps, Current: 37, -57
+[02:42:21] [Server thread/INFO]: [Chunky] Task running for world. Processed: 13379 chunks (0.85%), ETA: 22:54:14, Rate: 18.8 cps, Current: 38, -64
+[02:42:22] [Server thread/INFO]: [Chunky] Task running for world. Processed: 13405 chunks (0.86%), ETA: 22:36:57, Rate: 19.1 cps, Current: 41, -59
+[02:42:24] [Server thread/INFO]: [Chunky] Task running for world. Processed: 13419 chunks (0.86%), ETA: 23:35:09, Rate: 18.3 cps, Current: 46, -60
+[02:42:25] [Server thread/INFO]: [Chunky] Task running for world. Processed: 13444 chunks (0.86%), ETA: 24:17:15, Rate: 17.7 cps, Current: 47, -59
+[02:42:26] [Server thread/INFO]: [Chunky] Task running for world. Processed: 13459 chunks (0.86%), ETA: 24:45:56, Rate: 17.4 cps, Current: 40, -54
+[02:42:27] [Server thread/INFO]: [Chunky] Task running for world. Processed: 13471 chunks (0.86%), ETA: 25:04:53, Rate: 17.2 cps, Current: 45, -51
+[02:42:29] [Server thread/INFO]: [Chunky] Task running for world. Processed: 13485 chunks (0.86%), ETA: 26:18:45, Rate: 16.4 cps, Current: 46, -50
+[02:42:30] [Server thread/INFO]: [Chunky] Task running for world. Processed: 13512 chunks (0.86%), ETA: 26:10:03, Rate: 16.5 cps, Current: 47, -50
+[02:42:31] [Server thread/INFO]: [Chunky] Task running for world. Processed: 13536 chunks (0.86%), ETA: 26:06:08, Rate: 16.5 cps, Current: 36, -54
+[02:42:32] [Server thread/INFO]: [Chunky] Task running for world. Processed: 13553 chunks (0.87%), ETA: 25:31:49, Rate: 16.9 cps, Current: 34, -51
+[02:42:33] [Server thread/INFO]: [Chunky] Task running for world. Processed: 13567 chunks (0.87%), ETA: 25:30:38, Rate: 16.9 cps, Current: 32, -54
+[02:42:34] [Server thread/INFO]: [Chunky] Task running for world. Processed: 13594 chunks (0.87%), ETA: 25:19:02, Rate: 17.0 cps, Current: 33, -44
+[02:42:35] [Server thread/INFO]: [Chunky] Task running for world. Processed: 13633 chunks (0.87%), ETA: 24:29:10, Rate: 17.6 cps, Current: 38, -43
+[02:42:36] [Server thread/INFO]: [Chunky] Task running for world. Processed: 13683 chunks (0.87%), ETA: 24:06:31, Rate: 17.9 cps, Current: 38, -34
+[02:42:37] [Server thread/INFO]: [Chunky] Task running for world. Processed: 13713 chunks (0.88%), ETA: 24:25:22, Rate: 17.6 cps, Current: 41, -39
+[02:42:38] [Server thread/INFO]: [Chunky] Task running for world. Processed: 13738 chunks (0.88%), ETA: 24:20:28, Rate: 17.7 cps, Current: 46, -34
+[02:42:40] [Server thread/INFO]: [Chunky] Task running for world. Processed: 13758 chunks (0.88%), ETA: 24:20:49, Rate: 17.7 cps, Current: 40, -42
+[02:42:41] [Server thread/INFO]: [Chunky] Task running for world. Processed: 13800 chunks (0.88%), ETA: 23:28:50, Rate: 18.4 cps, Current: 44, -48
+[02:42:42] [Server thread/INFO]: [Chunky] Task running for world. Processed: 13826 chunks (0.88%), ETA: 23:35:45, Rate: 18.3 cps, Current: 48, -47
+[02:42:43] [Server thread/INFO]: [Chunky] Task running for world. Processed: 13830 chunks (0.88%), ETA: 24:09:53, Rate: 17.8 cps, Current: 50, -46
+[02:42:44] [Server thread/INFO]: [Chunky] Task running for world. Processed: 13854 chunks (0.89%), ETA: 23:11:31, Rate: 18.6 cps, Current: 51, -47
+[02:42:45] [Server thread/INFO]: [Chunky] Task running for world. Processed: 13871 chunks (0.89%), ETA: 22:50:32, Rate: 18.9 cps, Current: 54, -42
+[02:42:47] [Server thread/INFO]: [Chunky] Task running for world. Processed: 13909 chunks (0.89%), ETA: 21:42:42, Rate: 19.8 cps, Current: 52, -41
+[02:42:48] [Server thread/INFO]: [Chunky] Task running for world. Processed: 13949 chunks (0.89%), ETA: 20:47:04, Rate: 20.7 cps, Current: 55, -38
+[02:42:49] [Server thread/INFO]: [Chunky] Task running for world. Processed: 13989 chunks (0.89%), ETA: 19:45:28, Rate: 21.8 cps, Current: 58, -39
+[02:42:50] [Server thread/INFO]: [Chunky] Task running for world. Processed: 14036 chunks (0.90%), ETA: 19:03:35, Rate: 22.6 cps, Current: 61, -43
+[02:42:51] [Server thread/INFO]: [Chunky] Task running for world. Processed: 14077 chunks (0.90%), ETA: 18:10:20, Rate: 23.7 cps, Current: 63, -50
+[02:42:52] [Server thread/INFO]: [Chunky] Task running for world. Processed: 14094 chunks (0.90%), ETA: 18:29:41, Rate: 23.3 cps, Current: 63, -56
+[02:42:53] [Server thread/INFO]: [Chunky] Task running for world. Processed: 14120 chunks (0.90%), ETA: 18:06:12, Rate: 23.8 cps, Current: 62, -56
+[02:42:54] [Server thread/INFO]: [Chunky] Task running for world. Processed: 14134 chunks (0.90%), ETA: 18:26:33, Rate: 23.4 cps, Current: 48, -50
+[02:42:56] [Server thread/INFO]: [Chunky] Task running for world. Processed: 14165 chunks (0.91%), ETA: 18:06:32, Rate: 23.8 cps, Current: 48, -54
+[02:42:57] [Server thread/INFO]: [Chunky] Task running for world. Processed: 14209 chunks (0.91%), ETA: 17:23:16, Rate: 24.8 cps, Current: 48, -57
+[02:42:58] [Server thread/INFO]: [Chunky] Task running for world. Processed: 14246 chunks (0.91%), ETA: 16:31:40, Rate: 26.1 cps, Current: 49, -63
+[02:42:59] [Server thread/INFO]: [Chunky] Task running for world. Processed: 14261 chunks (0.91%), ETA: 16:46:52, Rate: 25.7 cps, Current: 51, -63
+[02:43:00] [Server thread/INFO]: [Chunky] Task running for world. Processed: 14303 chunks (0.91%), ETA: 16:20:17, Rate: 26.4 cps, Current: 51, -64
+[02:43:03] [Server thread/INFO]: [Chunky] Task running for world. Processed: 14337 chunks (0.92%), ETA: 17:02:37, Rate: 25.3 cps, Current: 2, -59
+[02:43:05] [Server thread/INFO]: [Chunky] Task running for world. Processed: 14357 chunks (0.92%), ETA: 17:44:44, Rate: 24.3 cps, Current: 5, -58
+[02:43:06] [Server thread/INFO]: [Chunky] Task running for world. Processed: 14384 chunks (0.92%), ETA: 18:14:53, Rate: 23.6 cps, Current: 4, -57
+[02:43:07] [Server thread/INFO]: [Chunky] Task running for world. Processed: 14394 chunks (0.92%), ETA: 18:47:06, Rate: 22.9 cps, Current: 4, -64
+[02:43:09] [Server thread/INFO]: [Chunky] Task running for world. Processed: 14406 chunks (0.92%), ETA: 19:09:17, Rate: 22.5 cps, Current: 9, -61
+[02:43:10] [Server thread/INFO]: [Chunky] Task running for world. Processed: 14437 chunks (0.92%), ETA: 19:31:59, Rate: 22.1 cps, Current: 14, -60
+[02:43:11] [Server thread/INFO]: [Chunky] Task running for world. Processed: 14440 chunks (0.92%), ETA: 20:15:34, Rate: 21.3 cps, Current: 11, -64
+[02:43:12] [Server thread/INFO]: [Chunky] Task running for world. Processed: 14461 chunks (0.92%), ETA: 20:18:00, Rate: 21.2 cps, Current: 15, -59
+[02:43:13] [Server thread/INFO]: [Chunky] Task running for world. Processed: 14481 chunks (0.93%), ETA: 19:55:48, Rate: 21.6 cps, Current: 14, -56
+[02:43:14] [Server thread/INFO]: [Chunky] Task running for world. Processed: 14503 chunks (0.93%), ETA: 19:48:30, Rate: 21.7 cps, Current: 14, -50
+[02:43:15] [Server thread/INFO]: [Chunky] Task running for world. Processed: 14524 chunks (0.93%), ETA: 20:12:11, Rate: 21.3 cps, Current: 15, -49
+[02:43:17] [Server thread/INFO]: [Chunky] Task running for world. Processed: 14554 chunks (0.93%), ETA: 20:39:45, Rate: 20.8 cps, Current: 9, -49
+[02:43:18] [Server thread/INFO]: [Chunky] Task running for world. Processed: 14577 chunks (0.93%), ETA: 21:21:39, Rate: 20.2 cps, Current: 1, -54
+[02:43:19] [Server thread/INFO]: [Chunky] Task running for world. Processed: 14600 chunks (0.93%), ETA: 22:18:49, Rate: 19.3 cps, Current: 7, -42
+[02:43:20] [Server thread/INFO]: [Chunky] Task running for world. Processed: 14627 chunks (0.93%), ETA: 22:57:19, Rate: 18.8 cps, Current: 0, -50
+[02:43:21] [Server thread/INFO]: [Chunky] Task running for world. Processed: 14648 chunks (0.94%), ETA: 22:49:53, Rate: 18.9 cps, Current: 3, -40
+[02:43:23] [Server thread/INFO]: [Chunky] Task running for world. Processed: 14784 chunks (0.94%), ETA: 19:02:55, Rate: 22.6 cps, Current: 0, -42
+[02:43:24] [Server thread/INFO]: [Chunky] Task running for world. Processed: 14855 chunks (0.95%), ETA: 17:41:44, Rate: 24.3 cps, Current: 16, -45
+[02:43:25] [Server thread/INFO]: [Chunky] Task running for world. Processed: 15019 chunks (0.96%), ETA: 14:55:09, Rate: 28.9 cps, Current: 18, -46
+[02:43:26] [Server thread/INFO]: [Chunky] Task running for world. Processed: 15065 chunks (0.96%), ETA: 14:56:46, Rate: 28.8 cps, Current: 23, -45
+[02:43:28] [Server thread/INFO]: [Chunky] Task running for world. Processed: 15100 chunks (0.96%), ETA: 14:55:08, Rate: 28.9 cps, Current: 30, -48
+[02:43:29] [Server thread/INFO]: [Chunky] Task running for world. Processed: 15122 chunks (0.97%), ETA: 14:50:56, Rate: 29.0 cps, Current: 28, -49
+[02:43:30] [Server thread/INFO]: [Chunky] Task running for world. Processed: 15151 chunks (0.97%), ETA: 15:05:30, Rate: 28.5 cps, Current: 28, -55
+[02:43:31] [Server thread/INFO]: [Chunky] Task running for world. Processed: 15186 chunks (0.97%), ETA: 13:57:41, Rate: 30.8 cps, Current: 17, -52
+[02:43:32] [Server thread/INFO]: [Chunky] Task running for world. Processed: 15233 chunks (0.97%), ETA: 13:44:57, Rate: 31.3 cps, Current: 16, -57
+[02:43:33] [Server thread/INFO]: [Chunky] Task running for world. Processed: 15253 chunks (0.97%), ETA: 14:04:43, Rate: 30.6 cps, Current: 16, -64
+[02:43:34] [Server thread/INFO]: [Chunky] Task running for world. Processed: 15280 chunks (0.98%), ETA: 13:45:52, Rate: 31.3 cps, Current: 23, -60
+[02:43:35] [Server thread/INFO]: [Chunky] Task running for world. Processed: 15313 chunks (0.98%), ETA: 13:38:11, Rate: 31.6 cps, Current: 30, -58
+[02:43:37] [Server thread/INFO]: [Chunky] Task running for world. Processed: 15352 chunks (0.98%), ETA: 13:19:31, Rate: 32.3 cps, Current: 23, -64
+[02:43:40] [Server thread/INFO]: [Chunky] Task running for world. Processed: 15361 chunks (0.98%), ETA: 13:54:39, Rate: 30.9 cps, Current: -30, -59
+[02:43:41] [Server thread/INFO]: [Chunky] Task running for world. Processed: 15381 chunks (0.98%), ETA: 13:43:14, Rate: 31.4 cps, Current: -27, -58
+[02:43:43] [Server thread/INFO]: [Chunky] Task running for world. Processed: 15399 chunks (0.98%), ETA: 13:41:22, Rate: 31.4 cps, Current: -32, -59
+[02:43:44] [Server thread/INFO]: [Chunky] Task running for world. Processed: 15418 chunks (0.99%), ETA: 13:44:28, Rate: 31.3 cps, Current: -28, -64
+[02:43:45] [Server thread/INFO]: [Chunky] Task running for world. Processed: 15427 chunks (0.99%), ETA: 13:59:29, Rate: 30.8 cps, Current: -27, -64
+[02:43:46] [Server thread/INFO]: [Chunky] Task running for world. Processed: 15459 chunks (0.99%), ETA: 13:50:12, Rate: 31.1 cps, Current: -22, -64
+[02:43:47] [Server thread/INFO]: [Chunky] Task running for world. Processed: 15471 chunks (0.99%), ETA: 13:56:46, Rate: 30.9 cps, Current: -20, -64
+[02:43:48] [Server thread/INFO]: [Chunky] Task running for world. Processed: 15494 chunks (0.99%), ETA: 13:57:13, Rate: 30.8 cps, Current: -23, -55
+[02:43:49] [Server thread/INFO]: [Chunky] Task running for world. Processed: 15509 chunks (0.99%), ETA: 14:09:26, Rate: 30.4 cps, Current: -19, -52
+[02:43:50] [Server thread/INFO]: [Chunky] Task running for world. Processed: 15529 chunks (0.99%), ETA: 14:07:43, Rate: 30.5 cps, Current: -18, -51
+[02:43:51] [Server thread/INFO]: [Chunky] Task running for world. Processed: 15549 chunks (0.99%), ETA: 16:15:59, Rate: 26.5 cps, Current: -26, -51
+[02:43:53] [Server thread/INFO]: [Chunky] Task running for world. Processed: 15579 chunks (1.00%), ETA: 16:13:13, Rate: 26.5 cps, Current: -24, -49
+[02:43:54] [Server thread/INFO]: [Chunky] Task running for world. Processed: 15602 chunks (1.00%), ETA: 17:04:18, Rate: 25.2 cps, Current: -30, -52
+[02:43:55] [Server thread/INFO]: [Chunky] Task running for world. Processed: 15627 chunks (1.00%), ETA: 20:58:47, Rate: 20.5 cps, Current: -29, -46
+[02:43:56] [Server thread/INFO]: [Chunky] Task running for world. Processed: 15636 chunks (1.00%), ETA: 22:12:59, Rate: 19.4 cps, Current: -26, -45
+[02:43:57] [Server thread/INFO]: [Chunky] Task running for world. Processed: 15657 chunks (1.00%), ETA: 22:51:05, Rate: 18.8 cps, Current: -31, -44
+[02:43:58] [Server thread/INFO]: [Chunky] Task running for world. Processed: 15668 chunks (1.00%), ETA: 23:15:12, Rate: 18.5 cps, Current: -25, -43
+[02:43:59] [Server thread/INFO]: [Chunky] Task running for world. Processed: 15722 chunks (1.00%), ETA: 22:20:02, Rate: 19.3 cps, Current: -27, -34
+[02:44:01] [Server thread/INFO]: [Chunky] Task running for world. Processed: 15761 chunks (1.01%), ETA: 22:10:10, Rate: 19.4 cps, Current: -22, -34
+[02:44:02] [Server thread/INFO]: [Chunky] Task running for world. Processed: 15786 chunks (1.01%), ETA: 23:05:34, Rate: 18.6 cps, Current: -22, -40
+[02:44:03] [Server thread/INFO]: [Chunky] Task running for world. Processed: 15824 chunks (1.01%), ETA: 22:11:39, Rate: 19.4 cps, Current: -18, -38
+[02:44:04] [Server thread/INFO]: [Chunky] Task running for world. Processed: 15874 chunks (1.01%), ETA: 21:24:41, Rate: 20.1 cps, Current: -16, -47
+[02:44:05] [Server thread/INFO]: [Chunky] Task running for world. Processed: 15875 chunks (1.01%), ETA: 22:46:50, Rate: 18.9 cps, Current: -16, -46
+[02:44:06] [Server thread/INFO]: [Chunky] Task running for world. Processed: 15903 chunks (1.02%), ETA: 22:59:07, Rate: 18.7 cps, Current: -14, -48
+[02:44:08] [Server thread/INFO]: [Chunky] Task running for world. Processed: 15930 chunks (1.02%), ETA: 21:07:06, Rate: 20.4 cps, Current: -15, -40
+[02:44:09] [Server thread/INFO]: [Chunky] Task running for world. Processed: 15964 chunks (1.02%), ETA: 20:47:00, Rate: 20.7 cps, Current: -10, -33
+[02:44:10] [Server thread/INFO]: [Chunky] Task running for world. Processed: 16002 chunks (1.02%), ETA: 19:35:31, Rate: 22.0 cps, Current: -8, -33
+[02:44:11] [Server thread/INFO]: [Chunky] Task running for world. Processed: 16065 chunks (1.03%), ETA: 18:34:28, Rate: 23.2 cps, Current: -1, -44
+[02:44:12] [Server thread/INFO]: [Chunky] Task running for world. Processed: 16115 chunks (1.03%), ETA: 17:49:40, Rate: 24.1 cps, Current: -7, -47
+[02:44:13] [Server thread/INFO]: [Chunky] Task running for world. Processed: 16146 chunks (1.03%), ETA: 17:30:01, Rate: 24.6 cps, Current: -4, -49
+[02:44:14] [Server thread/INFO]: [Chunky] Task running for world. Processed: 16174 chunks (1.03%), ETA: 17:01:09, Rate: 25.3 cps, Current: -4, -55
+[02:44:15] [Server thread/INFO]: [Chunky] Task running for world. Processed: 16210 chunks (1.04%), ETA: 16:54:50, Rate: 25.4 cps, Current: -15, -52
+[02:44:17] [Server thread/INFO]: [Chunky] Task running for world. Processed: 16257 chunks (1.04%), ETA: 16:16:12, Rate: 26.4 cps, Current: -16, -57
+[02:44:18] [Server thread/INFO]: [Chunky] Task running for world. Processed: 16289 chunks (1.04%), ETA: 16:06:33, Rate: 26.7 cps, Current: -15, -62
+[02:44:19] [Server thread/INFO]: [Chunky] Task running for world. Processed: 16307 chunks (1.04%), ETA: 15:57:15, Rate: 27.0 cps, Current: -14, -63
+[02:44:20] [Server thread/INFO]: [Chunky] Task running for world. Processed: 16344 chunks (1.04%), ETA: 15:35:23, Rate: 27.6 cps, Current: -8, -63
+[02:44:24] [Server thread/INFO]: [Chunky] Task running for world. Processed: 16385 chunks (1.05%), ETA: 16:24:22, Rate: 26.2 cps, Current: -62, -59
+[02:44:25] [Server thread/INFO]: [Chunky] Task running for world. Processed: 16405 chunks (1.05%), ETA: 16:15:57, Rate: 26.4 cps, Current: -59, -58
+[02:44:26] [Server thread/INFO]: [Chunky] Task running for world. Processed: 16420 chunks (1.05%), ETA: 16:25:05, Rate: 26.2 cps, Current: -60, -62
+[02:44:27] [Server thread/INFO]: [Chunky] Task running for world. Processed: 16443 chunks (1.05%), ETA: 16:12:36, Rate: 26.5 cps, Current: -59, -63
+[02:44:29] [Server thread/INFO]: [Chunky] Task running for world. Processed: 16453 chunks (1.05%), ETA: 17:09:00, Rate: 25.1 cps, Current: -55, -63
+[02:44:30] [Server thread/INFO]: [Chunky] Task running for world. Processed: 16481 chunks (1.05%), ETA: 17:17:40, Rate: 24.9 cps, Current: -50, -63
+[02:44:31] [Server thread/INFO]: [Chunky] Task running for world. Processed: 16497 chunks (1.05%), ETA: 17:33:10, Rate: 24.5 cps, Current: -52, -64
+[02:44:32] [Server thread/INFO]: [Chunky] Task running for world. Processed: 16521 chunks (1.06%), ETA: 18:06:02, Rate: 23.8 cps, Current: -51, -56
+[02:44:33] [Server thread/INFO]: [Chunky] Task running for world. Processed: 16537 chunks (1.06%), ETA: 18:58:38, Rate: 22.7 cps, Current: -50, -55
+[02:44:34] [Server thread/INFO]: [Chunky] Task running for world. Processed: 16557 chunks (1.06%), ETA: 18:23:53, Rate: 23.4 cps, Current: -56, -51
+[02:44:36] [Server thread/INFO]: [Chunky] Task running for world. Processed: 16569 chunks (1.06%), ETA: 18:52:41, Rate: 22.8 cps, Current: -58, -56
+[02:44:37] [Server thread/INFO]: [Chunky] Task running for world. Processed: 16591 chunks (1.06%), ETA: 19:00:43, Rate: 22.6 cps, Current: -59, -55
+[02:44:38] [Server thread/INFO]: [Chunky] Task running for world. Processed: 16605 chunks (1.06%), ETA: 19:42:19, Rate: 21.8 cps, Current: -64, -56
+[02:44:39] [Server thread/INFO]: [Chunky] Task running for world. Processed: 16613 chunks (1.06%), ETA: 20:44:01, Rate: 20.7 cps, Current: -60, -50
+[02:44:41] [Server thread/INFO]: [Chunky] Task running for world. Processed: 16625 chunks (1.06%), ETA: 22:42:04, Rate: 18.9 cps, Current: -63, -54
+[02:44:42] [Server thread/INFO]: [Chunky] Task running for world. Processed: 16638 chunks (1.06%), ETA: 24:17:00, Rate: 17.7 cps, Current: -64, -54
+[02:44:43] [Server thread/INFO]: [Chunky] Task running for world. Processed: 16658 chunks (1.06%), ETA: 24:58:14, Rate: 17.2 cps, Current: -58, -46
+[02:44:44] [Server thread/INFO]: [Chunky] Task running for world. Processed: 16674 chunks (1.07%), ETA: 25:29:40, Rate: 16.9 cps, Current: -60, -44
+[02:44:45] [Server thread/INFO]: [Chunky] Task running for world. Processed: 16689 chunks (1.07%), ETA: 26:48:15, Rate: 16.0 cps, Current: -57, -44
+[02:44:47] [Server thread/INFO]: [Chunky] Task running for world. Processed: 16694 chunks (1.07%), ETA: 29:17:41, Rate: 14.7 cps, Current: -63, -42
+[02:44:48] [Server thread/INFO]: [Chunky] Task running for world. Processed: 16711 chunks (1.07%), ETA: 30:21:46, Rate: 14.2 cps, Current: -61, -39
+[02:44:49] [Server thread/INFO]: [Chunky] Task running for world. Processed: 16730 chunks (1.07%), ETA: 30:17:16, Rate: 14.2 cps, Current: -59, -40
+[02:44:50] [Server thread/INFO]: [Chunky] Task running for world. Processed: 16746 chunks (1.07%), ETA: 31:26:12, Rate: 13.7 cps, Current: -57, -40
+[02:44:51] [Server thread/INFO]: [Chunky] Task running for world. Processed: 16771 chunks (1.07%), ETA: 30:45:36, Rate: 14.0 cps, Current: -55, -40
+[02:44:52] [Server thread/INFO]: [Chunky] Task running for world. Processed: 16786 chunks (1.07%), ETA: 30:42:04, Rate: 14.0 cps, Current: -54, -40
+[02:44:53] [Server thread/INFO]: [Chunky] Task running for world. Processed: 16803 chunks (1.07%), ETA: 30:32:27, Rate: 14.1 cps, Current: -51, -37
+[02:44:54] [Server thread/INFO]: [Chunky] Task running for world. Processed: 16821 chunks (1.07%), ETA: 30:15:25, Rate: 14.2 cps, Current: -53, -41
+[02:44:55] [Server thread/INFO]: [Chunky] Task running for world. Processed: 16863 chunks (1.08%), ETA: 28:12:08, Rate: 15.2 cps, Current: -49, -39
+[02:44:57] [Server thread/INFO]: [Chunky] Task running for world. Processed: 16898 chunks (1.08%), ETA: 27:25:52, Rate: 15.7 cps, Current: -48, -47
+[02:44:58] [Server thread/INFO]: [Chunky] Task running for world. Processed: 16899 chunks (1.08%), ETA: 28:05:32, Rate: 15.3 cps, Current: -48, -46
+[02:44:59] [Server thread/INFO]: [Chunky] Task running for world. Processed: 16929 chunks (1.08%), ETA: 28:09:56, Rate: 15.3 cps, Current: -42, -47
+[02:45:00] [Server thread/INFO]: [Chunky] Task running for world. Processed: 16950 chunks (1.08%), ETA: 27:41:42, Rate: 15.5 cps, Current: -44, -48
+[02:45:01] [Server thread/INFO]: [Chunky] Task running for world. Processed: 16985 chunks (1.09%), ETA: 26:51:46, Rate: 16.0 cps, Current: -44, -40
+[02:45:03] [Server thread/INFO]: [Chunky] Task running for world. Processed: 17006 chunks (1.09%), ETA: 26:42:43, Rate: 16.1 cps, Current: -42, -39
+[02:45:04] [Server thread/INFO]: [Chunky] Task running for world. Processed: 17027 chunks (1.09%), ETA: 26:31:54, Rate: 16.2 cps, Current: -41, -35
+[02:45:05] [Server thread/INFO]: [Chunky] Task running for world. Processed: 17085 chunks (1.09%), ETA: 24:17:23, Rate: 17.7 cps, Current: -38, -33
+[02:45:06] [Server thread/INFO]: [Chunky] Task running for world. Processed: 17124 chunks (1.09%), ETA: 23:20:52, Rate: 18.4 cps, Current: -40, -48
+[02:45:07] [Server thread/INFO]: [Chunky] Task running for world. Processed: 17161 chunks (1.10%), ETA: 22:14:14, Rate: 19.3 cps, Current: -33, -55
+[02:45:08] [Server thread/INFO]: [Chunky] Task running for world. Processed: 17196 chunks (1.10%), ETA: 21:22:27, Rate: 20.1 cps, Current: -39, -50
+[02:45:09] [Server thread/INFO]: [Chunky] Task running for world. Processed: 17230 chunks (1.10%), ETA: 20:22:17, Rate: 21.1 cps, Current: -37, -56
+[02:45:10] [Server thread/INFO]: [Chunky] Task running for world. Processed: 17274 chunks (1.10%), ETA: 19:42:03, Rate: 21.8 cps, Current: -47, -56
+[02:45:12] [Server thread/INFO]: [Chunky] Task running for world. Processed: 17310 chunks (1.11%), ETA: 19:02:45, Rate: 22.6 cps, Current: -41, -58
+[02:45:13] [Server thread/INFO]: [Chunky] Task running for world. Processed: 17329 chunks (1.11%), ETA: 18:55:41, Rate: 22.7 cps, Current: -44, -62
+[02:45:14] [Server thread/INFO]: [Chunky] Task running for world. Processed: 17360 chunks (1.11%), ETA: 18:29:24, Rate: 23.3 cps, Current: -35, -58
+[02:45:15] [Server thread/INFO]: [Chunky] Task running for world. Processed: 17401 chunks (1.11%), ETA: 17:49:21, Rate: 24.1 cps, Current: -40, -64
+[02:45:17] [Server thread/INFO]: [Chunky] Task running for world. Processed: 17411 chunks (1.11%), ETA: 18:10:00, Rate: 23.7 cps, Current: -62, -32
+[02:45:18] [Server thread/INFO]: [Chunky] Task running for world. Processed: 17413 chunks (1.11%), ETA: 18:39:33, Rate: 23.0 cps, Current: -62, -31
+[02:45:20] [Server thread/INFO]: [Chunky] Task running for world. Processed: 17441 chunks (1.11%), ETA: 18:22:38, Rate: 23.4 cps, Current: -63, -28
+[02:45:21] [Server thread/INFO]: [Chunky] Task running for world. Processed: 17463 chunks (1.12%), ETA: 18:28:15, Rate: 23.3 cps, Current: -56, -31
+[02:45:22] [Server thread/INFO]: [Chunky] Task running for world. Processed: 17494 chunks (1.12%), ETA: 18:05:54, Rate: 23.8 cps, Current: -55, -29
+[02:45:23] [Server thread/INFO]: [Chunky] Task running for world. Processed: 17518 chunks (1.12%), ETA: 17:56:43, Rate: 24.0 cps, Current: -50, -28
+[02:45:24] [Server thread/INFO]: [Chunky] Task running for world. Processed: 17543 chunks (1.12%), ETA: 18:16:37, Rate: 23.5 cps, Current: -49, -27
+[02:45:25] [Server thread/INFO]: [Chunky] Task running for world. Processed: 17556 chunks (1.12%), ETA: 18:33:23, Rate: 23.2 cps, Current: -51, -21
+[02:45:26] [Server thread/INFO]: [Chunky] Task running for world. Processed: 17574 chunks (1.12%), ETA: 18:59:27, Rate: 22.6 cps, Current: -53, -19
+[02:45:28] [Server thread/INFO]: [Chunky] Task running for world. Processed: 17599 chunks (1.12%), ETA: 18:13:09, Rate: 23.6 cps, Current: -49, -20
+[02:45:29] [Server thread/INFO]: [Chunky] Task running for world. Processed: 17627 chunks (1.13%), ETA: 18:09:52, Rate: 23.7 cps, Current: -55, -17
+[02:45:30] [Server thread/INFO]: [Chunky] Task running for world. Processed: 17649 chunks (1.13%), ETA: 18:09:13, Rate: 23.7 cps, Current: -63, -22
+[02:45:31] [Server thread/INFO]: [Chunky] Task running for world. Processed: 17667 chunks (1.13%), ETA: 18:33:00, Rate: 23.2 cps, Current: -64, -21
+[02:45:32] [Server thread/INFO]: [Chunky] Task running for world. Processed: 17685 chunks (1.13%), ETA: 18:43:30, Rate: 23.0 cps, Current: -64, -18
+[02:45:33] [Server thread/INFO]: [Chunky] Task running for world. Processed: 17712 chunks (1.13%), ETA: 18:39:29, Rate: 23.0 cps, Current: -57, -12
+[02:45:34] [Server thread/INFO]: [Chunky] Task running for world. Processed: 17717 chunks (1.13%), ETA: 20:07:18, Rate: 21.4 cps, Current: -63, -10
+[02:45:35] [Server thread/INFO]: [Chunky] Task running for world. Processed: 17731 chunks (1.13%), ETA: 20:55:30, Rate: 20.5 cps, Current: -63, -7
+[02:45:37] [Server thread/INFO]: [Chunky] Task running for world. Processed: 17763 chunks (1.14%), ETA: 21:10:45, Rate: 20.3 cps, Current: -64, -6
+[02:45:38] [Server thread/INFO]: [Chunky] Task running for world. Processed: 17774 chunks (1.14%), ETA: 21:47:12, Rate: 19.7 cps, Current: -63, -1
+[02:45:39] [Server thread/INFO]: [Chunky] Task running for world. Processed: 17796 chunks (1.14%), ETA: 22:22:21, Rate: 19.2 cps, Current: -59, -1
+[02:45:40] [Server thread/INFO]: [Chunky] Task running for world. Processed: 17814 chunks (1.14%), ETA: 23:29:40, Rate: 18.3 cps, Current: -55, -2
+[02:45:41] [Server thread/INFO]: [Chunky] Task running for world. Processed: 17836 chunks (1.14%), ETA: 23:59:42, Rate: 17.9 cps, Current: -50, -2
+[02:45:42] [Server thread/INFO]: [Chunky] Task running for world. Processed: 17849 chunks (1.14%), ETA: 24:22:48, Rate: 17.6 cps, Current: -50, -6
+[02:45:43] [Server thread/INFO]: [Chunky] Task running for world. Processed: 17921 chunks (1.15%), ETA: 22:47:16, Rate: 18.9 cps, Current: -48, -16
+[02:45:45] [Server thread/INFO]: [Chunky] Task running for world. Processed: 17923 chunks (1.15%), ETA: 24:32:17, Rate: 17.5 cps, Current: -48, -14
+[02:45:46] [Server thread/INFO]: [Chunky] Task running for world. Processed: 17950 chunks (1.15%), ETA: 22:49:08, Rate: 18.8 cps, Current: -45, -15
+[02:45:47] [Server thread/INFO]: [Chunky] Task running for world. Processed: 17971 chunks (1.15%), ETA: 22:46:16, Rate: 18.9 cps, Current: -48, -6
+[02:45:48] [Server thread/INFO]: [Chunky] Task running for world. Processed: 18002 chunks (1.15%), ETA: 21:50:37, Rate: 19.7 cps, Current: -45, -8
+[02:45:50] [Server thread/INFO]: [Chunky] Task running for world. Processed: 18029 chunks (1.15%), ETA: 21:45:25, Rate: 19.8 cps, Current: -45, -2
+[02:45:51] [Server thread/INFO]: [Chunky] Task running for world. Processed: 18050 chunks (1.15%), ETA: 21:44:38, Rate: 19.8 cps, Current: -38, -7
+[02:45:52] [Server thread/INFO]: [Chunky] Task running for world. Processed: 18089 chunks (1.16%), ETA: 21:24:35, Rate: 20.1 cps, Current: -36, -7
+[02:45:53] [Server thread/INFO]: [Chunky] Task running for world. Processed: 18124 chunks (1.16%), ETA: 21:03:39, Rate: 20.4 cps, Current: -34, -10
+[02:45:54] [Server thread/INFO]: [Chunky] Task running for world. Processed: 18180 chunks (1.16%), ETA: 20:10:13, Rate: 21.3 cps, Current: -33, -22
+[02:45:56] [Server thread/INFO]: [Chunky] Task running for world. Processed: 18214 chunks (1.16%), ETA: 19:30:08, Rate: 22.0 cps, Current: -34, -24
+[02:45:57] [Server thread/INFO]: [Chunky] Task running for world. Processed: 18256 chunks (1.17%), ETA: 19:11:31, Rate: 22.4 cps, Current: -36, -24
+[02:45:58] [Server thread/INFO]: [Chunky] Task running for world. Processed: 18298 chunks (1.17%), ETA: 18:50:20, Rate: 22.8 cps, Current: -41, -24
+[02:45:59] [Server thread/INFO]: [Chunky] Task running for world. Processed: 18332 chunks (1.17%), ETA: 18:30:19, Rate: 23.2 cps, Current: -43, -32
+[02:46:02] [Server thread/INFO]: [Chunky] Task running for world. Processed: 18433 chunks (1.18%), ETA: 17:11:58, Rate: 25.0 cps, Current: -64, 0
+[02:46:03] [Server thread/INFO]: [Chunky] Task running for world. Processed: 18453 chunks (1.18%), ETA: 17:16:52, Rate: 24.9 cps, Current: -63, 1
+[02:46:04] [Server thread/INFO]: [Chunky] Task running for world. Processed: 18477 chunks (1.18%), ETA: 16:42:45, Rate: 25.7 cps, Current: -57, 0
+[02:46:05] [Server thread/INFO]: [Chunky] Task running for world. Processed: 18494 chunks (1.18%), ETA: 16:53:59, Rate: 25.4 cps, Current: -50, 0
+[02:46:07] [Server thread/INFO]: [Chunky] Task running for world. Processed: 18523 chunks (1.18%), ETA: 16:54:23, Rate: 25.4 cps, Current: -56, 4
+[02:46:08] [Server thread/INFO]: [Chunky] Task running for world. Processed: 18546 chunks (1.19%), ETA: 16:40:01, Rate: 25.8 cps, Current: -54, 6
+[02:46:09] [Server thread/INFO]: [Chunky] Task running for world. Processed: 18571 chunks (1.19%), ETA: 16:35:16, Rate: 25.9 cps, Current: -50, 7
+[02:46:10] [Server thread/INFO]: [Chunky] Task running for world. Processed: 18580 chunks (1.19%), ETA: 16:45:00, Rate: 25.6 cps, Current: -50, 9
+[02:46:11] [Server thread/INFO]: [Chunky] Task running for world. Processed: 18592 chunks (1.19%), ETA: 16:47:58, Rate: 25.6 cps, Current: -49, 8
+[02:46:12] [Server thread/INFO]: [Chunky] Task running for world. Processed: 18611 chunks (1.19%), ETA: 17:57:37, Rate: 23.9 cps, Current: -57, 13
+[02:46:14] [Server thread/INFO]: [Chunky] Task running for world. Processed: 18618 chunks (1.19%), ETA: 17:48:23, Rate: 24.1 cps, Current: -54, 14
+[02:46:15] [Server thread/INFO]: [Chunky] Task running for world. Processed: 18647 chunks (1.19%), ETA: 17:43:06, Rate: 24.2 cps, Current: -63, 8
+[02:46:16] [Server thread/INFO]: [Chunky] Task running for world. Processed: 18664 chunks (1.19%), ETA: 17:51:30, Rate: 24.1 cps, Current: -62, 10
+[02:46:17] [Server thread/INFO]: [Chunky] Task running for world. Processed: 18684 chunks (1.19%), ETA: 17:51:35, Rate: 24.1 cps, Current: -63, 11
+[02:46:18] [Server thread/INFO]: [Chunky] Task running for world. Processed: 18703 chunks (1.20%), ETA: 18:01:25, Rate: 23.8 cps, Current: -57, 17
+[02:46:19] [Server thread/INFO]: [Chunky] Task running for world. Processed: 18723 chunks (1.20%), ETA: 18:10:57, Rate: 23.6 cps, Current: -60, 21
+[02:46:20] [Server thread/INFO]: [Chunky] Task running for world. Processed: 18739 chunks (1.20%), ETA: 18:27:19, Rate: 23.3 cps, Current: -63, 21
+[02:46:22] [Server thread/INFO]: [Chunky] Task running for world. Processed: 18755 chunks (1.20%), ETA: 19:38:06, Rate: 21.9 cps, Current: -64, 22
+[02:46:23] [Server thread/INFO]: [Chunky] Task running for world. Processed: 18787 chunks (1.20%), ETA: 20:26:32, Rate: 21.0 cps, Current: -61, 30
+[02:46:24] [Server thread/INFO]: [Chunky] Task running for world. Processed: 18810 chunks (1.20%), ETA: 20:43:54, Rate: 20.7 cps, Current: -57, 26
+[02:46:25] [Server thread/INFO]: [Chunky] Task running for world. Processed: 18824 chunks (1.20%), ETA: 21:00:15, Rate: 20.4 cps, Current: -54, 25
+[02:46:26] [Server thread/INFO]: [Chunky] Task running for world. Processed: 18839 chunks (1.20%), ETA: 21:45:00, Rate: 19.7 cps, Current: -53, 28
+[02:46:28] [Server thread/INFO]: [Chunky] Task running for world. Processed: 18860 chunks (1.21%), ETA: 22:30:25, Rate: 19.1 cps, Current: -50, 30
+[02:46:29] [Server thread/INFO]: [Chunky] Task running for world. Processed: 18873 chunks (1.21%), ETA: 23:40:16, Rate: 18.1 cps, Current: -52, 31
+[02:46:30] [Server thread/INFO]: [Chunky] Task running for world. Processed: 18910 chunks (1.21%), ETA: 25:15:05, Rate: 17.0 cps, Current: -54, 16
+[02:46:31] [Server thread/INFO]: [Chunky] Task running for world. Processed: 18946 chunks (1.21%), ETA: 24:28:48, Rate: 17.5 cps, Current: -48, 17
+[02:46:33] [Server thread/INFO]: [Chunky] Task running for world. Processed: 18951 chunks (1.21%), ETA: 25:19:24, Rate: 17.0 cps, Current: -48, 19
+[02:46:34] [Server thread/INFO]: [Chunky] Task running for world. Processed: 18978 chunks (1.21%), ETA: 25:00:45, Rate: 17.2 cps, Current: -42, 17
+[02:46:35] [Server thread/INFO]: [Chunky] Task running for world. Processed: 19000 chunks (1.21%), ETA: 24:50:18, Rate: 17.3 cps, Current: -43, 16
+[02:46:36] [Server thread/INFO]: [Chunky] Task running for world. Processed: 19027 chunks (1.22%), ETA: 24:52:30, Rate: 17.3 cps, Current: -45, 24
+[02:46:37] [Server thread/INFO]: [Chunky] Task running for world. Processed: 19054 chunks (1.22%), ETA: 24:58:27, Rate: 17.2 cps, Current: -42, 25
+[02:46:38] [Server thread/INFO]: [Chunky] Task running for world. Processed: 19074 chunks (1.22%), ETA: 25:11:46, Rate: 17.0 cps, Current: -41, 29
+[02:46:39] [Server thread/INFO]: [Chunky] Task running for world. Processed: 19129 chunks (1.22%), ETA: 22:56:57, Rate: 18.7 cps, Current: -36, 25
+[02:46:41] [Server thread/INFO]: [Chunky] Task running for world. Processed: 19164 chunks (1.22%), ETA: 21:59:59, Rate: 19.5 cps, Current: -40, 19
+[02:46:42] [Server thread/INFO]: [Chunky] Task running for world. Processed: 19206 chunks (1.23%), ETA: 21:09:39, Rate: 20.3 cps, Current: -33, 10
+[02:46:43] [Server thread/INFO]: [Chunky] Task running for world. Processed: 19237 chunks (1.23%), ETA: 20:14:20, Rate: 21.2 cps, Current: -34, 8
+[02:46:44] [Server thread/INFO]: [Chunky] Task running for world. Processed: 19270 chunks (1.23%), ETA: 20:05:00, Rate: 21.4 cps, Current: -35, 8
+[02:46:45] [Server thread/INFO]: [Chunky] Task running for world. Processed: 19302 chunks (1.23%), ETA: 19:34:59, Rate: 21.9 cps, Current: -47, 10
+[02:46:46] [Server thread/INFO]: [Chunky] Task running for world. Processed: 19329 chunks (1.24%), ETA: 19:26:28, Rate: 22.1 cps, Current: -48, 7
+[02:46:47] [Server thread/INFO]: [Chunky] Task running for world. Processed: 19371 chunks (1.24%), ETA: 18:42:54, Rate: 22.9 cps, Current: -44, 4
+[02:46:50] [Server thread/INFO]: [Chunky] Task running for world. Processed: 19457 chunks (1.24%), ETA: 17:34:24, Rate: 24.4 cps, Current: -63, 32
+[02:46:51] [Server thread/INFO]: [Chunky] Task running for world. Processed: 19484 chunks (1.24%), ETA: 17:09:31, Rate: 25.0 cps, Current: -58, 32
+[02:46:52] [Server thread/INFO]: [Chunky] Task running for world. Processed: 19506 chunks (1.25%), ETA: 17:13:05, Rate: 24.9 cps, Current: -57, 34
+[02:46:53] [Server thread/INFO]: [Chunky] Task running for world. Processed: 19538 chunks (1.25%), ETA: 17:07:07, Rate: 25.1 cps, Current: -56, 35
+[02:46:55] [Server thread/INFO]: [Chunky] Task running for world. Processed: 19552 chunks (1.25%), ETA: 17:08:36, Rate: 25.0 cps, Current: -49, 33
+[02:46:56] [Server thread/INFO]: [Chunky] Task running for world. Processed: 19572 chunks (1.25%), ETA: 17:01:16, Rate: 25.2 cps, Current: -55, 41
+[02:46:57] [Server thread/INFO]: [Chunky] Task running for world. Processed: 19595 chunks (1.25%), ETA: 16:59:37, Rate: 25.3 cps, Current: -49, 37
+[02:46:58] [Server thread/INFO]: [Chunky] Task running for world. Processed: 19616 chunks (1.25%), ETA: 16:37:28, Rate: 25.8 cps, Current: -49, 40
+[02:46:59] [Server thread/INFO]: [Chunky] Task running for world. Processed: 19622 chunks (1.25%), ETA: 17:05:04, Rate: 25.1 cps, Current: -53, 45
+[02:47:00] [Server thread/INFO]: [Chunky] Task running for world. Processed: 19641 chunks (1.26%), ETA: 17:52:18, Rate: 24.0 cps, Current: -54, 46
+[02:47:02] [Server thread/INFO]: [Chunky] Task running for world. Processed: 19673 chunks (1.26%), ETA: 17:12:55, Rate: 24.9 cps, Current: -55, 47
+[02:47:03] [Server thread/INFO]: [Chunky] Task running for world. Processed: 19697 chunks (1.26%), ETA: 17:15:44, Rate: 24.9 cps, Current: -62, 44
+[02:47:04] [Server thread/INFO]: [Chunky] Task running for world. Processed: 19714 chunks (1.26%), ETA: 17:23:13, Rate: 24.7 cps, Current: -60, 49
+[02:47:05] [Server thread/INFO]: [Chunky] Task running for world. Processed: 19729 chunks (1.26%), ETA: 17:43:00, Rate: 24.2 cps, Current: -59, 51
+[02:47:06] [Server thread/INFO]: [Chunky] Task running for world. Processed: 19747 chunks (1.26%), ETA: 17:42:00, Rate: 24.3 cps, Current: -57, 50
+[02:47:07] [Server thread/INFO]: [Chunky] Task running for world. Processed: 19762 chunks (1.26%), ETA: 17:59:42, Rate: 23.9 cps, Current: -57, 52
+[02:47:08] [Server thread/INFO]: [Chunky] Task running for world. Processed: 19776 chunks (1.26%), ETA: 18:12:54, Rate: 23.6 cps, Current: -62, 56
+[02:47:09] [Server thread/INFO]: [Chunky] Task running for world. Processed: 19789 chunks (1.26%), ETA: 19:24:28, Rate: 22.1 cps, Current: -63, 61
+[02:47:11] [Server thread/INFO]: [Chunky] Task running for world. Processed: 19817 chunks (1.27%), ETA: 20:20:47, Rate: 21.1 cps, Current: -57, 56
+[02:47:12] [Server thread/INFO]: [Chunky] Task running for world. Processed: 19840 chunks (1.27%), ETA: 20:37:09, Rate: 20.8 cps, Current: -55, 56
+[02:47:13] [Server thread/INFO]: [Chunky] Task running for world. Processed: 19860 chunks (1.27%), ETA: 21:11:11, Rate: 20.3 cps, Current: -53, 61
+[02:47:14] [Server thread/INFO]: [Chunky] Task running for world. Processed: 19880 chunks (1.27%), ETA: 21:46:46, Rate: 19.7 cps, Current: -51, 59
+[02:47:16] [Server thread/INFO]: [Chunky] Task running for world. Processed: 19896 chunks (1.27%), ETA: 22:30:03, Rate: 19.1 cps, Current: -53, 63
+[02:47:17] [Server thread/INFO]: [Chunky] Task running for world. Processed: 19913 chunks (1.27%), ETA: 25:48:31, Rate: 16.6 cps, Current: -56, 48
+[02:47:19] [Server thread/INFO]: [Chunky] Task running for world. Processed: 19947 chunks (1.27%), ETA: 25:04:27, Rate: 17.1 cps, Current: -49, 56
+[02:47:20] [Server thread/INFO]: [Chunky] Task running for world. Processed: 19970 chunks (1.28%), ETA: 24:54:37, Rate: 17.2 cps, Current: -48, 49
+[02:47:21] [Server thread/INFO]: [Chunky] Task running for world. Processed: 19971 chunks (1.28%), ETA: 26:07:11, Rate: 16.4 cps, Current: -48, 50
+[02:47:22] [Server thread/INFO]: [Chunky] Task running for world. Processed: 19998 chunks (1.28%), ETA: 25:46:05, Rate: 16.7 cps, Current: -48, 54
+[02:47:23] [Server thread/INFO]: [Chunky] Task running for world. Processed: 20020 chunks (1.28%), ETA: 26:14:02, Rate: 16.4 cps, Current: -46, 55
+[02:47:24] [Server thread/INFO]: [Chunky] Task running for world. Processed: 20050 chunks (1.28%), ETA: 25:34:16, Rate: 16.8 cps, Current: -46, 59
+[02:47:25] [Server thread/INFO]: [Chunky] Task running for world. Processed: 20077 chunks (1.28%), ETA: 25:15:30, Rate: 17.0 cps, Current: -45, 62
+[02:47:27] [Server thread/INFO]: [Chunky] Task running for world. Processed: 20092 chunks (1.28%), ETA: 26:07:05, Rate: 16.4 cps, Current: -39, 56
+[02:47:28] [Server thread/INFO]: [Chunky] Task running for world. Processed: 20115 chunks (1.29%), ETA: 25:13:18, Rate: 17.0 cps, Current: -40, 62
+[02:47:29] [Server thread/INFO]: [Chunky] Task running for world. Processed: 20171 chunks (1.29%), ETA: 23:11:10, Rate: 18.5 cps, Current: -34, 54
+[02:47:30] [Server thread/INFO]: [Chunky] Task running for world. Processed: 20227 chunks (1.29%), ETA: 21:52:13, Rate: 19.6 cps, Current: -33, 45
+[02:47:31] [Server thread/INFO]: [Chunky] Task running for world. Processed: 20255 chunks (1.29%), ETA: 22:01:09, Rate: 19.5 cps, Current: -35, 42
+[02:47:33] [Server thread/INFO]: [Chunky] Task running for world. Processed: 20278 chunks (1.30%), ETA: 22:00:08, Rate: 19.5 cps, Current: -36, 41
+[02:47:34] [Server thread/INFO]: [Chunky] Task running for world. Processed: 20308 chunks (1.30%), ETA: 21:31:21, Rate: 19.9 cps, Current: -48, 42
+[02:47:35] [Server thread/INFO]: [Chunky] Task running for world. Processed: 20353 chunks (1.30%), ETA: 20:31:16, Rate: 20.9 cps, Current: -42, 39
+[02:47:36] [Server thread/INFO]: [Chunky] Task running for world. Processed: 20417 chunks (1.30%), ETA: 18:54:08, Rate: 22.7 cps, Current: -40, 32
+[02:47:39] [Server thread/INFO]: [Chunky] Task running for world. Processed: 20481 chunks (1.31%), ETA: 18:30:48, Rate: 23.2 cps, Current: -61, 64
+[02:47:41] [Server thread/INFO]: [Chunky] Task running for world. Processed: 20485 chunks (1.31%), ETA: 19:31:03, Rate: 22.0 cps, Current: -62, 65
+[02:47:43] [Server thread/INFO]: [Chunky] Task running for world. Processed: 20512 chunks (1.31%), ETA: 19:23:20, Rate: 22.1 cps, Current: -63, 67
+[02:47:44] [Server thread/INFO]: [Chunky] Task running for world. Processed: 20532 chunks (1.31%), ETA: 19:27:10, Rate: 22.1 cps, Current: -54, 64
+[02:47:45] [Server thread/INFO]: [Chunky] Task running for world. Processed: 20562 chunks (1.31%), ETA: 18:47:20, Rate: 22.8 cps, Current: -54, 66
+[02:47:46] [Server thread/INFO]: [Chunky] Task running for world. Processed: 20579 chunks (1.31%), ETA: 18:29:32, Rate: 23.2 cps, Current: -56, 69
+[02:47:47] [Server thread/INFO]: [Chunky] Task running for world. Processed: 20599 chunks (1.32%), ETA: 18:42:53, Rate: 22.9 cps, Current: -56, 73
+[02:47:49] [Server thread/INFO]: [Chunky] Task running for world. Processed: 20624 chunks (1.32%), ETA: 18:56:11, Rate: 22.7 cps, Current: -49, 70
+[02:47:50] [Server thread/INFO]: [Chunky] Task running for world. Processed: 20643 chunks (1.32%), ETA: 19:05:14, Rate: 22.5 cps, Current: -50, 75
+[02:47:51] [Server thread/INFO]: [Chunky] Task running for world. Processed: 20671 chunks (1.32%), ETA: 18:35:28, Rate: 23.1 cps, Current: -49, 76
+[02:47:52] [Server thread/INFO]: [Chunky] Task running for world. Processed: 20699 chunks (1.32%), ETA: 18:24:42, Rate: 23.3 cps, Current: -60, 74
+[02:47:53] [Server thread/INFO]: [Chunky] Task running for world. Processed: 20722 chunks (1.32%), ETA: 18:36:19, Rate: 23.1 cps, Current: -62, 76
+[02:47:55] [Server thread/INFO]: [Chunky] Task running for world. Processed: 20743 chunks (1.33%), ETA: 18:52:01, Rate: 22.7 cps, Current: -63, 80
+[02:47:56] [Server thread/INFO]: [Chunky] Task running for world. Processed: 20757 chunks (1.33%), ETA: 18:43:24, Rate: 22.9 cps, Current: -64, 78
+[02:47:57] [Server thread/INFO]: [Chunky] Task running for world. Processed: 20782 chunks (1.33%), ETA: 18:38:49, Rate: 23.0 cps, Current: -62, 85
+[02:47:58] [Server thread/INFO]: [Chunky] Task running for world. Processed: 20787 chunks (1.33%), ETA: 20:05:37, Rate: 21.3 cps, Current: -57, 85
+[02:47:59] [Server thread/INFO]: [Chunky] Task running for world. Processed: 20803 chunks (1.33%), ETA: 21:30:02, Rate: 20.0 cps, Current: -63, 89
+[02:48:00] [Server thread/INFO]: [Chunky] Task running for world. Processed: 20826 chunks (1.33%), ETA: 21:41:39, Rate: 19.8 cps, Current: -62, 94
+[02:48:01] [Server thread/INFO]: [Chunky] Task running for world. Processed: 20840 chunks (1.33%), ETA: 21:57:00, Rate: 19.5 cps, Current: -57, 88
+[02:48:03] [Server thread/INFO]: [Chunky] Task running for world. Processed: 20864 chunks (1.33%), ETA: 22:28:25, Rate: 19.1 cps, Current: -55, 88
+[02:48:04] [Server thread/INFO]: [Chunky] Task running for world. Processed: 20884 chunks (1.33%), ETA: 23:38:06, Rate: 18.1 cps, Current: -53, 93
+[02:48:05] [Server thread/INFO]: [Chunky] Task running for world. Processed: 20908 chunks (1.34%), ETA: 25:42:25, Rate: 16.7 cps, Current: -50, 94
+[02:48:06] [Server thread/INFO]: [Chunky] Task running for world. Processed: 20921 chunks (1.34%), ETA: 26:16:45, Rate: 16.3 cps, Current: -56, 86
+[02:48:08] [Server thread/INFO]: [Chunky] Task running for world. Processed: 20986 chunks (1.34%), ETA: 24:01:17, Rate: 17.9 cps, Current: -49, 86
+[02:48:09] [Server thread/INFO]: [Chunky] Task running for world. Processed: 20994 chunks (1.34%), ETA: 24:35:22, Rate: 17.4 cps, Current: -48, 81
+[02:48:10] [Server thread/INFO]: [Chunky] Task running for world. Processed: 20998 chunks (1.34%), ETA: 23:58:27, Rate: 17.9 cps, Current: -47, 81
+[02:48:11] [Server thread/INFO]: [Chunky] Task running for world. Processed: 21028 chunks (1.34%), ETA: 23:27:55, Rate: 18.3 cps, Current: -46, 86
+[02:48:12] [Server thread/INFO]: [Chunky] Task running for world. Processed: 21047 chunks (1.34%), ETA: 23:56:01, Rate: 17.9 cps, Current: -44, 80
+[02:48:14] [Server thread/INFO]: [Chunky] Task running for world. Processed: 21091 chunks (1.35%), ETA: 22:55:27, Rate: 18.7 cps, Current: -46, 94
+[02:48:15] [Server thread/INFO]: [Chunky] Task running for world. Processed: 21110 chunks (1.35%), ETA: 23:18:56, Rate: 18.4 cps, Current: -41, 90
+[02:48:16] [Server thread/INFO]: [Chunky] Task running for world. Processed: 21132 chunks (1.35%), ETA: 23:09:17, Rate: 18.5 cps, Current: -42, 95
+[02:48:17] [Server thread/INFO]: [Chunky] Task running for world. Processed: 21149 chunks (1.35%), ETA: 23:17:27, Rate: 18.4 cps, Current: -35, 93
+[02:48:18] [Server thread/INFO]: [Chunky] Task running for world. Processed: 21163 chunks (1.35%), ETA: 23:42:14, Rate: 18.1 cps, Current: -39, 95
+[02:48:20] [Server thread/INFO]: [Chunky] Task running for world. Processed: 21188 chunks (1.35%), ETA: 23:52:08, Rate: 18.0 cps, Current: -40, 85
+[02:48:21] [Server thread/INFO]: [Chunky] Task running for world. Processed: 21217 chunks (1.36%), ETA: 23:28:55, Rate: 18.3 cps, Current: -39, 81
+[02:48:22] [Server thread/INFO]: [Chunky] Task running for world. Processed: 21238 chunks (1.36%), ETA: 23:39:55, Rate: 18.1 cps, Current: -35, 80
+[02:48:23] [Server thread/INFO]: [Chunky] Task running for world. Processed: 21247 chunks (1.36%), ETA: 24:05:14, Rate: 17.8 cps, Current: -36, 79
+[02:48:24] [Server thread/INFO]: [Chunky] Task running for world. Processed: 21263 chunks (1.36%), ETA: 24:23:11, Rate: 17.6 cps, Current: -34, 75
+[02:48:25] [Server thread/INFO]: [Chunky] Task running for world. Processed: 21287 chunks (1.36%), ETA: 23:54:21, Rate: 17.9 cps, Current: -33, 76
+[02:48:27] [Server thread/INFO]: [Chunky] Task running for world. Processed: 21323 chunks (1.36%), ETA: 23:35:16, Rate: 18.2 cps, Current: -41, 77
+[02:48:28] [Server thread/INFO]: [Chunky] Task running for world. Processed: 21370 chunks (1.37%), ETA: 21:54:17, Rate: 19.6 cps, Current: -41, 72
+[02:48:29] [Server thread/INFO]: [Chunky] Task running for world. Processed: 21403 chunks (1.37%), ETA: 21:13:06, Rate: 20.2 cps, Current: -46, 64
+[02:48:30] [Server thread/INFO]: [Chunky] Task running for world. Processed: 21459 chunks (1.37%), ETA: 20:06:13, Rate: 21.3 cps, Current: -38, 65
+[02:48:31] [Server thread/INFO]: [Chunky] Task running for world. Processed: 21507 chunks (1.37%), ETA: 19:03:19, Rate: 22.5 cps, Current: -30, 64
+[02:48:32] [Server thread/INFO]: [Chunky] Task running for world. Processed: 21520 chunks (1.38%), ETA: 19:09:58, Rate: 22.4 cps, Current: -31, 67
+[02:48:33] [Server thread/INFO]: [Chunky] Task running for world. Processed: 21550 chunks (1.38%), ETA: 18:42:04, Rate: 22.9 cps, Current: -25, 65
+[02:48:34] [Server thread/INFO]: [Chunky] Task running for world. Processed: 21576 chunks (1.38%), ETA: 18:36:20, Rate: 23.0 cps, Current: -23, 66
+[02:48:36] [Server thread/INFO]: [Chunky] Task running for world. Processed: 21600 chunks (1.38%), ETA: 18:22:01, Rate: 23.3 cps, Current: -24, 69
+[02:48:37] [Server thread/INFO]: [Chunky] Task running for world. Processed: 21615 chunks (1.38%), ETA: 19:40:07, Rate: 21.8 cps, Current: -23, 70
+[02:48:38] [Server thread/INFO]: [Chunky] Task running for world. Processed: 21637 chunks (1.38%), ETA: 19:13:24, Rate: 22.3 cps, Current: -18, 71
+[02:48:39] [Server thread/INFO]: [Chunky] Task running for world. Processed: 21652 chunks (1.38%), ETA: 18:56:06, Rate: 22.6 cps, Current: -19, 75
+[02:48:40] [Server thread/INFO]: [Chunky] Task running for world. Processed: 21670 chunks (1.38%), ETA: 19:28:44, Rate: 22.0 cps, Current: -21, 77
+[02:48:42] [Server thread/INFO]: [Chunky] Task running for world. Processed: 21689 chunks (1.39%), ETA: 19:35:00, Rate: 21.9 cps, Current: -17, 76
+[02:48:43] [Server thread/INFO]: [Chunky] Task running for world. Processed: 21708 chunks (1.39%), ETA: 20:09:59, Rate: 21.3 cps, Current: -32, 73
+[02:48:44] [Server thread/INFO]: [Chunky] Task running for world. Processed: 21764 chunks (1.39%), ETA: 19:05:03, Rate: 22.5 cps, Current: -32, 83
+[02:48:45] [Server thread/INFO]: [Chunky] Task running for world. Processed: 21791 chunks (1.39%), ETA: 19:00:32, Rate: 22.6 cps, Current: -27, 82
+[02:48:47] [Server thread/INFO]: [Chunky] Task running for world. Processed: 21807 chunks (1.39%), ETA: 19:07:17, Rate: 22.4 cps, Current: -26, 83
+[02:48:48] [Server thread/INFO]: [Chunky] Task running for world. Processed: 21830 chunks (1.39%), ETA: 18:52:07, Rate: 22.7 cps, Current: -31, 93
+[02:48:49] [Server thread/INFO]: [Chunky] Task running for world. Processed: 21862 chunks (1.40%), ETA: 18:24:07, Rate: 23.3 cps, Current: -30, 94
+[02:48:50] [Server thread/INFO]: [Chunky] Task running for world. Processed: 21870 chunks (1.40%), ETA: 18:57:43, Rate: 22.6 cps, Current: -30, 95
+[02:48:51] [Server thread/INFO]: [Chunky] Task running for world. Processed: 21891 chunks (1.40%), ETA: 19:00:27, Rate: 22.6 cps, Current: -23, 90
+[02:48:52] [Server thread/INFO]: [Chunky] Task running for world. Processed: 21908 chunks (1.40%), ETA: 18:54:51, Rate: 22.7 cps, Current: -22, 88
+[02:48:53] [Server thread/INFO]: [Chunky] Task running for world. Processed: 21926 chunks (1.40%), ETA: 18:41:56, Rate: 22.9 cps, Current: -20, 88
+[02:48:55] [Server thread/INFO]: [Chunky] Task running for world. Processed: 21934 chunks (1.40%), ETA: 19:30:04, Rate: 22.0 cps, Current: -18, 94
+[02:48:56] [Server thread/INFO]: [Chunky] Task running for world. Processed: 21947 chunks (1.40%), ETA: 20:18:55, Rate: 21.1 cps, Current: -18, 90
+[02:48:57] [Server thread/INFO]: [Chunky] Task running for world. Processed: 21964 chunks (1.40%), ETA: 21:14:22, Rate: 20.2 cps, Current: -20, 85
+[02:48:59] [Server thread/INFO]: [Chunky] Task running for world. Processed: 22018 chunks (1.41%), ETA: 20:52:17, Rate: 20.5 cps, Current: -16, 81
+[02:49:00] [Server thread/INFO]: [Chunky] Task running for world. Processed: 22020 chunks (1.41%), ETA: 22:45:34, Rate: 18.8 cps, Current: -15, 81
+[02:49:01] [Server thread/INFO]: [Chunky] Task running for world. Processed: 22052 chunks (1.41%), ETA: 23:23:07, Rate: 18.3 cps, Current: -16, 86
+[02:49:02] [Server thread/INFO]: [Chunky] Task running for world. Processed: 22068 chunks (1.41%), ETA: 24:04:28, Rate: 17.8 cps, Current: -12, 80
+[02:49:03] [Server thread/INFO]: [Chunky] Task running for world. Processed: 22098 chunks (1.41%), ETA: 23:45:20, Rate: 18.0 cps, Current: -14, 91
+[02:49:05] [Server thread/INFO]: [Chunky] Task running for world. Processed: 22125 chunks (1.41%), ETA: 23:39:52, Rate: 18.1 cps, Current: -10, 89
+[02:49:06] [Server thread/INFO]: [Chunky] Task running for world. Processed: 22146 chunks (1.42%), ETA: 23:38:38, Rate: 18.1 cps, Current: -9, 93
+[02:49:07] [Server thread/INFO]: [Chunky] Task running for world. Processed: 22163 chunks (1.42%), ETA: 24:05:59, Rate: 17.8 cps, Current: -8, 94
+[02:49:09] [Server thread/INFO]: [Chunky] Task running for world. Processed: 22182 chunks (1.42%), ETA: 23:57:58, Rate: 17.9 cps, Current: -3, 91
+[02:49:10] [Server thread/INFO]: [Chunky] Task running for world. Processed: 22209 chunks (1.42%), ETA: 23:25:47, Rate: 18.3 cps, Current: -2, 89
+[02:49:11] [Server thread/INFO]: [Chunky] Task running for world. Processed: 22245 chunks (1.42%), ETA: 22:47:47, Rate: 18.8 cps, Current: -1, 85
+[02:49:13] [Server thread/INFO]: [Chunky] Task running for world. Processed: 22266 chunks (1.42%), ETA: 24:34:35, Rate: 17.4 cps, Current: -2, 82
+[02:49:14] [Server thread/INFO]: [Chunky] Task running for world. Processed: 22275 chunks (1.42%), ETA: 25:02:08, Rate: 17.1 cps, Current: -1, 82
+[02:49:15] [Server thread/INFO]: [Chunky] Task running for world. Processed: 22302 chunks (1.43%), ETA: 24:59:36, Rate: 17.1 cps, Current: -3, 73
+[02:49:17] [Server thread/INFO]: [Chunky] Task running for world. Processed: 22324 chunks (1.43%), ETA: 24:42:28, Rate: 17.3 cps, Current: -9, 79
+[02:49:18] [Server thread/INFO]: [Chunky] Task running for world. Processed: 22346 chunks (1.43%), ETA: 24:41:17, Rate: 17.4 cps, Current: -6, 72
+[02:49:19] [Server thread/INFO]: [Chunky] Task running for world. Processed: 22392 chunks (1.43%), ETA: 24:07:59, Rate: 17.8 cps, Current: -15, 72
+[02:49:20] [Server thread/INFO]: [Chunky] Task running for world. Processed: 22428 chunks (1.43%), ETA: 22:58:06, Rate: 18.7 cps, Current: -14, 69
+[02:49:21] [Server thread/INFO]: [Chunky] Task running for world. Processed: 22476 chunks (1.44%), ETA: 21:49:14, Rate: 19.6 cps, Current: -7, 65
+[02:49:22] [Server thread/INFO]: [Chunky] Task running for world. Processed: 22529 chunks (1.44%), ETA: 20:34:39, Rate: 20.8 cps, Current: 0, 64
+[02:49:23] [Server thread/INFO]: [Chunky] Task running for world. Processed: 22555 chunks (1.44%), ETA: 19:33:49, Rate: 21.9 cps, Current: 4, 69
+[02:49:24] [Server thread/INFO]: [Chunky] Task running for world. Processed: 22583 chunks (1.44%), ETA: 19:26:56, Rate: 22.0 cps, Current: 7, 65
+[02:49:25] [Server thread/INFO]: [Chunky] Task running for world. Processed: 22593 chunks (1.44%), ETA: 19:18:09, Rate: 22.2 cps, Current: 10, 65
+[02:49:27] [Server thread/INFO]: [Chunky] Task running for world. Processed: 22626 chunks (1.45%), ETA: 18:58:45, Rate: 22.6 cps, Current: 13, 67
+[02:49:28] [Server thread/INFO]: [Chunky] Task running for world. Processed: 22644 chunks (1.45%), ETA: 19:44:01, Rate: 21.7 cps, Current: 15, 67
+[02:49:29] [Server thread/INFO]: [Chunky] Task running for world. Processed: 22663 chunks (1.45%), ETA: 19:17:59, Rate: 22.2 cps, Current: 13, 72
+[02:49:31] [Server thread/INFO]: [Chunky] Task running for world. Processed: 22676 chunks (1.45%), ETA: 20:10:02, Rate: 21.2 cps, Current: 13, 75
+[02:49:32] [Server thread/INFO]: [Chunky] Task running for world. Processed: 22691 chunks (1.45%), ETA: 20:28:04, Rate: 20.9 cps, Current: 14, 75
+[02:49:33] [Server thread/INFO]: [Chunky] Task running for world. Processed: 22698 chunks (1.45%), ETA: 21:14:13, Rate: 20.2 cps, Current: 14, 78
+[02:49:34] [Server thread/INFO]: [Chunky] Task running for world. Processed: 22713 chunks (1.45%), ETA: 21:33:29, Rate: 19.9 cps, Current: 10, 78
+[02:49:36] [Server thread/INFO]: [Chunky] Task running for world. Processed: 22735 chunks (1.45%), ETA: 21:26:18, Rate: 20.0 cps, Current: 7, 78
+[02:49:37] [Server thread/INFO]: [Chunky] Task running for world. Processed: 22785 chunks (1.46%), ETA: 20:12:01, Rate: 21.2 cps, Current: 0, 80
+[02:49:38] [Server thread/INFO]: [Chunky] Task running for world. Processed: 22798 chunks (1.46%), ETA: 20:16:18, Rate: 21.1 cps, Current: 7, 80
+[02:49:39] [Server thread/INFO]: [Chunky] Task running for world. Processed: 22827 chunks (1.46%), ETA: 19:46:16, Rate: 21.7 cps, Current: 0, 87
+[02:49:41] [Server thread/INFO]: [Chunky] Task running for world. Processed: 22854 chunks (1.46%), ETA: 20:23:00, Rate: 21.0 cps, Current: 7, 83
+[02:49:42] [Server thread/INFO]: [Chunky] Task running for world. Processed: 22891 chunks (1.46%), ETA: 19:41:47, Rate: 21.7 cps, Current: 2, 95
+[02:49:43] [Server thread/INFO]: [Chunky] Task running for world. Processed: 22913 chunks (1.46%), ETA: 19:45:59, Rate: 21.7 cps, Current: 8, 92
+[02:49:44] [Server thread/INFO]: [Chunky] Task running for world. Processed: 22929 chunks (1.47%), ETA: 19:30:47, Rate: 22.0 cps, Current: 8, 94
+[02:49:45] [Server thread/INFO]: [Chunky] Task running for world. Processed: 22945 chunks (1.47%), ETA: 19:47:45, Rate: 21.6 cps, Current: 12, 91
+[02:49:46] [Server thread/INFO]: [Chunky] Task running for world. Processed: 22963 chunks (1.47%), ETA: 19:53:09, Rate: 21.5 cps, Current: 13, 87
+[02:49:47] [Server thread/INFO]: [Chunky] Task running for world. Processed: 22984 chunks (1.47%), ETA: 19:59:18, Rate: 21.4 cps, Current: 13, 95
