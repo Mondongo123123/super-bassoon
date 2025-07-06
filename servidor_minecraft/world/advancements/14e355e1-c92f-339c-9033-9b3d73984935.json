@@ -7,10 +7,15 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:cold_ocean": "2025-07-06 23:14:54 +0000",
       "minecraft:frozen_ocean": "2025-07-06 04:27:06 +0000",
+      "minecraft:beach": "2025-07-06 23:08:00 +0000",
+      "minecraft:old_growth_pine_taiga": "2025-07-06 23:14:52 +0000",
+      "minecraft:forest": "2025-07-06 23:03:39 +0000",
       "minecraft:taiga": "2025-07-06 04:31:56 +0000",
       "minecraft:river": "2025-07-06 04:34:57 +0000",
       "minecraft:meadow": "2025-07-06 04:46:45 +0000",
+      "minecraft:old_growth_spruce_taiga": "2025-07-06 23:06:15 +0000",
       "minecraft:dripstone_caves": "2025-07-06 04:35:32 +0000",
       "minecraft:snowy_beach": "2025-07-06 04:32:00 +0000",
       "minecraft:plains": "2025-07-06 04:34:01 +0000"
@@ -1918,9 +1923,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2025-07-06 23:03:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_porkchop": {
     "criteria": {
       "has_porkchop": "2025-07-06 22:59:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2025-07-06 23:00:46 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2025-07-06 23:03:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-07-06 23:00:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-07-06 23:03:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-07-06 23:00:46 +0000"
     },
     "done": true
   },

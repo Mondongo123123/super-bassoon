@@ -180,3 +180,14 @@
 [22:59:46] [Server thread/WARN]: AgustinEz2 moved too quickly! 0.0,-10.80652611000901,0.0
 [23:00:46] [Server thread/INFO]: Dn0611 has made the advancement [We Need to Go Deeper]
 [23:00:50] [Server thread/INFO]: AgustinEz2 issued server command: /tp Kiki_gm
+[23:01:25] [Server thread/INFO]: AgustinEz2 issued server command: /tp Kiki_gm
+[23:04:10] [Async Chat Thread - #9/INFO]: [Not Secure] <AgustinEz2> a
+[23:04:18] [Async Chat Thread - #9/INFO]: [Not Secure] <Dn0611> e
+[23:04:28] [Async Chat Thread - #9/INFO]: [Not Secure] <Dn0611> iou
+[23:04:29] [Async Chat Thread - #9/INFO]: [Not Secure] <Kiki_gm> i
+[23:05:32] [Server thread/INFO]: AgustinEz2 issued server command: /fill 355 -60 -1531
+[23:06:35] [Server thread/INFO]: AgustinEz2 issued server command: /fill 355 -60 -1531 355 64 -1532 minecraft:water
+[23:06:45] [Server thread/INFO]: AgustinEz2 issued server command: /fill 355 -60 -1531 354 64 -1532 minecraft:water
+[23:07:10] [Server thread/INFO]: AgustinEz2 issued server command: /gamemode creative
+[23:08:27] [Server thread/INFO]: AgustinEz2 issued server command: /gamemode survival
+[23:16:37] [Server thread/INFO]: AgustinEz2 issued server command: /tp Dn0611 AgustinEz2
