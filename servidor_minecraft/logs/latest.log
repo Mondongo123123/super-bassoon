@@ -105,3 +105,22 @@
 [22:18:15] [Server thread/INFO]: AgustinEz2 issued server command: /attribute AgustinEz2 minecraft:generic.scale base set 0.1
 [22:18:18] [Server thread/INFO]: AgustinEz2 issued server command: /attribute AgustinEz2 minecraft:generic.scale base set 0.01
 [22:19:46] [Server thread/INFO]: AgustinEz2 issued server command: /attribute AgustinEz2 minecraft:generic.scale base set 01
+[22:21:14] [Server thread/INFO]: AgustinEz2 issued server command: /scoreboard players reset AgustinEz2 muertes
+[22:21:14] [Server thread/INFO]: [AgustinEz2: Reset [muertes] for AgustinEz2]
+[22:24:10] [Server thread/INFO]: AgustinEz2 issued server command: /tp d
+[22:24:13] [Server thread/INFO]: AgustinEz2 issued server command: /tp k
+[22:24:14] [Server thread/INFO]: AgustinEz2 issued server command: /tp Kiki_gm
+[22:24:14] [Server thread/INFO]: [AgustinEz2: Teleported AgustinEz2 to Kiki_gm]
+[22:25:47] [Async Chat Thread - #2/INFO]: [Not Secure] <AgustinEz2> a
+[22:25:54] [Async Chat Thread - #2/INFO]: [Not Secure] <Dn0611> e
+[22:26:04] [Async Chat Thread - #2/INFO]: [Not Secure] <AgustinEz2> i
+[22:26:08] [Async Chat Thread - #2/INFO]: [Not Secure] <Dn0611> o
+[22:26:41] [Server thread/INFO]: AgustinEz2 issued server command: /enchant AgustinEz2 minecraft:unbreaking 3
+[22:26:41] [Server thread/INFO]: [AgustinEz2: Applied enchantment Unbreaking III to AgustinEz2's item]
+[22:26:49] [Server thread/INFO]: AgustinEz2 issued server command: /enchant AgustinEz2 minecraft:fortune 4
+[22:26:51] [Server thread/INFO]: AgustinEz2 issued server command: /enchant AgustinEz2 minecraft:fortune 3
+[22:26:51] [Server thread/INFO]: [AgustinEz2: Applied enchantment Fortune III to AgustinEz2's item]
+[22:27:35] [Server thread/INFO]: AgustinEz2 issued server command: /enchant AgustinEz2 minecraft:efficiency 5
+[22:27:35] [Server thread/INFO]: [AgustinEz2: Applied enchantment Efficiency V to AgustinEz2's item]
+[22:28:48] [Server thread/INFO]: AgustinEz2 issued server command: /gamerule logAdminCommands false
+[22:29:04] [Server thread/INFO]: AgustinEz2 issued server command: /tp Kiki_gm
