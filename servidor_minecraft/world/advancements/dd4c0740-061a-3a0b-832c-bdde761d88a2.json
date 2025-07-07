@@ -506,7 +506,8 @@
       "bread": "2025-07-06 04:41:55 +0000",
       "cooked_mutton": "2025-07-06 04:58:05 +0000",
       "sweet_berries": "2025-07-07 00:33:28 +0000",
-      "cooked_beef": "2025-07-07 00:42:32 +0000"
+      "cooked_beef": "2025-07-07 00:42:32 +0000",
+      "baked_potato": "2025-07-07 01:17:17 +0000"
     },
     "done": false
   },
@@ -2292,6 +2293,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-07-07 01:18:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite": {
     "criteria": {
       "has_andesite": "2025-07-07 00:55:17 +0000"
@@ -2304,9 +2311,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-07-07 01:18:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-07-07 00:55:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/axolotl_in_a_bucket": {
+    "criteria": {
+      "axolotl_bucket": "2025-07-07 01:16:09 +0000"
     },
     "done": true
   },
