@@ -156,3 +156,10 @@
 [05:51:58] [Server thread/INFO]: AgustinEz2 issued server command: /attribute AgustinEz2 minecraft:generic.scale base set 1
 [05:52:02] [Server thread/INFO]: AgustinEz2 issued server command: /attribute Dn0611 minecraft:generic.scale base set 1
 [05:52:06] [Server thread/INFO]: AgustinEz2 issued server command: /attribute Kiki_gm minecraft:generic.scale base set 1
+[05:54:43] [Server thread/INFO]: AgustinEz2 issued server command: /give AgustinEz2 shield{Unbreakable:1,AttributeModifiers:[{Slot:"offhand", AttributeName:"generic.attack_speed", Name:"generic.attack_speed", Amount:1000.0, Operation:0, UUID:[I; -110663, 103297, -1423577, 206238]}]} 1
+[05:55:27] [Server thread/INFO]: AgustinEz2 issued server command: /attribute AgustinEz2 minecraft:generic.luck base set 1024
+[05:55:37] [Server thread/INFO]: Kiki_gm has made the advancement [Isn't It Iron Pick]
+[05:56:06] [Server thread/INFO]: AgustinEz2 issued server command: /attribute AgustinEz2 minecraft:generic.scale base set 0.01
+[06:00:20] [Server thread/INFO]: AgustinEz2 issued server command: /attribute AgustinEz2 minecraft:generic.scale base set 1
+[06:00:58] [Server thread/INFO]: AgustinEz2 issued server command: /gamemode creative
+[06:02:00] [Server thread/INFO]: AgustinEz2 issued server command: /gamemode survival

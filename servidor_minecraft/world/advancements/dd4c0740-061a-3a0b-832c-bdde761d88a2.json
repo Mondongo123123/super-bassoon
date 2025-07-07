@@ -1226,6 +1226,7 @@
     "criteria": {
       "minecraft:blaze": "2025-07-06 22:55:51 +0000",
       "minecraft:skeleton": "2025-07-06 05:20:38 +0000",
+      "minecraft:zombified_piglin": "2025-07-07 05:49:43 +0000",
       "minecraft:spider": "2025-07-06 05:21:59 +0000",
       "minecraft:zombie": "2025-07-06 07:06:47 +0000",
       "minecraft:creeper": "2025-07-06 05:24:56 +0000",
@@ -2473,6 +2474,12 @@
   "minecraft:recipes/decorations/grindstone": {
     "criteria": {
       "has_stone_slab": "2025-07-07 05:34:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-07-07 05:55:47 +0000"
     },
     "done": true
   },
