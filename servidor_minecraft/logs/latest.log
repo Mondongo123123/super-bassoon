@@ -196,3 +196,28 @@
 [06:46:44] [Server thread/INFO]: AgustinEz2 issued server command: /execute in minecraft:overworld run tp AgustinEz2 16.0 63 -1244.0
 [06:47:35] [Server thread/INFO]: AgustinEz2 issued server command: /gamemode creative
 [06:47:55] [Server thread/INFO]: AgustinEz2 issued server command: /gamemode survival
+[06:53:06] [Server thread/INFO]: AgustinEz2 issued server command: /tp k
+[06:53:08] [Server thread/INFO]: AgustinEz2 issued server command: /tp Kiki_gm
+[06:53:22] [Server thread/INFO]: AgustinEz2 was slain by Iron Golem
+[06:53:26] [Server thread/INFO]: AgustinEz2 issued server command: /actp 1
+[06:53:50] [Server thread/INFO]: AgustinEz2 issued server command: /effect give AgustinEz2 minecraft:hero_of_the_village infinite
+[06:54:19] [Server thread/INFO]: AgustinEz2 has made the advancement [What a Deal!]
+[06:55:11] [Server thread/INFO]: AgustinEz2 issued server command: /attribute AgustinEz2 minecraft:generic.scale base set 0.1
+[06:55:24] [Server thread/INFO]: Kiki_gm has reached the goal [Postmortal]
+[06:55:25] [Server thread/INFO]: Dn0611 was slain by AgustinEz2
+[06:55:55] [Server thread/INFO]: AgustinEz2 issued server command: /execute in minecraft:overworld run tp AgustinEz2 0.0 91 -1133.0
+[06:56:00] [Server thread/INFO]: AgustinEz2 fell from a high place
+[06:56:04] [Server thread/INFO]: AgustinEz2 issued server command: /actp 1
+[06:56:18] [Server thread/INFO]: AgustinEz2 issued server command: /actp 1
+[06:56:20] [Server thread/INFO]: AgustinEz2 issued server command: /acfetch 1
+[06:56:26] [Server thread/INFO]: AgustinEz2 issued server command: /tp Kiki_gm
+[06:57:24] [Server thread/INFO]: Kiki_gm lost connection: Disconnected
+[06:57:24] [Server thread/INFO]: Kiki_gm left the game
+[06:58:15] [Server thread/INFO]: AgustinEz2 issued server command: /effect give AgustinEz2 minecraft:instant_damage infinite
+[06:58:21] [Server thread/INFO]: AgustinEz2 issued server command: /effect give AgustinEz2 minecraft:instant_damage infinite
+[06:58:23] [Server thread/INFO]: AgustinEz2 issued server command: /effect give AgustinEz2 minecraft:instant_damage infinite
+[06:58:26] [Server thread/INFO]: AgustinEz2 issued server command: /effect give AgustinEz2 minecraft:instant_damage infinite
+[06:58:52] [Server thread/INFO]: AgustinEz2 lost connection: Disconnected
+[06:58:52] [Server thread/INFO]: AgustinEz2 left the game
+[06:58:56] [Server thread/INFO]: Dn0611 lost connection: Disconnected
+[06:58:56] [Server thread/INFO]: Dn0611 left the game
