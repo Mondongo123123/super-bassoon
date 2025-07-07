@@ -580,7 +580,8 @@
       "glow_berries": "2025-07-06 06:04:15 +0000",
       "sweet_berries": "2025-07-06 23:27:23 +0000",
       "cooked_beef": "2025-07-06 05:22:57 +0000",
-      "beef": "2025-07-06 04:45:42 +0000"
+      "beef": "2025-07-06 04:45:42 +0000",
+      "baked_potato": "2025-07-07 00:11:07 +0000"
     },
     "done": false
   },
@@ -647,9 +648,11 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-07-06 05:30:37 +0000",
+      "minecraft:piglin": "2025-07-07 00:10:57 +0000",
       "minecraft:enderman": "2025-07-06 06:59:12 +0000",
       "minecraft:spider": "2025-07-06 04:47:14 +0000",
-      "minecraft:zombie": "2025-07-06 05:37:30 +0000"
+      "minecraft:zombie": "2025-07-06 05:37:30 +0000",
+      "minecraft:hoglin": "2025-07-07 00:13:39 +0000"
     },
     "done": false
   },
@@ -1975,9 +1978,16 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
-      "minecraft:crimson_forest": "2025-07-06 23:00:46 +0000"
+      "minecraft:crimson_forest": "2025-07-06 23:00:46 +0000",
+      "minecraft:soul_sand_valley": "2025-07-07 00:13:24 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_sword": "2025-07-07 00:10:01 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/food/cooked_chicken": {
     "criteria": {
@@ -2015,6 +2025,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-07-07 00:11:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-07-06 23:57:54 +0000"
@@ -2027,6 +2043,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_sword": "2025-07-07 00:10:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-07-07 00:13:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
     "criteria": {
       "has_stone": "2025-07-06 23:57:54 +0000"
@@ -2036,6 +2064,12 @@
   "minecraft:recipes/building_blocks/emerald_block": {
     "criteria": {
       "has_emerald": "2025-07-06 22:14:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-07-07 00:11:55 +0000"
     },
     "done": true
   },
@@ -2075,6 +2109,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-07-07 00:13:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_stone": {
     "criteria": {
       "has_stone": "2025-07-06 23:57:54 +0000"
@@ -2090,6 +2130,12 @@
   "minecraft:recipes/building_blocks/granite": {
     "criteria": {
       "has_quartz": "2025-07-07 00:03:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-07-07 00:11:33 +0000"
     },
     "done": true
   },
