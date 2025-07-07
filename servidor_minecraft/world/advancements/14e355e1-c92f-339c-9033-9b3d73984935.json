@@ -582,7 +582,8 @@
       "beef": "2025-07-06 04:45:42 +0000",
       "baked_potato": "2025-07-07 00:11:07 +0000",
       "apple": "2025-07-07 05:30:37 +0000",
-      "cooked_chicken": "2025-07-06 23:32:57 +0000"
+      "cooked_chicken": "2025-07-06 23:32:57 +0000",
+      "carrot": "2025-07-07 05:40:03 +0000"
     },
     "done": false
   },
@@ -2212,6 +2213,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-07-07 05:38:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2025-07-07 05:42:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/glass_bottle": {
     "criteria": {
       "has_glass": "2025-07-07 05:15:13 +0000"
@@ -2254,9 +2267,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2025-07-07 05:42:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-07-07 05:38:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-07-07 05:38:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cyan_stained_glass": {
     "criteria": {
       "has_glass": "2025-07-07 05:15:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2025-07-07 05:42:43 +0000"
     },
     "done": true
   },

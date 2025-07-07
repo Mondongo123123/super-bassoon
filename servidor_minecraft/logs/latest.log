@@ -141,3 +141,18 @@
 [05:38:26] [Server thread/INFO]: AgustinEz2 issued server command: /actp 1
 [05:39:28] [Server thread/INFO]: AgustinEz2 issued server command: /execute in minecraft:overworld run tp AgustinEz2 12.5 62 -1230.5
 [05:40:25] [Server thread/INFO]: AgustinEz2 issued server command: /tp Dn0611
+[05:46:00] [Server thread/INFO]: AgustinEz2 issued server command: /give AgustinEz2 minecraft:command_block
+[05:46:07] [Server thread/INFO]: AgustinEz2 issued server command: /gamemode creative
+[05:46:40] [Server thread/INFO]: AgustinEz2 issued server command: /give @a diamond_boots[attribute_modifiers={modifiers:[{type:"generic.scale",amount:2,slot:feet,id:"generic.scale",operation:add_multiplied_base}]}]
+[05:46:40] [Server thread/INFO]: Kiki_gm has made the advancement [Cover Me with Diamonds]
+[05:47:12] [Server thread/INFO]: AgustinEz2 issued server command: /gamemode survival
+[05:50:29] [Server thread/INFO]: AgustinEz2 issued server command: /attribute Dn0611 minecraft:generic.scale base set 10
+[05:50:32] [Server thread/INFO]: AgustinEz2 issued server command: /attribute Dn0611 minecraft:generic.scale base set 1
+[05:50:37] [Server thread/INFO]: AgustinEz2 issued server command: /attribute Dn0611 minecraft:generic.scale base set 0.01
+[05:50:55] [Server thread/INFO]: AgustinEz2 issued server command: /attribute Kiki_gm minecraft:generic.scale base set 0.01
+[05:51:16] [Server thread/INFO]: AgustinEz2 issued server command: /attribute AgustinEz2 minecraft:generic.scale base set 0.01
+[05:51:56] [Server thread/INFO]: AgustinEz2 issued server command: /attribute AgustinEz2 minecraft:generic.scale base set
+[05:51:57] [Server thread/INFO]: AgustinEz2 issued server command: /attribute AgustinEz2 minecraft:generic.scale base set1
+[05:51:58] [Server thread/INFO]: AgustinEz2 issued server command: /attribute AgustinEz2 minecraft:generic.scale base set 1
+[05:52:02] [Server thread/INFO]: AgustinEz2 issued server command: /attribute Dn0611 minecraft:generic.scale base set 1
+[05:52:06] [Server thread/INFO]: AgustinEz2 issued server command: /attribute Kiki_gm minecraft:generic.scale base set 1
