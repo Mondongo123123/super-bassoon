@@ -122,3 +122,22 @@
 [05:29:07] [Server thread/INFO]: AgustinEz2 issued server command: /attribute Kiki_gm minecraft:generic.scale base set 1.
 [05:29:16] [Server thread/INFO]: AgustinEz2 issued server command: /attribute Dn0611 minecraft:generic.scale base set 0.1
 [05:31:02] [Server thread/INFO]: AgustinEz2 issued server command: /tp Dn0611
+[05:35:11] [Server thread/INFO]: AgustinEz2 issued server command: /gamemode creative
+[05:35:25] [Server thread/INFO]: AgustinEz2 issued server command: /gamemode survival
+[05:35:25] [Server thread/INFO]: Kiki_gm has made the advancement [Enchanter]
+[05:37:04] [Server thread/INFO]: AgustinEz2 was slain by Iron Golem
+[05:37:20] [Server thread/INFO]: AgustinEz2 issued server command: /execute in minecraft:overworld run tp AgustinEz2 292.0 64 -1628.0
+[05:37:27] [Server thread/INFO]: AgustinEz2 was slain by Iron Golem
+[05:37:36] [Server thread/INFO]: AgustinEz2 lost connection: Timed out
+[05:37:36] [Server thread/INFO]: AgustinEz2 left the game
+[05:37:43] [User Authenticator #2/INFO]: UUID of player AgustinEz2 is dd4c0740-061a-3a0b-832c-bdde761d88a2
+[05:37:44] [Server thread/INFO]: AgustinEz2 joined the game
+[05:37:44] [Server thread/INFO]: AgustinEz2[/127.85.175.63:41397] logged in with entity id 4619 at ([world]292.0, 64.0, -1628.0)
+[05:37:51] [Server thread/INFO]: AgustinEz2 issued server command: /actp 1
+[05:37:52] [Server thread/INFO]: AgustinEz2 was slain by Iron Golem
+[05:37:57] [Server thread/INFO]: AgustinEz2 issued server command: /actp 1
+[05:38:16] [Server thread/INFO]: AgustinEz2 was slain by Iron Golem
+[05:38:24] [Server thread/INFO]: AgustinEz2 issued server command: /attribute AgustinEz2 minecraft:generic.attack_damage base set 100
+[05:38:26] [Server thread/INFO]: AgustinEz2 issued server command: /actp 1
+[05:39:28] [Server thread/INFO]: AgustinEz2 issued server command: /execute in minecraft:overworld run tp AgustinEz2 12.5 62 -1230.5
+[05:40:25] [Server thread/INFO]: AgustinEz2 issued server command: /tp Dn0611
