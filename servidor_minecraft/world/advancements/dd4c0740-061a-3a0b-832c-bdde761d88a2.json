@@ -504,7 +504,9 @@
     "criteria": {
       "cooked_porkchop": "2025-07-06 06:37:59 +0000",
       "bread": "2025-07-06 04:41:55 +0000",
-      "cooked_mutton": "2025-07-06 04:58:05 +0000"
+      "cooked_mutton": "2025-07-06 04:58:05 +0000",
+      "sweet_berries": "2025-07-07 00:33:28 +0000",
+      "cooked_beef": "2025-07-07 00:42:32 +0000"
     },
     "done": false
   },
@@ -2121,6 +2123,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2025-07-07 00:37:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/chest_minecart": {
+    "criteria": {
+      "has_minecart": "2025-07-07 00:37:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:crimson_forest": "2025-07-06 22:51:29 +0000",
@@ -2128,9 +2142,21 @@
     },
     "done": false
   },
+  "minecraft:recipes/transportation/furnace_minecart": {
+    "criteria": {
+      "has_minecart": "2025-07-07 00:37:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2025-07-06 22:51:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/hopper_minecart": {
+    "criteria": {
+      "has_minecart": "2025-07-07 00:37:30 +0000"
     },
     "done": true
   },
@@ -2176,6 +2202,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/tnt_minecart": {
+    "criteria": {
+      "has_minecart": "2025-07-07 00:37:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/soul_torch": {
     "criteria": {
       "has_soul_sand": "2025-07-06 22:55:12 +0000"
@@ -2185,6 +2217,12 @@
   "minecraft:recipes/decorations/enchanting_table": {
     "criteria": {
       "has_obsidian": "2025-07-06 22:51:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2025-07-07 00:37:32 +0000"
     },
     "done": true
   },
@@ -2206,9 +2244,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2025-07-07 00:37:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
     "criteria": {
       "has_warped_fungus": "2025-07-06 22:54:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/rail": {
+    "criteria": {
+      "has_minecart": "2025-07-07 00:37:30 +0000"
     },
     "done": true
   },
