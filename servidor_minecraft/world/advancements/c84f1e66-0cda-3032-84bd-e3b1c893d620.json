@@ -183,6 +183,7 @@
       "bread": "2025-07-06 04:34:51 +0000",
       "glow_berries": "2025-07-06 23:49:00 +0000",
       "sweet_berries": "2025-07-06 23:30:07 +0000",
+      "baked_potato": "2025-07-06 23:51:49 +0000",
       "carrot": "2025-07-06 06:45:32 +0000"
     },
     "done": false
@@ -1466,6 +1467,12 @@
   "minecraft:recipes/building_blocks/deepslate_bricks_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-07-06 23:43:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-07-06 23:54:47 +0000"
     },
     "done": true
   },
