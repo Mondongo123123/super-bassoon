@@ -54,3 +54,7 @@
 [00:50:06] [Server thread/INFO]: Villager Villager['Toolsmith'/1039, uuid='49726e12-bbe6-48ca-b675-206f5a8672b8', l='ServerLevel[world]', x=599.49, y=63.94, z=-1612.42, cpos=[37, -101], tl=85343, v=true] died, message: 'Toolsmith was slain by AgustinEz2'
 [00:50:28] [Server thread/INFO]: Villager Villager['Farmer'/332, uuid='0f366bbb-1c09-4fcc-b282-5cbd122a5667', l='ServerLevel[world]', x=573.47, y=63.00, z=-1630.15, cpos=[35, -102], tl=183308, v=true] died, message: 'Farmer was slain by AgustinEz2'
 [00:52:16] [Server thread/INFO]: AgustinEz2 issued server command: /attribute AgustinEz2 minecraft:generic.scale base set 0.5
+[01:00:25] [Server thread/INFO]: AgustinEz2 issued server command: /gamemode creative
+[01:00:34] [Server thread/INFO]: AgustinEz2 issued server command: /gamemode survival
+[01:02:53] [Server thread/INFO]: AgustinEz2 issued server command: /gamemode creative
+[01:03:01] [Server thread/INFO]: Dn0611 tried to swim in lava
