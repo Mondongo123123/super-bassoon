@@ -58,3 +58,17 @@
 [01:00:34] [Server thread/INFO]: AgustinEz2 issued server command: /gamemode survival
 [01:02:53] [Server thread/INFO]: AgustinEz2 issued server command: /gamemode creative
 [01:03:01] [Server thread/INFO]: Dn0611 tried to swim in lava
+[01:04:50] [Server thread/INFO]: Villager Villager['Villager'/34973, uuid='e2ad4e21-fa93-4d43-a1df-96670cc84e99', l='ServerLevel[world]', x=543.32, y=61.23, z=-1598.22, cpos=[33, -100], tl=14530, v=true] died, message: 'Villager was slain by AgustinEz2'
+[01:05:20] [Server thread/INFO]: Villager Villager['Villager'/34626, uuid='03c7a75e-b662-4792-84f1-3311dbf9b583', l='ServerLevel[world]', x=549.45, y=61.00, z=-1598.62, cpos=[34, -100], tl=17201, v=true] died, message: 'Villager was slain by AgustinEz2'
+[01:05:21] [Server thread/INFO]: Villager Villager['Villager'/34628, uuid='4da9691a-2b6c-4ba5-9d77-586db4732980', l='ServerLevel[world]', x=549.14, y=61.00, z=-1597.41, cpos=[34, -100], tl=17203, v=true] died, message: 'Villager was slain by AgustinEz2'
+[01:05:22] [Server thread/INFO]: Villager Villager['Villager'/34629, uuid='13351021-0580-4c44-a44b-9623f3a825de', l='ServerLevel[world]', x=547.96, y=61.00, z=-1597.51, cpos=[34, -100], tl=17215, v=true] died, message: 'Villager was slain by AgustinEz2'
+[01:05:33] [Server thread/INFO]: Villager Villager['Villager'/34640, uuid='ed6f122d-6559-4d41-9eb0-759a4ed893b2', l='ServerLevel[world]', x=546.04, y=61.00, z=-1599.79, cpos=[34, -100], tl=17395, v=true] died, message: 'Villager was slain by AgustinEz2'
+[01:05:47] [Server thread/INFO]: AgustinEz2 issued server command: /gamemode survival
+[01:07:24] [Server thread/INFO]: Villager Villager['Villager'/34641, uuid='f12fc4de-5203-4253-aaff-e682dfe0bd17', l='ServerLevel[world]', x=303.42, y=63.00, z=-1631.65, cpos=[18, -102], tl=19610, v=true] died, message: 'Villager was slain by AgustinEz2'
+[01:07:47] [Server thread/INFO]: AgustinEz2 issued server command: /attribute AgustinEz2 minecraft:generic.attack_damage base set 1
+[01:07:51] [Server thread/INFO]: AgustinEz2 issued server command: /attribute AgustinEz2 minecraft:generic.attack_damage base set 1
+[01:07:57] [Server thread/INFO]: AgustinEz2 issued server command: /attribute AgustinEz2 minecraft:player.block_break_speed base set 1
+[01:08:17] [Server thread/INFO]: Villager Villager['Fisherman'/34621, uuid='8b8f9b4c-1b91-4083-8eaa-ae2ca99bd51b', l='ServerLevel[world]', x=292.04, y=63.56, z=-1630.98, cpos=[18, -102], tl=20776, v=true] died, message: 'Fisherman was slain by Kiki_gm'
+[01:10:26] [Server thread/INFO]: Kiki_gm has made the advancement [What a Deal!]
+[01:12:18] [Server thread/INFO]: AgustinEz2 issued server command: /tp Dn0611
+[01:13:08] [Server thread/INFO]: AgustinEz2 issued server command: /summon minecraft:axolotl ~ ~ ~
