@@ -1323,9 +1323,12 @@
       "minecraft:cave_spider": "2025-07-06 23:44:54 +0000",
       "minecraft:skeleton": "2025-07-06 23:44:04 +0000",
       "minecraft:piglin": "2025-07-06 23:37:31 +0000",
+      "minecraft:vindicator": "2025-07-08 06:39:03 +0000",
       "minecraft:witch": "2025-07-07 06:11:47 +0000",
       "minecraft:spider": "2025-07-07 06:21:34 +0000",
+      "minecraft:vex": "2025-07-08 06:44:36 +0000",
       "minecraft:zombie": "2025-07-06 23:44:53 +0000",
+      "minecraft:evoker": "2025-07-08 06:43:06 +0000",
       "minecraft:hoglin": "2025-07-06 23:38:53 +0000"
     },
     "done": false
@@ -2356,6 +2359,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-07-08 06:47:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/andesite_wall": {
     "criteria": {
       "has_andesite": "2025-07-08 06:28:45 +0000"
@@ -2371,6 +2380,24 @@
   "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-07-08 06:28:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-07-08 06:47:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-07-08 06:47:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-07-08 06:47:22 +0000"
     },
     "done": true
   },

@@ -650,11 +650,15 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-07-08 06:37:40 +0000",
       "minecraft:skeleton": "2025-07-06 05:30:37 +0000",
       "minecraft:piglin": "2025-07-07 00:10:57 +0000",
+      "minecraft:vindicator": "2025-07-08 06:37:46 +0000",
       "minecraft:enderman": "2025-07-06 06:59:12 +0000",
       "minecraft:spider": "2025-07-06 04:47:14 +0000",
+      "minecraft:vex": "2025-07-08 06:46:22 +0000",
       "minecraft:zombie": "2025-07-06 05:37:30 +0000",
+      "minecraft:evoker": "2025-07-08 06:48:39 +0000",
       "minecraft:hoglin": "2025-07-07 00:13:39 +0000"
     },
     "done": false
@@ -2434,6 +2438,30 @@
   "minecraft:recipes/building_blocks/birch_wood": {
     "criteria": {
       "has_log": "2025-07-07 06:42:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-07-08 06:37:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2025-07-08 06:50:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/totem_of_undying": {
+    "criteria": {
+      "used_totem": "2025-07-08 06:38:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2025-07-08 06:49:04 +0000"
     },
     "done": true
   },

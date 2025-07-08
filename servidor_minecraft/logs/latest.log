@@ -142,3 +142,25 @@
 [06:39:16] [Server thread/INFO]: Dn0611 was slain by Vindicator
 [06:39:18] [Server thread/INFO]: AgustinEz2 issued server command: /actp 1
 [06:39:25] [Server thread/INFO]: AgustinEz2 issued server command: /tp Dn0611 AgustinEz2
+[06:41:29] [Server thread/INFO]: AgustinEz2 issued server command: /tp Dn0611
+[06:41:37] [Server thread/INFO]: Dn0611 was slain by Vindicator
+[06:42:36] [Server thread/INFO]: Villager Villager['Villager'/248, uuid='f4dbf353-7302-4663-b206-c13408f05564', l='ServerLevel[world]', x=227.19, y=70.83, z=-1608.07, cpos=[14, -101], tl=657549, v=true] died, message: 'Villager was slain by Vex'
+[06:42:48] [Server thread/INFO]: Villager Villager['Villager'/245, uuid='14ccbc07-dfc3-4735-81e2-891093334659', l='ServerLevel[world]', x=230.69, y=70.00, z=-1605.50, cpos=[14, -101], tl=657752, v=true] died, message: 'Villager was shot by Pillager'
+[06:43:09] [Server thread/INFO]: Dn0611 was slain by Vindicator
+[06:45:04] [Server thread/INFO]: AgustinEz2 issued server command: /spectate
+[06:45:11] [Server thread/INFO]: AgustinEz2 issued server command: /gamemode spectator
+[06:45:32] [Server thread/INFO]: AgustinEz2 issued server command: /gamemode survival
+[06:45:37] [Server thread/INFO]: AgustinEz2 issued server command: /tp Kiki_gm AgustinEz2
+[06:46:38] [Server thread/INFO]: Dn0611 was slain by Vindicator
+[06:47:01] [Server thread/INFO]: Dn0611 was slain by Vex
+[06:48:08] [Server thread/INFO]: Dn0611 was slain by Vindicator
+[06:48:20] [Server thread/INFO]: AgustinEz2 was slain by Vindicator
+[06:48:25] [Server thread/INFO]: AgustinEz2 issued server command: /actp 1
+[06:48:39] [Server thread/INFO]: Kiki_gm was slain by Vindicator
+[06:48:52] [Server thread/INFO]: Dn0611 was slain by Vindicator
+[06:48:54] [Server thread/INFO]: AgustinEz2 was slain by Vindicator
+[06:48:57] [Server thread/INFO]: AgustinEz2 issued server command: /actp 1
+[06:49:04] [Server thread/INFO]: Dn0611 has completed the challenge [Hero of the Village]
+[06:49:04] [Server thread/INFO]: Kiki_gm has completed the challenge [Hero of the Village]
+[06:49:04] [Server thread/INFO]: [AngelChest] AgustinEz2 opened the AngelChest of Dn0611 at Location{world=CraftWorld{name=world},x=297.0,y=63.0,z=-1618.0,pitch=0.0,yaw=0.0}
+[06:49:20] [Server thread/INFO]: [AngelChest] AgustinEz2 opened the AngelChest of Dn0611 at Location{world=CraftWorld{name=world},x=297.0,y=63.0,z=-1618.0,pitch=0.0,yaw=0.0}
