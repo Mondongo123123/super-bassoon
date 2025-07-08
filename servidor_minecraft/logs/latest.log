@@ -1,267 +1,90 @@
-[05:39:58] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.7+6-Ubuntu-0ubuntu124.04; Ubuntu null) on Linux 6.8.0-1027-azure (amd64)
-[05:39:58] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.1-57-master@b483da4 (2024-09-01T18:09:05Z) for Minecraft 1.21.1
-[05:39:58] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
-[05:40:00] [ServerMain/INFO]: [PluginInitializerManager] Initialized 4 plugins
-[05:40:00] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (4):
+[17:21:01] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.7+6-Ubuntu-0ubuntu124.04; Ubuntu null) on Linux 6.8.0-1027-azure (amd64)
+[17:21:01] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.1-57-master@b483da4 (2024-09-01T18:09:05Z) for Minecraft 1.21.1
+[17:21:01] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[17:21:02] [ServerMain/INFO]: [PluginInitializerManager] Initialized 4 plugins
+[17:21:02] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (4):
  - AngelChest (13.9.4), Chunky (1.4.40), CrisTreeCapitator (6.4.4), SkinsRestorer (15.7.5)
-[05:40:05] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[05:40:08] [ServerMain/INFO]: Loaded 1290 recipes
-[05:40:08] [ServerMain/INFO]: Loaded 1399 advancements
-[05:40:08] [Server thread/INFO]: Starting minecraft server version 1.21.1
-[05:40:08] [Server thread/INFO]: Loading properties
-[05:40:08] [Server thread/INFO]: This server is running Paper version 1.21.1-57-master@b483da4 (2024-09-01T18:09:05Z) (Implementing API version 1.21.1-R0.1-SNAPSHOT)
-[05:40:09] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
-[05:40:09] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[05:40:09] [Server thread/INFO]: Using 4 threads for Netty based IO
-[05:40:10] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
-[05:40:11] [Server thread/INFO]: Default game type: SURVIVAL
-[05:40:11] [Server thread/INFO]: Generating keypair
-[05:40:11] [Server thread/INFO]: Starting Minecraft server on *:25565
-[05:40:11] [Server thread/INFO]: Using epoll channel type
-[05:40:11] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[05:40:11] [Server thread/INFO]: Paper: Using OpenSSL 3.0.x (Linux x86_64) cipher from Velocity.
-[05:40:12] [Server thread/INFO]: [CrisTreeCapitator] Loading server plugin CrisTreeCapitator v6.4.4
-[05:40:12] [Server thread/INFO]: [Chunky] Loading server plugin Chunky v1.4.40
-[05:40:12] [Server thread/INFO]: [AngelChest] Loading server plugin AngelChest v13.9.4
-[05:40:12] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.7.5
-[05:40:12] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[05:40:12] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.7.5
-[05:40:15] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.1.
-[05:40:17] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
-[05:40:17] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[05:40:17] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[05:40:17] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[05:40:17] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[05:40:17] [Server thread/INFO]: Preparing level "world"
-[05:40:17] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[05:40:17] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[05:40:17] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
-[05:40:17] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
-[05:40:17] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
-[05:40:17] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[05:40:17] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[05:40:17] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.7.5
-[05:40:17] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: 9bd68f3
-[05:40:17] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
-[05:40:17] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[05:40:17] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
-[05:40:17] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
-[05:40:17] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[05:40:19] [Server thread/INFO]: Time elapsed: 1855 ms
-[05:40:19] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[05:40:20] [Server thread/INFO]: Time elapsed: 658 ms
-[05:40:20] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[05:40:20] [Server thread/INFO]: Time elapsed: 264 ms
-[05:40:20] [Server thread/INFO]: [CrisTreeCapitator] Enabling CrisTreeCapitator v6.4.4
-[05:40:20] [Server thread/INFO]: [CrisTreeCapitator] WorldGuard not found. Maybe WorldGuard or this plugin are not up to date?
-[05:40:20] [Server thread/INFO]: [CrisTreeCapitator] Logs from JSON: [OAK_LOG, OAK_LOG, OAK_LOG, OAK_LOG]
-[05:40:20] [Server thread/INFO]: [CrisTreeCapitator] Leaves from JSON: [OAK_LEAVES, OAK_LEAVES, OAK_LEAVES, OAK_LEAVES]
-[05:40:20] [Server thread/INFO]: [CrisTreeCapitator] Enabled
-[05:40:20] [Server thread/INFO]: [Chunky] Enabling Chunky v1.4.40
-[05:40:21] [Server thread/INFO]: [AngelChest] Enabling AngelChest v13.9.4
-[05:40:21] [Server thread/INFO]: [AngelChest] groups.yml does not exist, skipping custom group settings.
-[05:40:21] [Server thread/INFO]: [AngelChest] blacklist.yml does not exist, disabling item blacklist.
-[05:40:21] [Server thread/INFO]: [AngelChest] Not using premium version, disabling Graveyards feature
-[05:40:21] [Server thread/WARN]: [AngelChest] Could not add usage/description to command acopen
-[05:40:22] [Server thread/INFO]: [AngelChest] Vault not installed, disabling economy functions.
-[05:40:22] [Server thread/INFO]: [AngelChest] [ACF] Enabled Asynchronous Tab Completion Support!
-[05:40:22] [Server thread/INFO]: [AngelChest] Successfully enabled AngelChest v13.9.4 (Premium: false)
-[05:40:22] [Server thread/INFO]: [spark] Starting background profiler...
-[05:40:24] [Server thread/INFO]: Done preparing level "world" (7.195s)
-[05:40:24] [Server thread/INFO]: Running delayed init tasks
-[05:40:24] [Server thread/INFO]: Done (28.093s)! For help, type "help"
-[05:40:24] [Server thread/INFO]: Timings Reset
-[05:40:27] [Server thread/INFO]: [AngelChest] ========================================================
-[05:40:27] [Server thread/INFO]: [AngelChest] You are using the free version of AngelChest. There is
-[05:40:27] [Server thread/INFO]: [AngelChest] also a premium version available, called AngelChestPlus.
-[05:40:27] [Server thread/INFO]: [AngelChest] It includes TONS of new features and exclusive Discord
-[05:40:27] [Server thread/INFO]: [AngelChest] support. The free version will still receive bugfixes,
-[05:40:27] [Server thread/INFO]: [AngelChest] but there won't be ANY new features!
-[05:40:27] [Server thread/INFO]: [AngelChest] If you like AngelChest, you will LOVE AngelChestPlus, so
-[05:40:27] [Server thread/INFO]: [AngelChest] please consider upgrading! Thank you for using AngelChest.
-[05:40:27] [Server thread/INFO]: [AngelChest] 
-[05:40:27] [Server thread/INFO]: [AngelChest] https://www.spigotmc.org/resources/88214
-[05:40:27] [Server thread/INFO]: [AngelChest] ========================================================
-[05:41:29] [User Authenticator #0/INFO]: UUID of player AgustinEz2 is dd4c0740-061a-3a0b-832c-bdde761d88a2
-[05:41:32] [Server thread/INFO]: AgustinEz2 joined the game
-[05:41:32] [Server thread/INFO]: AgustinEz2[/127.85.175.63:46241] logged in with entity id 32 at ([world]337.6716707222641, 64.0, -1553.030000001192)
-[05:41:53] [Server thread/INFO]: AgustinEz2 issued server command: /weather clear
-[05:42:10] [Server thread/INFO]: AgustinEz2 issued server command: /attribute AgustinEz2 minecraft:generic.scale base set 1
-[05:43:59] [User Authenticator #1/INFO]: UUID of player Kiki_gm is c84f1e66-0cda-3032-84bd-e3b1c893d620
-[05:44:01] [Server thread/INFO]: Kiki_gm joined the game
-[05:44:02] [Server thread/INFO]: Kiki_gm[/127.1.137.19:35397] logged in with entity id 840 at ([world]307.8042672375754, 66.0, -1574.4299022551993)
-[05:45:46] [User Authenticator #2/INFO]: UUID of player Dn0611 is 14e355e1-c92f-339c-9033-9b3d73984935
-[05:45:48] [Server thread/INFO]: Dn0611 joined the game
-[05:45:48] [Server thread/INFO]: Dn0611[/127.205.78.168:56069] logged in with entity id 1051 at ([world]326.7018596585343, 64.0, -1573.686590606275)
-[05:51:18] [Server thread/INFO]: AgustinEz2 issued server command: /attribute AgustinEz2 minecraft:generic.luck base set 10000
-[05:51:59] [Server thread/INFO]: AgustinEz2 issued server command: /attribute AgustinEz2 minecraft:player.mining_efficiency base set 10
-[05:52:05] [Server thread/INFO]: AgustinEz2 issued server command: /attribute AgustinEz2 minecraft:player.mining_efficiency base set 100
-[05:52:13] [Server thread/INFO]: AgustinEz2 issued server command: /attribute AgustinEz2 minecraft:player.mining_efficiency base set 30
-[05:52:22] [Server thread/INFO]: AgustinEz2 issued server command: /attribute AgustinEz2 minecraft:player.mining_efficiency base set 7
-[05:52:42] [Async Chat Thread - #1/INFO]: [Not Secure] <Kiki_gm> z
-[05:52:42] [Async Chat Thread - #1/INFO]: [Not Secure] <Kiki_gm> z
-[05:52:42] [Async Chat Thread - #1/INFO]: [Not Secure] <Kiki_gm> z
-[05:52:42] [Async Chat Thread - #1/INFO]: [Not Secure] <Kiki_gm> z
-[05:52:42] [Async Chat Thread - #1/INFO]: [Not Secure] <Kiki_gm> z
-[05:52:43] [Async Chat Thread - #1/INFO]: [Not Secure] <Kiki_gm> z
-[05:52:43] [Async Chat Thread - #1/INFO]: [Not Secure] <Kiki_gm> z
-[05:52:43] [Server thread/INFO]: AgustinEz2 issued server command: /attribute AgustinEz2 minecraft:player.mining_efficiency base set 10
-[05:54:54] [Server thread/INFO]: AgustinEz2 issued server command: /attribute AgustinEz2 minecraft:player.mining_efficiency base set 101
-[06:03:55] [Server thread/INFO]: AgustinEz2 issued server command: /attribute AgustinEz2 minecraft:player.mining_efficiency base set 10
-[06:04:28] [Server thread/INFO]: AgustinEz2 issued server command: /attribute AgustinEz2 minecraft:player.mining_efficiency base set 100
-[06:05:28] [Server thread/INFO]: AgustinEz2 lost connection: Disconnected
-[06:05:28] [Server thread/INFO]: AgustinEz2 left the game
-[06:05:33] [User Authenticator #3/INFO]: UUID of player AgustinEz2 is dd4c0740-061a-3a0b-832c-bdde761d88a2
-[06:05:35] [Server thread/INFO]: AgustinEz2 joined the game
-[06:05:35] [Server thread/INFO]: AgustinEz2[/127.85.175.63:58781] logged in with entity id 4057 at ([world]346.6361536754064, 56.0, -1592.5029315593492)
-[06:12:18] [Server thread/INFO]: AgustinEz2 issued server command: /give AgustinEz2 minecraft:magma_block 200
-[06:14:08] [Async Chat Thread - #2/INFO]: [Not Secure] <Kiki_gm> z
-[06:14:08] [Async Chat Thread - #2/INFO]: [Not Secure] <Kiki_gm> z
-[06:14:08] [Async Chat Thread - #2/INFO]: [Not Secure] <Kiki_gm> z
-[06:14:08] [Async Chat Thread - #2/INFO]: [Not Secure] <Kiki_gm> zz
-[06:14:09] [Async Chat Thread - #2/INFO]: [Not Secure] <Kiki_gm> z
-[06:14:09] [Async Chat Thread - #2/INFO]: [Not Secure] <Kiki_gm> z
-[06:14:09] [Async Chat Thread - #2/INFO]: [Not Secure] <Kiki_gm> z
-[06:14:09] [Async Chat Thread - #2/INFO]: [Not Secure] <Kiki_gm> z
-[06:14:11] [Async Chat Thread - #3/INFO]: [Not Secure] <Kiki_gm> zz
-[06:19:33] [Server thread/INFO]: AgustinEz2 issued server command: /fill 346 61 -1598
-[06:19:47] [Server thread/INFO]: AgustinEz2 issued server command: /fill 346 61 -1598 357 60 -1593 minecraft:glass
-[06:27:11] [Server thread/INFO]: AgustinEz2 issued server command: /fill 346 61 -1598 357 61 -1593 minecraft:lava
-[06:33:28] [Server thread/INFO]: AgustinEz2 issued server command: /tp Kiki_gm AgustinEz2
-[06:35:04] [Server thread/INFO]: Kiki_gm has made the advancement [Voluntary Exile]
-[06:35:46] [Server thread/INFO]: AgustinEz2 lost connection: Disconnected
-[06:35:46] [Server thread/INFO]: AgustinEz2 left the game
-[06:35:53] [User Authenticator #4/INFO]: UUID of player AgustinEz2 is dd4c0740-061a-3a0b-832c-bdde761d88a2
-[06:35:54] [Server thread/INFO]: AgustinEz2 joined the game
-[06:35:54] [Server thread/INFO]: AgustinEz2[/127.85.175.63:58097] logged in with entity id 11851 at ([world]350.33133858423594, 54.0, -1589.300000011921)
-[06:37:45] [Server thread/INFO]: Villager Villager['Nitwit'/247, uuid='85cc489d-35d1-4fa8-977e-ecdbc6bf228f', l='ServerLevel[world]', x=228.56, y=70.00, z=-1607.59, cpos=[14, -101], tl=651732, v=true] died, message: 'Nitwit was shot by Pillager'
-[06:37:46] [Server thread/INFO]: Dn0611 has made the advancement [Voluntary Exile]
-[06:37:57] [Server thread/INFO]: Villager Villager['Villager'/246, uuid='e1fb5eaf-c561-48b3-9c0f-67bef9f00c3a', l='ServerLevel[world]', x=228.12, y=70.00, z=-1607.64, cpos=[14, -101], tl=651925, v=true] died, message: 'Villager was shot by Pillager'
-[06:38:59] [Server thread/INFO]: Dn0611 has reached the goal [Postmortal]
-[06:39:11] [Server thread/INFO]: AgustinEz2 was slain by Vindicator
-[06:39:16] [Server thread/INFO]: Dn0611 was slain by Vindicator
-[06:39:18] [Server thread/INFO]: AgustinEz2 issued server command: /actp 1
-[06:39:25] [Server thread/INFO]: AgustinEz2 issued server command: /tp Dn0611 AgustinEz2
-[06:41:29] [Server thread/INFO]: AgustinEz2 issued server command: /tp Dn0611
-[06:41:37] [Server thread/INFO]: Dn0611 was slain by Vindicator
-[06:42:36] [Server thread/INFO]: Villager Villager['Villager'/248, uuid='f4dbf353-7302-4663-b206-c13408f05564', l='ServerLevel[world]', x=227.19, y=70.83, z=-1608.07, cpos=[14, -101], tl=657549, v=true] died, message: 'Villager was slain by Vex'
-[06:42:48] [Server thread/INFO]: Villager Villager['Villager'/245, uuid='14ccbc07-dfc3-4735-81e2-891093334659', l='ServerLevel[world]', x=230.69, y=70.00, z=-1605.50, cpos=[14, -101], tl=657752, v=true] died, message: 'Villager was shot by Pillager'
-[06:43:09] [Server thread/INFO]: Dn0611 was slain by Vindicator
-[06:45:04] [Server thread/INFO]: AgustinEz2 issued server command: /spectate
-[06:45:11] [Server thread/INFO]: AgustinEz2 issued server command: /gamemode spectator
-[06:45:32] [Server thread/INFO]: AgustinEz2 issued server command: /gamemode survival
-[06:45:37] [Server thread/INFO]: AgustinEz2 issued server command: /tp Kiki_gm AgustinEz2
-[06:46:38] [Server thread/INFO]: Dn0611 was slain by Vindicator
-[06:47:01] [Server thread/INFO]: Dn0611 was slain by Vex
-[06:48:08] [Server thread/INFO]: Dn0611 was slain by Vindicator
-[06:48:20] [Server thread/INFO]: AgustinEz2 was slain by Vindicator
-[06:48:25] [Server thread/INFO]: AgustinEz2 issued server command: /actp 1
-[06:48:39] [Server thread/INFO]: Kiki_gm was slain by Vindicator
-[06:48:52] [Server thread/INFO]: Dn0611 was slain by Vindicator
-[06:48:54] [Server thread/INFO]: AgustinEz2 was slain by Vindicator
-[06:48:57] [Server thread/INFO]: AgustinEz2 issued server command: /actp 1
-[06:49:04] [Server thread/INFO]: Dn0611 has completed the challenge [Hero of the Village]
-[06:49:04] [Server thread/INFO]: Kiki_gm has completed the challenge [Hero of the Village]
-[06:49:04] [Server thread/INFO]: [AngelChest] AgustinEz2 opened the AngelChest of Dn0611 at Location{world=CraftWorld{name=world},x=297.0,y=63.0,z=-1618.0,pitch=0.0,yaw=0.0}
-[06:49:20] [Server thread/INFO]: [AngelChest] AgustinEz2 opened the AngelChest of Dn0611 at Location{world=CraftWorld{name=world},x=297.0,y=63.0,z=-1618.0,pitch=0.0,yaw=0.0}
-[07:06:56] [Server thread/INFO]: Kiki_gm lost connection: Disconnected
-[07:06:56] [Server thread/INFO]: Kiki_gm left the game
-[07:07:06] [Server thread/INFO]: AgustinEz2 lost connection: Disconnected
-[07:07:06] [Server thread/INFO]: AgustinEz2 left the game
-[07:07:11] [User Authenticator #5/INFO]: UUID of player Kiki_gm is c84f1e66-0cda-3032-84bd-e3b1c893d620
-[07:07:11] [User Authenticator #6/INFO]: UUID of player AgustinEz2 is dd4c0740-061a-3a0b-832c-bdde761d88a2
-[07:07:12] [Server thread/INFO]: AgustinEz2 joined the game
-[07:07:12] [Server thread/INFO]: AgustinEz2[/127.85.175.63:51217] logged in with entity id 18090 at ([world]343.61362150648506, 73.0, -1582.2205515617215)
-[07:07:13] [Server thread/INFO]: Kiki_gm joined the game
-[07:07:13] [Server thread/INFO]: Kiki_gm[/127.1.137.19:50021] logged in with entity id 18087 at ([world]342.091377161159, 73.0, -1581.3511916030761)
-[07:07:41] [Server thread/INFO]: AgustinEz2 issued server command: /give AgustinEz2 minecraft:spectral_arrow 100
-[07:08:35] [Server thread/INFO]: Kiki_gm lost connection: Disconnected
-[07:08:35] [Server thread/INFO]: Kiki_gm left the game
-[07:08:51] [User Authenticator #7/INFO]: UUID of player Kiki_gm is c84f1e66-0cda-3032-84bd-e3b1c893d620
-[07:08:53] [Server thread/INFO]: Kiki_gm joined the game
-[07:08:53] [Server thread/INFO]: Kiki_gm[/127.1.137.19:40265] logged in with entity id 18322 at ([world]299.81886465058074, 63.0, -1616.5941045972158)
-[07:10:05] [Server thread/INFO]: Kiki_gm was shot by AgustinEz2
-[07:10:32] [Async Chat Thread - #4/INFO]: [Not Secure] <AgustinEz2> z
-[07:10:33] [Async Chat Thread - #4/INFO]: [Not Secure] <AgustinEz2> zz
-[07:10:33] [Async Chat Thread - #4/INFO]: [Not Secure] <AgustinEz2> z
-[07:10:33] [Async Chat Thread - #4/INFO]: [Not Secure] <AgustinEz2> z
-[07:10:33] [Async Chat Thread - #4/INFO]: [Not Secure] <AgustinEz2> z
-[07:10:33] [Async Chat Thread - #4/INFO]: [Not Secure] <AgustinEz2> z
-[07:10:33] [Async Chat Thread - #4/INFO]: [Not Secure] <AgustinEz2> z
-[07:10:33] [Async Chat Thread - #5/INFO]: [Not Secure] <AgustinEz2> zz
-[07:10:34] [Async Chat Thread - #5/INFO]: [Not Secure] <AgustinEz2> z
-[07:10:34] [Async Chat Thread - #5/INFO]: [Not Secure] <AgustinEz2> z
-[07:10:34] [Async Chat Thread - #5/INFO]: [Not Secure] <AgustinEz2> z
-[07:10:34] [Async Chat Thread - #5/INFO]: [Not Secure] <AgustinEz2> z
-[07:10:34] [Async Chat Thread - #5/INFO]: [Not Secure] <AgustinEz2> z
-[07:10:34] [Async Chat Thread - #5/INFO]: [Not Secure] <AgustinEz2> zz
-[07:10:34] [Async Chat Thread - #4/INFO]: [Not Secure] <AgustinEz2> z
-[07:10:35] [Async Chat Thread - #4/INFO]: [Not Secure] <AgustinEz2> z
-[07:10:35] [Async Chat Thread - #4/INFO]: [Not Secure] <AgustinEz2> z
-[07:10:53] [Async Chat Thread - #4/INFO]: [Not Secure] <AgustinEz2> a
-[07:10:57] [Async Chat Thread - #4/INFO]: [Not Secure] <Dn0611> e
-[07:11:01] [Async Chat Thread - #4/INFO]: [Not Secure] <Kiki_gm> i
-[07:11:12] [Async Chat Thread - #4/INFO]: [Not Secure] <AgustinEz2> u
-[07:11:21] [Async Chat Thread - #5/INFO]: [Not Secure] <Kiki_gm> o
-[07:11:59] [Server thread/INFO]: AgustinEz2 issued server command: /tp Dn0611
-[07:14:40] [Server thread/INFO]: AgustinEz2 issued server command: /summon minecraft:spectral_arrow 326.46 64.41 -1588.00
-[07:14:51] [Server thread/INFO]: AgustinEz2 issued server command: /summon minecraft:spectral_arrow 326.46 64.41 -1588.00
-[07:14:55] [Server thread/INFO]: AgustinEz2 issued server command: /summon minecraft:spectral_arrow 330.00 64.75 -1586.92
-[07:14:57] [Server thread/INFO]: AgustinEz2 issued server command: /summon minecraft:spectral_arrow 330.00 64.75 -1586.92
-[07:14:58] [Server thread/INFO]: AgustinEz2 issued server command: /summon minecraft:spectral_arrow 330.00 64.75 -1586.92
-[07:14:58] [Server thread/INFO]: AgustinEz2 issued server command: /summon minecraft:spectral_arrow 330.00 64.75 -1586.92
-[07:14:58] [Server thread/INFO]: AgustinEz2 issued server command: /summon minecraft:spectral_arrow 330.00 64.75 -1586.92
-[07:14:59] [Server thread/INFO]: AgustinEz2 issued server command: /summon minecraft:spectral_arrow 330.00 64.75 -1586.92
-[07:14:59] [Server thread/INFO]: AgustinEz2 issued server command: /summon minecraft:spectral_arrow 330.00 64.75 -1586.92
-[07:14:59] [Server thread/INFO]: AgustinEz2 issued server command: /summon minecraft:spectral_arrow 330.00 64.75 -1586.92
-[07:15:01] [Server thread/INFO]: AgustinEz2 issued server command: /summon minecraft:spectral_arrow 330.00 64.75 -1586.92
-[07:15:07] [Server thread/INFO]: AgustinEz2 issued server command: /summon minecraft:spectral_arrow 330.00 64.75 -1586.92
-[07:15:08] [Server thread/INFO]: AgustinEz2 issued server command: /summon minecraft:spectral_arrow 330.00 64.75 -1586.92
-[07:15:08] [Server thread/INFO]: AgustinEz2 issued server command: /summon minecraft:spectral_arrow 330.00 64.75 -1586.92
-[07:15:09] [Server thread/INFO]: AgustinEz2 issued server command: /summon minecraft:spectral_arrow 330.00 64.75 -1586.92
-[07:15:09] [Server thread/INFO]: AgustinEz2 issued server command: /summon minecraft:spectral_arrow 330.00 64.75 -1586.92
-[07:15:10] [Server thread/INFO]: AgustinEz2 issued server command: /summon minecraft:spectral_arrow 330.00 64.75 -1586.92
-[07:15:11] [Server thread/INFO]: AgustinEz2 issued server command: /summon minecraft:spectral_arrow 326.46 64.41 -1588.00t
-[07:15:13] [Server thread/INFO]: AgustinEz2 issued server command: /summon minecraft:spectral_arrow 326.46 64.41 -1588.00
-[07:15:13] [Server thread/INFO]: AgustinEz2 issued server command: /summon minecraft:spectral_arrow 326.46 64.41 -1588.00
-[07:15:32] [Server thread/INFO]: AgustinEz2 issued server command: /summon minecraft:spectral_arrow 346.59 57.29 -1589.00
-[07:15:33] [Server thread/INFO]: AgustinEz2 issued server command: /summon minecraft:spectral_arrow 346.59 57.29 -1589.00
-[07:15:33] [Server thread/INFO]: AgustinEz2 issued server command: /summon minecraft:spectral_arrow 346.59 57.29 -1589.00
-[07:15:34] [Server thread/INFO]: AgustinEz2 issued server command: /summon minecraft:spectral_arrow 346.59 57.29 -1589.00
-[07:15:35] [Server thread/INFO]: AgustinEz2 issued server command: /summon minecraft:spectral_arrow 346.59 57.29 -1589.00
-[07:15:35] [Server thread/INFO]: AgustinEz2 issued server command: /summon minecraft:spectral_arrow 346.59 57.29 -1589.00
-[07:15:36] [Server thread/INFO]: AgustinEz2 issued server command: /summon minecraft:spectral_arrow 346.59 57.29 -1589.00
-[07:15:37] [Server thread/INFO]: AgustinEz2 issued server command: /summon minecraft:spectral_arrow 346.59 57.29 -1589.00
-[07:15:37] [Server thread/INFO]: AgustinEz2 issued server command: /summon minecraft:spectral_arrow 346.59 57.29 -1589.00
-[07:15:38] [Server thread/INFO]: AgustinEz2 issued server command: /summon minecraft:spectral_arrow 346.59 57.29 -1589.00
-[07:15:38] [Server thread/INFO]: AgustinEz2 issued server command: /summon minecraft:spectral_arrow 346.59 57.29 -1589.00
-[07:15:39] [Server thread/INFO]: AgustinEz2 issued server command: /summon minecraft:spectral_arrow 346.59 57.29 -1589.00
-[07:15:39] [Server thread/INFO]: AgustinEz2 issued server command: /summon minecraft:spectral_arrow 346.59 57.29 -1589.00
-[07:15:39] [Server thread/INFO]: AgustinEz2 issued server command: /summon minecraft:spectral_arrow 346.59 57.29 -1589.00
-[07:15:40] [Server thread/INFO]: AgustinEz2 issued server command: /summon minecraft:spectral_arrow 346.59 57.29 -1589.00
-[07:16:24] [Server thread/INFO]: AgustinEz2 issued server command: /summon minecraft:spectral_arrow 346.59 57.29 -1589.00
-[07:16:38] [Server thread/INFO]: AgustinEz2 issued server command: /summon minecraft:spectral_arrow 346.59 57.29 -159
-[07:16:39] [Server thread/INFO]: AgustinEz2 issued server command: /summon minecraft:spectral_arrow 346.59 57.29 -159
-[07:16:40] [Server thread/INFO]: AgustinEz2 issued server command: /summon minecraft:spectral_arrow 346.59 57.29 -159
-[07:16:40] [Server thread/INFO]: AgustinEz2 issued server command: /summon minecraft:spectral_arrow 346.59 57.29 -159
-[07:16:41] [Server thread/INFO]: AgustinEz2 issued server command: /summon minecraft:spectral_arrow 346.59 57.29 -159
-[07:16:41] [Server thread/INFO]: AgustinEz2 issued server command: /summon minecraft:spectral_arrow 346.59 57.29 -159
-[07:19:22] [Server thread/INFO]: Kiki_gm was slain by Dn0611
-[07:19:26] [Server thread/INFO]: [AngelChest] Dn0611 opened the AngelChest of Kiki_gm at Location{world=CraftWorld{name=world},x=352.0,y=63.0,z=-1583.0,pitch=0.0,yaw=0.0}
-[07:19:32] [Server thread/INFO]: [AngelChest] Dn0611 opened the AngelChest of Kiki_gm at Location{world=CraftWorld{name=world},x=352.0,y=63.0,z=-1583.0,pitch=0.0,yaw=0.0}
-[07:20:46] [Server thread/INFO]: Kiki_gm lost connection: Disconnected
-[07:20:46] [Server thread/INFO]: Kiki_gm left the game
-[07:20:48] [Server thread/INFO]: AgustinEz2 issued server command: /effect give AgustinEz2 minecraft:glowing infinite
-[07:20:59] [Server thread/INFO]: AgustinEz2 issued server command: /effect give Dn0611 minecraft:glowing infinite
-[07:21:59] [Server thread/INFO]: AgustinEz2 issued server command: /give AgustinEz2 tote
-[07:22:01] [Server thread/INFO]: AgustinEz2 issued server command: /give AgustinEz2 minecraft:totem_of_undying
-[07:22:13] [Server thread/INFO]: AgustinEz2 issued server command: /effect give Dn0611 minecraft:glowing infinite
-[07:22:18] [Server thread/INFO]: Dn0611 lost connection: Disconnected
-[07:22:18] [Server thread/INFO]: Dn0611 left the game
-[07:22:25] [User Authenticator #8/INFO]: UUID of player Dn0611 is 14e355e1-c92f-339c-9033-9b3d73984935
-[07:22:26] [Server thread/INFO]: Dn0611 joined the game
-[07:22:26] [Server thread/INFO]: Dn0611[/127.205.78.168:47681] logged in with entity id 20408 at ([world]330.9849597350937, 64.0, -1549.1736083413914)
-[07:22:44] [Server thread/INFO]: Dn0611 lost connection: Disconnected
-[07:22:44] [Server thread/INFO]: Dn0611 left the game
-[07:22:58] [Server thread/INFO]: AgustinEz2 lost connection: Disconnected
-[07:22:58] [Server thread/INFO]: AgustinEz2 left the game
+[17:21:08] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[17:21:10] [ServerMain/INFO]: Loaded 1290 recipes
+[17:21:11] [ServerMain/INFO]: Loaded 1399 advancements
+[17:21:11] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[17:21:11] [Server thread/INFO]: Loading properties
+[17:21:11] [Server thread/INFO]: This server is running Paper version 1.21.1-57-master@b483da4 (2024-09-01T18:09:05Z) (Implementing API version 1.21.1-R0.1-SNAPSHOT)
+[17:21:12] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[17:21:12] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[17:21:12] [Server thread/INFO]: Using 4 threads for Netty based IO
+[17:21:13] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
+[17:21:13] [Server thread/INFO]: Default game type: SURVIVAL
+[17:21:13] [Server thread/INFO]: Generating keypair
+[17:21:13] [Server thread/INFO]: Starting Minecraft server on *:25565
+[17:21:13] [Server thread/INFO]: Using epoll channel type
+[17:21:13] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[17:21:13] [Server thread/INFO]: Paper: Using OpenSSL 3.0.x (Linux x86_64) cipher from Velocity.
+[17:21:14] [Server thread/INFO]: [CrisTreeCapitator] Loading server plugin CrisTreeCapitator v6.4.4
+[17:21:14] [Server thread/INFO]: [Chunky] Loading server plugin Chunky v1.4.40
+[17:21:14] [Server thread/INFO]: [AngelChest] Loading server plugin AngelChest v13.9.4
+[17:21:14] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.7.5
+[17:21:14] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[17:21:14] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.7.5
+[17:21:17] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.1.
+[17:21:18] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[17:21:18] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[17:21:18] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[17:21:18] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[17:21:18] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[17:21:18] [Server thread/INFO]: Preparing level "world"
+[17:21:18] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[17:21:18] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[17:21:18] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[17:21:18] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
+[17:21:18] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[17:21:18] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[17:21:18] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[17:21:18] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.7.5
+[17:21:18] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: 9bd68f3
+[17:21:18] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
+[17:21:18] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[17:21:18] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[17:21:18] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[17:21:19] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[17:21:21] [Server thread/INFO]: Time elapsed: 1459 ms
+[17:21:21] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[17:21:21] [Server thread/INFO]: Time elapsed: 451 ms
+[17:21:21] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[17:21:21] [Server thread/INFO]: Time elapsed: 217 ms
+[17:21:21] [Server thread/INFO]: [CrisTreeCapitator] Enabling CrisTreeCapitator v6.4.4
+[17:21:21] [Server thread/INFO]: [CrisTreeCapitator] WorldGuard not found. Maybe WorldGuard or this plugin are not up to date?
+[17:21:21] [Server thread/INFO]: [CrisTreeCapitator] Logs from JSON: [OAK_LOG, OAK_LOG, OAK_LOG, OAK_LOG]
+[17:21:21] [Server thread/INFO]: [CrisTreeCapitator] Leaves from JSON: [OAK_LEAVES, OAK_LEAVES, OAK_LEAVES, OAK_LEAVES]
+[17:21:21] [Server thread/INFO]: [CrisTreeCapitator] Enabled
+[17:21:21] [Server thread/INFO]: [Chunky] Enabling Chunky v1.4.40
+[17:21:22] [Server thread/INFO]: [AngelChest] Enabling AngelChest v13.9.4
+[17:21:22] [Server thread/INFO]: [AngelChest] groups.yml does not exist, skipping custom group settings.
+[17:21:22] [Server thread/INFO]: [AngelChest] blacklist.yml does not exist, disabling item blacklist.
+[17:21:22] [Server thread/INFO]: [AngelChest] Not using premium version, disabling Graveyards feature
+[17:21:23] [Server thread/WARN]: [AngelChest] Could not add usage/description to command acopen
+[17:21:23] [Server thread/INFO]: [AngelChest] Vault not installed, disabling economy functions.
+[17:21:23] [Server thread/INFO]: [AngelChest] [ACF] Enabled Asynchronous Tab Completion Support!
+[17:21:23] [Server thread/INFO]: [AngelChest] Successfully enabled AngelChest v13.9.4 (Premium: false)
+[17:21:23] [Server thread/INFO]: [spark] Starting background profiler...
+[17:21:24] [Server thread/INFO]: Done preparing level "world" (5.475s)
+[17:21:24] [Server thread/INFO]: Running delayed init tasks
+[17:21:24] [Server thread/INFO]: Done (23.708s)! For help, type "help"
+[17:21:24] [Server thread/INFO]: Timings Reset
+[17:21:27] [Server thread/INFO]: [AngelChest] ========================================================
+[17:21:27] [Server thread/INFO]: [AngelChest] You are using the free version of AngelChest. There is
+[17:21:27] [Server thread/INFO]: [AngelChest] also a premium version available, called AngelChestPlus.
+[17:21:27] [Server thread/INFO]: [AngelChest] It includes TONS of new features and exclusive Discord
+[17:21:27] [Server thread/INFO]: [AngelChest] support. The free version will still receive bugfixes,
+[17:21:27] [Server thread/INFO]: [AngelChest] but there won't be ANY new features!
+[17:21:27] [Server thread/INFO]: [AngelChest] If you like AngelChest, you will LOVE AngelChestPlus, so
+[17:21:27] [Server thread/INFO]: [AngelChest] please consider upgrading! Thank you for using AngelChest.
+[17:21:27] [Server thread/INFO]: [AngelChest] 
+[17:21:27] [Server thread/INFO]: [AngelChest] https://www.spigotmc.org/resources/88214
+[17:21:27] [Server thread/INFO]: [AngelChest] ========================================================
+[17:22:56] [User Authenticator #0/INFO]: UUID of player AgustinEz2 is dd4c0740-061a-3a0b-832c-bdde761d88a2
+[17:22:58] [Server thread/INFO]: AgustinEz2 joined the game
+[17:22:58] [Server thread/INFO]: AgustinEz2[/127.85.175.63:50669] logged in with entity id 32 at ([world]332.30000001192093, 64.0, -1577.4055549914674)
+[17:23:20] [Server thread/INFO]: AgustinEz2 issued server command: /gamemode creative
+[17:26:52] [Server thread/INFO]: AgustinEz2 lost connection: Disconnected
+[17:26:52] [Server thread/INFO]: AgustinEz2 left the game
