@@ -127,3 +127,18 @@
 [06:19:33] [Server thread/INFO]: AgustinEz2 issued server command: /fill 346 61 -1598
 [06:19:47] [Server thread/INFO]: AgustinEz2 issued server command: /fill 346 61 -1598 357 60 -1593 minecraft:glass
 [06:27:11] [Server thread/INFO]: AgustinEz2 issued server command: /fill 346 61 -1598 357 61 -1593 minecraft:lava
+[06:33:28] [Server thread/INFO]: AgustinEz2 issued server command: /tp Kiki_gm AgustinEz2
+[06:35:04] [Server thread/INFO]: Kiki_gm has made the advancement [Voluntary Exile]
+[06:35:46] [Server thread/INFO]: AgustinEz2 lost connection: Disconnected
+[06:35:46] [Server thread/INFO]: AgustinEz2 left the game
+[06:35:53] [User Authenticator #4/INFO]: UUID of player AgustinEz2 is dd4c0740-061a-3a0b-832c-bdde761d88a2
+[06:35:54] [Server thread/INFO]: AgustinEz2 joined the game
+[06:35:54] [Server thread/INFO]: AgustinEz2[/127.85.175.63:58097] logged in with entity id 11851 at ([world]350.33133858423594, 54.0, -1589.300000011921)
+[06:37:45] [Server thread/INFO]: Villager Villager['Nitwit'/247, uuid='85cc489d-35d1-4fa8-977e-ecdbc6bf228f', l='ServerLevel[world]', x=228.56, y=70.00, z=-1607.59, cpos=[14, -101], tl=651732, v=true] died, message: 'Nitwit was shot by Pillager'
+[06:37:46] [Server thread/INFO]: Dn0611 has made the advancement [Voluntary Exile]
+[06:37:57] [Server thread/INFO]: Villager Villager['Villager'/246, uuid='e1fb5eaf-c561-48b3-9c0f-67bef9f00c3a', l='ServerLevel[world]', x=228.12, y=70.00, z=-1607.64, cpos=[14, -101], tl=651925, v=true] died, message: 'Villager was shot by Pillager'
+[06:38:59] [Server thread/INFO]: Dn0611 has reached the goal [Postmortal]
+[06:39:11] [Server thread/INFO]: AgustinEz2 was slain by Vindicator
+[06:39:16] [Server thread/INFO]: Dn0611 was slain by Vindicator
+[06:39:18] [Server thread/INFO]: AgustinEz2 issued server command: /actp 1
+[06:39:25] [Server thread/INFO]: AgustinEz2 issued server command: /tp Dn0611 AgustinEz2
