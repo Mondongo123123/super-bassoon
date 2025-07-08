@@ -253,3 +253,15 @@
 [07:20:46] [Server thread/INFO]: Kiki_gm left the game
 [07:20:48] [Server thread/INFO]: AgustinEz2 issued server command: /effect give AgustinEz2 minecraft:glowing infinite
 [07:20:59] [Server thread/INFO]: AgustinEz2 issued server command: /effect give Dn0611 minecraft:glowing infinite
+[07:21:59] [Server thread/INFO]: AgustinEz2 issued server command: /give AgustinEz2 tote
+[07:22:01] [Server thread/INFO]: AgustinEz2 issued server command: /give AgustinEz2 minecraft:totem_of_undying
+[07:22:13] [Server thread/INFO]: AgustinEz2 issued server command: /effect give Dn0611 minecraft:glowing infinite
+[07:22:18] [Server thread/INFO]: Dn0611 lost connection: Disconnected
+[07:22:18] [Server thread/INFO]: Dn0611 left the game
+[07:22:25] [User Authenticator #8/INFO]: UUID of player Dn0611 is 14e355e1-c92f-339c-9033-9b3d73984935
+[07:22:26] [Server thread/INFO]: Dn0611 joined the game
+[07:22:26] [Server thread/INFO]: Dn0611[/127.205.78.168:47681] logged in with entity id 20408 at ([world]330.9849597350937, 64.0, -1549.1736083413914)
+[07:22:44] [Server thread/INFO]: Dn0611 lost connection: Disconnected
+[07:22:44] [Server thread/INFO]: Dn0611 left the game
+[07:22:58] [Server thread/INFO]: AgustinEz2 lost connection: Disconnected
+[07:22:58] [Server thread/INFO]: AgustinEz2 left the game
