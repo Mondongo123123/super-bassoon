@@ -2287,9 +2287,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
+  "minecraft:recipes/misc/lapis_lazuli": {
     "criteria": {
-      "has_raw_gold": "2025-07-08 06:34:45 +0000"
+      "has_lapis_block": "2025-07-08 06:22:00 +0000"
     },
     "done": true
   },
@@ -2299,39 +2299,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/raw_gold_block": {
-    "criteria": {
-      "has_raw_gold": "2025-07-08 06:34:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/black_dye": {
-    "criteria": {
-      "has_ink_sac": "2025-07-08 06:38:10 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/andesite_stairs": {
     "criteria": {
       "has_andesite": "2025-07-08 06:28:45 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
-    "criteria": {
-      "has_raw_gold": "2025-07-08 06:34:45 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-07-08 06:28:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/lapis_lazuli": {
-    "criteria": {
-      "has_lapis_block": "2025-07-08 06:22:00 +0000"
     },
     "done": true
   },
@@ -2353,18 +2329,6 @@
     },
     "done": true
   },
-  "minecraft:adventure/voluntary_exile": {
-    "criteria": {
-      "voluntary_exile": "2025-07-08 06:35:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/glowstone": {
-    "criteria": {
-      "has_glowstone_dust": "2025-07-08 06:47:22 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/andesite_wall": {
     "criteria": {
       "has_andesite": "2025-07-08 06:28:45 +0000"
@@ -2383,9 +2347,45 @@
     },
     "done": true
   },
-  "minecraft:adventure/hero_of_the_village": {
+  "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
     "criteria": {
-      "hero_of_the_village": "2025-07-08 06:49:04 +0000"
+      "has_andesite": "2025-07-08 06:28:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-07-08 06:34:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_gold_block": {
+    "criteria": {
+      "has_raw_gold": "2025-07-08 06:34:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-07-08 06:34:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-07-08 06:35:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2025-07-08 06:38:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-07-08 06:47:22 +0000"
     },
     "done": true
   },
@@ -2407,9 +2407,153 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
+  "minecraft:adventure/hero_of_the_village": {
     "criteria": {
-      "has_andesite": "2025-07-08 06:28:45 +0000"
+      "hero_of_the_village": "2025-07-08 06:49:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-08 07:01:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-08 07:01:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-08 07:01:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-08 07:01:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-08 07:01:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-08 07:01:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-08 07:01:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-08 07:01:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-08 07:01:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-08 07:01:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-08 07:01:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-08 07:01:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-08 07:01:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_stairs": {
+    "criteria": {
+      "has_quartz_block": "2025-07-08 07:02:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz": {
+    "criteria": {
+      "has_quartz_block": "2025-07-08 07:02:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_slab": {
+    "criteria": {
+      "has_quartz_block": "2025-07-08 07:02:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2025-07-08 07:02:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_bricks": {
+    "criteria": {
+      "has_quartz_block": "2025-07-08 07:02:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_bricks_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-07-08 07:02:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-07-08 07:02:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_pillar_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-07-08 07:02:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_slab_from_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-07-08 07:02:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_pillar": {
+    "criteria": {
+      "has_quartz_block": "2025-07-08 07:02:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_stairs_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-07-08 07:02:55 +0000"
     },
     "done": true
   },
