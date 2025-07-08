@@ -93,3 +93,17 @@
 [05:45:46] [User Authenticator #2/INFO]: UUID of player Dn0611 is 14e355e1-c92f-339c-9033-9b3d73984935
 [05:45:48] [Server thread/INFO]: Dn0611 joined the game
 [05:45:48] [Server thread/INFO]: Dn0611[/127.205.78.168:56069] logged in with entity id 1051 at ([world]326.7018596585343, 64.0, -1573.686590606275)
+[05:51:18] [Server thread/INFO]: AgustinEz2 issued server command: /attribute AgustinEz2 minecraft:generic.luck base set 10000
+[05:51:59] [Server thread/INFO]: AgustinEz2 issued server command: /attribute AgustinEz2 minecraft:player.mining_efficiency base set 10
+[05:52:05] [Server thread/INFO]: AgustinEz2 issued server command: /attribute AgustinEz2 minecraft:player.mining_efficiency base set 100
+[05:52:13] [Server thread/INFO]: AgustinEz2 issued server command: /attribute AgustinEz2 minecraft:player.mining_efficiency base set 30
+[05:52:22] [Server thread/INFO]: AgustinEz2 issued server command: /attribute AgustinEz2 minecraft:player.mining_efficiency base set 7
+[05:52:42] [Async Chat Thread - #1/INFO]: [Not Secure] <Kiki_gm> z
+[05:52:42] [Async Chat Thread - #1/INFO]: [Not Secure] <Kiki_gm> z
+[05:52:42] [Async Chat Thread - #1/INFO]: [Not Secure] <Kiki_gm> z
+[05:52:42] [Async Chat Thread - #1/INFO]: [Not Secure] <Kiki_gm> z
+[05:52:42] [Async Chat Thread - #1/INFO]: [Not Secure] <Kiki_gm> z
+[05:52:43] [Async Chat Thread - #1/INFO]: [Not Secure] <Kiki_gm> z
+[05:52:43] [Async Chat Thread - #1/INFO]: [Not Secure] <Kiki_gm> z
+[05:52:43] [Server thread/INFO]: AgustinEz2 issued server command: /attribute AgustinEz2 minecraft:player.mining_efficiency base set 10
+[05:54:54] [Server thread/INFO]: AgustinEz2 issued server command: /attribute AgustinEz2 minecraft:player.mining_efficiency base set 101
